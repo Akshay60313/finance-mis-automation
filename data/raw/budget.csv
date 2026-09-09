@@ -1,0 +1,361 @@
+Month,Department,Account,Budget Amount,Currency Code,Version,Notes
+2025-04-01,Sales,Sales Revenue,845000,INR,Budget v1,Synthetic management budget
+2025-04-01,Sales,Purchases,485000,INR,Budget v1,Synthetic management budget
+2025-04-01,Sales,Salaries,49000,INR,Budget v1,Synthetic management budget
+2025-04-01,Sales,Marketing Expense,139000,INR,Budget v1,Synthetic management budget
+2025-04-01,Sales,Technology Expense,110000,INR,Budget v1,Synthetic management budget
+2025-04-01,Sales,Administration Expense,152000,INR,Budget v1,Synthetic management budget
+2025-04-01,Operations,Sales Revenue,594000,INR,Budget v1,Synthetic management budget
+2025-04-01,Operations,Purchases,508000,INR,Budget v1,Synthetic management budget
+2025-04-01,Operations,Salaries,55000,INR,Budget v1,Synthetic management budget
+2025-04-01,Operations,Marketing Expense,148000,INR,Budget v1,Synthetic management budget
+2025-04-01,Operations,Technology Expense,93000,INR,Budget v1,Synthetic management budget
+2025-04-01,Operations,Administration Expense,156000,INR,Budget v1,Synthetic management budget
+2025-04-01,Finance,Sales Revenue,599000,INR,Budget v1,Synthetic management budget
+2025-04-01,Finance,Purchases,540000,INR,Budget v1,Synthetic management budget
+2025-04-01,Finance,Salaries,139000,INR,Budget v1,Synthetic management budget
+2025-04-01,Finance,Marketing Expense,155000,INR,Budget v1,Synthetic management budget
+2025-04-01,Finance,Technology Expense,121000,INR,Budget v1,Synthetic management budget
+2025-04-01,Finance,Administration Expense,145000,INR,Budget v1,Synthetic management budget
+2025-04-01,Technology,Sales Revenue,921000,INR,Budget v1,Synthetic management budget
+2025-04-01,Technology,Purchases,428000,INR,Budget v1,Synthetic management budget
+2025-04-01,Technology,Salaries,36000,INR,Budget v1,Synthetic management budget
+2025-04-01,Technology,Marketing Expense,42000,INR,Budget v1,Synthetic management budget
+2025-04-01,Technology,Technology Expense,67000,INR,Budget v1,Synthetic management budget
+2025-04-01,Technology,Administration Expense,123000,INR,Budget v1,Synthetic management budget
+2025-04-01,Administration,Sales Revenue,551000,INR,Budget v1,Synthetic management budget
+2025-04-01,Administration,Purchases,512000,INR,Budget v1,Synthetic management budget
+2025-04-01,Administration,Salaries,96000,INR,Budget v1,Synthetic management budget
+2025-04-01,Administration,Marketing Expense,117000,INR,Budget v1,Synthetic management budget
+2025-04-01,Administration,Technology Expense,46000,INR,Budget v1,Synthetic management budget
+2025-04-01,Administration,Administration Expense,123000,INR,Budget v1,Synthetic management budget
+2025-05-01,Sales,Sales Revenue,614000,INR,Budget v1,Synthetic management budget
+2025-05-01,Sales,Purchases,320000,INR,Budget v1,Synthetic management budget
+2025-05-01,Sales,Salaries,134000,INR,Budget v1,Synthetic management budget
+2025-05-01,Sales,Marketing Expense,97000,INR,Budget v1,Synthetic management budget
+2025-05-01,Sales,Technology Expense,82000,INR,Budget v1,Synthetic management budget
+2025-05-01,Sales,Administration Expense,85000,INR,Budget v1,Synthetic management budget
+2025-05-01,Operations,Sales Revenue,941000,INR,Budget v1,Synthetic management budget
+2025-05-01,Operations,Purchases,543000,INR,Budget v1,Synthetic management budget
+2025-05-01,Operations,Salaries,91000,INR,Budget v1,Synthetic management budget
+2025-05-01,Operations,Marketing Expense,72000,INR,Budget v1,Synthetic management budget
+2025-05-01,Operations,Technology Expense,60000,INR,Budget v1,Synthetic management budget
+2025-05-01,Operations,Administration Expense,42000,INR,Budget v1,Synthetic management budget
+2025-05-01,Finance,Sales Revenue,803000,INR,Budget v1,Synthetic management budget
+2025-05-01,Finance,Purchases,581000,INR,Budget v1,Synthetic management budget
+2025-05-01,Finance,Salaries,71000,INR,Budget v1,Synthetic management budget
+2025-05-01,Finance,Marketing Expense,99000,INR,Budget v1,Synthetic management budget
+2025-05-01,Finance,Technology Expense,142000,INR,Budget v1,Synthetic management budget
+2025-05-01,Finance,Administration Expense,56000,INR,Budget v1,Synthetic management budget
+2025-05-01,Technology,Sales Revenue,779000,INR,Budget v1,Synthetic management budget
+2025-05-01,Technology,Purchases,534000,INR,Budget v1,Synthetic management budget
+2025-05-01,Technology,Salaries,85000,INR,Budget v1,Synthetic management budget
+2025-05-01,Technology,Marketing Expense,25000,INR,Budget v1,Synthetic management budget
+2025-05-01,Technology,Technology Expense,81000,INR,Budget v1,Synthetic management budget
+2025-05-01,Technology,Administration Expense,117000,INR,Budget v1,Synthetic management budget
+2025-05-01,Administration,Sales Revenue,924000,INR,Budget v1,Synthetic management budget
+2025-05-01,Administration,Purchases,611000,INR,Budget v1,Synthetic management budget
+2025-05-01,Administration,Salaries,144000,INR,Budget v1,Synthetic management budget
+2025-05-01,Administration,Marketing Expense,55000,INR,Budget v1,Synthetic management budget
+2025-05-01,Administration,Technology Expense,102000,INR,Budget v1,Synthetic management budget
+2025-05-01,Administration,Administration Expense,74000,INR,Budget v1,Synthetic management budget
+2025-06-01,Sales,Sales Revenue,763000,INR,Budget v1,Synthetic management budget
+2025-06-01,Sales,Purchases,363000,INR,Budget v1,Synthetic management budget
+2025-06-01,Sales,Salaries,152000,INR,Budget v1,Synthetic management budget
+2025-06-01,Sales,Marketing Expense,70000,INR,Budget v1,Synthetic management budget
+2025-06-01,Sales,Technology Expense,131000,INR,Budget v1,Synthetic management budget
+2025-06-01,Sales,Administration Expense,123000,INR,Budget v1,Synthetic management budget
+2025-06-01,Operations,Sales Revenue,721000,INR,Budget v1,Synthetic management budget
+2025-06-01,Operations,Purchases,325000,INR,Budget v1,Synthetic management budget
+2025-06-01,Operations,Salaries,64000,INR,Budget v1,Synthetic management budget
+2025-06-01,Operations,Marketing Expense,124000,INR,Budget v1,Synthetic management budget
+2025-06-01,Operations,Technology Expense,92000,INR,Budget v1,Synthetic management budget
+2025-06-01,Operations,Administration Expense,35000,INR,Budget v1,Synthetic management budget
+2025-06-01,Finance,Sales Revenue,764000,INR,Budget v1,Synthetic management budget
+2025-06-01,Finance,Purchases,393000,INR,Budget v1,Synthetic management budget
+2025-06-01,Finance,Salaries,38000,INR,Budget v1,Synthetic management budget
+2025-06-01,Finance,Marketing Expense,83000,INR,Budget v1,Synthetic management budget
+2025-06-01,Finance,Technology Expense,102000,INR,Budget v1,Synthetic management budget
+2025-06-01,Finance,Administration Expense,129000,INR,Budget v1,Synthetic management budget
+2025-06-01,Technology,Sales Revenue,845000,INR,Budget v1,Synthetic management budget
+2025-06-01,Technology,Purchases,519000,INR,Budget v1,Synthetic management budget
+2025-06-01,Technology,Salaries,159000,INR,Budget v1,Synthetic management budget
+2025-06-01,Technology,Marketing Expense,86000,INR,Budget v1,Synthetic management budget
+2025-06-01,Technology,Technology Expense,116000,INR,Budget v1,Synthetic management budget
+2025-06-01,Technology,Administration Expense,26000,INR,Budget v1,Synthetic management budget
+2025-06-01,Administration,Sales Revenue,825000,INR,Budget v1,Synthetic management budget
+2025-06-01,Administration,Purchases,510000,INR,Budget v1,Synthetic management budget
+2025-06-01,Administration,Salaries,138000,INR,Budget v1,Synthetic management budget
+2025-06-01,Administration,Marketing Expense,98000,INR,Budget v1,Synthetic management budget
+2025-06-01,Administration,Technology Expense,28000,INR,Budget v1,Synthetic management budget
+2025-06-01,Administration,Administration Expense,27000,INR,Budget v1,Synthetic management budget
+2025-07-01,Sales,Sales Revenue,927000,INR,Budget v1,Synthetic management budget
+2025-07-01,Sales,Purchases,356000,INR,Budget v1,Synthetic management budget
+2025-07-01,Sales,Salaries,154000,INR,Budget v1,Synthetic management budget
+2025-07-01,Sales,Marketing Expense,141000,INR,Budget v1,Synthetic management budget
+2025-07-01,Sales,Technology Expense,123000,INR,Budget v1,Synthetic management budget
+2025-07-01,Sales,Administration Expense,43000,INR,Budget v1,Synthetic management budget
+2025-07-01,Operations,Sales Revenue,1032000,INR,Budget v1,Synthetic management budget
+2025-07-01,Operations,Purchases,457000,INR,Budget v1,Synthetic management budget
+2025-07-01,Operations,Salaries,28000,INR,Budget v1,Synthetic management budget
+2025-07-01,Operations,Marketing Expense,67000,INR,Budget v1,Synthetic management budget
+2025-07-01,Operations,Technology Expense,70000,INR,Budget v1,Synthetic management budget
+2025-07-01,Operations,Administration Expense,153000,INR,Budget v1,Synthetic management budget
+2025-07-01,Finance,Sales Revenue,704000,INR,Budget v1,Synthetic management budget
+2025-07-01,Finance,Purchases,597000,INR,Budget v1,Synthetic management budget
+2025-07-01,Finance,Salaries,157000,INR,Budget v1,Synthetic management budget
+2025-07-01,Finance,Marketing Expense,141000,INR,Budget v1,Synthetic management budget
+2025-07-01,Finance,Technology Expense,146000,INR,Budget v1,Synthetic management budget
+2025-07-01,Finance,Administration Expense,28000,INR,Budget v1,Synthetic management budget
+2025-07-01,Technology,Sales Revenue,691000,INR,Budget v1,Synthetic management budget
+2025-07-01,Technology,Purchases,567000,INR,Budget v1,Synthetic management budget
+2025-07-01,Technology,Salaries,56000,INR,Budget v1,Synthetic management budget
+2025-07-01,Technology,Marketing Expense,64000,INR,Budget v1,Synthetic management budget
+2025-07-01,Technology,Technology Expense,34000,INR,Budget v1,Synthetic management budget
+2025-07-01,Technology,Administration Expense,153000,INR,Budget v1,Synthetic management budget
+2025-07-01,Administration,Sales Revenue,594000,INR,Budget v1,Synthetic management budget
+2025-07-01,Administration,Purchases,457000,INR,Budget v1,Synthetic management budget
+2025-07-01,Administration,Salaries,87000,INR,Budget v1,Synthetic management budget
+2025-07-01,Administration,Marketing Expense,90000,INR,Budget v1,Synthetic management budget
+2025-07-01,Administration,Technology Expense,111000,INR,Budget v1,Synthetic management budget
+2025-07-01,Administration,Administration Expense,135000,INR,Budget v1,Synthetic management budget
+2025-08-01,Sales,Sales Revenue,699000,INR,Budget v1,Synthetic management budget
+2025-08-01,Sales,Purchases,363000,INR,Budget v1,Synthetic management budget
+2025-08-01,Sales,Salaries,157000,INR,Budget v1,Synthetic management budget
+2025-08-01,Sales,Marketing Expense,105000,INR,Budget v1,Synthetic management budget
+2025-08-01,Sales,Technology Expense,152000,INR,Budget v1,Synthetic management budget
+2025-08-01,Sales,Administration Expense,88000,INR,Budget v1,Synthetic management budget
+2025-08-01,Operations,Sales Revenue,973000,INR,Budget v1,Synthetic management budget
+2025-08-01,Operations,Purchases,614000,INR,Budget v1,Synthetic management budget
+2025-08-01,Operations,Salaries,61000,INR,Budget v1,Synthetic management budget
+2025-08-01,Operations,Marketing Expense,157000,INR,Budget v1,Synthetic management budget
+2025-08-01,Operations,Technology Expense,70000,INR,Budget v1,Synthetic management budget
+2025-08-01,Operations,Administration Expense,55000,INR,Budget v1,Synthetic management budget
+2025-08-01,Finance,Sales Revenue,999000,INR,Budget v1,Synthetic management budget
+2025-08-01,Finance,Purchases,454000,INR,Budget v1,Synthetic management budget
+2025-08-01,Finance,Salaries,119000,INR,Budget v1,Synthetic management budget
+2025-08-01,Finance,Marketing Expense,36000,INR,Budget v1,Synthetic management budget
+2025-08-01,Finance,Technology Expense,139000,INR,Budget v1,Synthetic management budget
+2025-08-01,Finance,Administration Expense,56000,INR,Budget v1,Synthetic management budget
+2025-08-01,Technology,Sales Revenue,680000,INR,Budget v1,Synthetic management budget
+2025-08-01,Technology,Purchases,427000,INR,Budget v1,Synthetic management budget
+2025-08-01,Technology,Salaries,82000,INR,Budget v1,Synthetic management budget
+2025-08-01,Technology,Marketing Expense,116000,INR,Budget v1,Synthetic management budget
+2025-08-01,Technology,Technology Expense,114000,INR,Budget v1,Synthetic management budget
+2025-08-01,Technology,Administration Expense,92000,INR,Budget v1,Synthetic management budget
+2025-08-01,Administration,Sales Revenue,591000,INR,Budget v1,Synthetic management budget
+2025-08-01,Administration,Purchases,581000,INR,Budget v1,Synthetic management budget
+2025-08-01,Administration,Salaries,134000,INR,Budget v1,Synthetic management budget
+2025-08-01,Administration,Marketing Expense,84000,INR,Budget v1,Synthetic management budget
+2025-08-01,Administration,Technology Expense,113000,INR,Budget v1,Synthetic management budget
+2025-08-01,Administration,Administration Expense,80000,INR,Budget v1,Synthetic management budget
+2025-09-01,Sales,Sales Revenue,883000,INR,Budget v1,Synthetic management budget
+2025-09-01,Sales,Purchases,365000,INR,Budget v1,Synthetic management budget
+2025-09-01,Sales,Salaries,128000,INR,Budget v1,Synthetic management budget
+2025-09-01,Sales,Marketing Expense,64000,INR,Budget v1,Synthetic management budget
+2025-09-01,Sales,Technology Expense,109000,INR,Budget v1,Synthetic management budget
+2025-09-01,Sales,Administration Expense,44000,INR,Budget v1,Synthetic management budget
+2025-09-01,Operations,Sales Revenue,538000,INR,Budget v1,Synthetic management budget
+2025-09-01,Operations,Purchases,430000,INR,Budget v1,Synthetic management budget
+2025-09-01,Operations,Salaries,95000,INR,Budget v1,Synthetic management budget
+2025-09-01,Operations,Marketing Expense,148000,INR,Budget v1,Synthetic management budget
+2025-09-01,Operations,Technology Expense,39000,INR,Budget v1,Synthetic management budget
+2025-09-01,Operations,Administration Expense,137000,INR,Budget v1,Synthetic management budget
+2025-09-01,Finance,Sales Revenue,779000,INR,Budget v1,Synthetic management budget
+2025-09-01,Finance,Purchases,594000,INR,Budget v1,Synthetic management budget
+2025-09-01,Finance,Salaries,130000,INR,Budget v1,Synthetic management budget
+2025-09-01,Finance,Marketing Expense,87000,INR,Budget v1,Synthetic management budget
+2025-09-01,Finance,Technology Expense,83000,INR,Budget v1,Synthetic management budget
+2025-09-01,Finance,Administration Expense,130000,INR,Budget v1,Synthetic management budget
+2025-09-01,Technology,Sales Revenue,615000,INR,Budget v1,Synthetic management budget
+2025-09-01,Technology,Purchases,345000,INR,Budget v1,Synthetic management budget
+2025-09-01,Technology,Salaries,83000,INR,Budget v1,Synthetic management budget
+2025-09-01,Technology,Marketing Expense,123000,INR,Budget v1,Synthetic management budget
+2025-09-01,Technology,Technology Expense,134000,INR,Budget v1,Synthetic management budget
+2025-09-01,Technology,Administration Expense,105000,INR,Budget v1,Synthetic management budget
+2025-09-01,Administration,Sales Revenue,930000,INR,Budget v1,Synthetic management budget
+2025-09-01,Administration,Purchases,414000,INR,Budget v1,Synthetic management budget
+2025-09-01,Administration,Salaries,53000,INR,Budget v1,Synthetic management budget
+2025-09-01,Administration,Marketing Expense,107000,INR,Budget v1,Synthetic management budget
+2025-09-01,Administration,Technology Expense,102000,INR,Budget v1,Synthetic management budget
+2025-09-01,Administration,Administration Expense,91000,INR,Budget v1,Synthetic management budget
+2025-10-01,Sales,Sales Revenue,802000,INR,Budget v1,Synthetic management budget
+2025-10-01,Sales,Purchases,526000,INR,Budget v1,Synthetic management budget
+2025-10-01,Sales,Salaries,150000,INR,Budget v1,Synthetic management budget
+2025-10-01,Sales,Marketing Expense,76000,INR,Budget v1,Synthetic management budget
+2025-10-01,Sales,Technology Expense,38000,INR,Budget v1,Synthetic management budget
+2025-10-01,Sales,Administration Expense,127000,INR,Budget v1,Synthetic management budget
+2025-10-01,Operations,Sales Revenue,950000,INR,Budget v1,Synthetic management budget
+2025-10-01,Operations,Purchases,577000,INR,Budget v1,Synthetic management budget
+2025-10-01,Operations,Salaries,57000,INR,Budget v1,Synthetic management budget
+2025-10-01,Operations,Marketing Expense,106000,INR,Budget v1,Synthetic management budget
+2025-10-01,Operations,Technology Expense,130000,INR,Budget v1,Synthetic management budget
+2025-10-01,Operations,Administration Expense,97000,INR,Budget v1,Synthetic management budget
+2025-10-01,Finance,Sales Revenue,742000,INR,Budget v1,Synthetic management budget
+2025-10-01,Finance,Purchases,461000,INR,Budget v1,Synthetic management budget
+2025-10-01,Finance,Salaries,143000,INR,Budget v1,Synthetic management budget
+2025-10-01,Finance,Marketing Expense,66000,INR,Budget v1,Synthetic management budget
+2025-10-01,Finance,Technology Expense,88000,INR,Budget v1,Synthetic management budget
+2025-10-01,Finance,Administration Expense,132000,INR,Budget v1,Synthetic management budget
+2025-10-01,Technology,Sales Revenue,1018000,INR,Budget v1,Synthetic management budget
+2025-10-01,Technology,Purchases,393000,INR,Budget v1,Synthetic management budget
+2025-10-01,Technology,Salaries,53000,INR,Budget v1,Synthetic management budget
+2025-10-01,Technology,Marketing Expense,118000,INR,Budget v1,Synthetic management budget
+2025-10-01,Technology,Technology Expense,143000,INR,Budget v1,Synthetic management budget
+2025-10-01,Technology,Administration Expense,67000,INR,Budget v1,Synthetic management budget
+2025-10-01,Administration,Sales Revenue,923000,INR,Budget v1,Synthetic management budget
+2025-10-01,Administration,Purchases,418000,INR,Budget v1,Synthetic management budget
+2025-10-01,Administration,Salaries,75000,INR,Budget v1,Synthetic management budget
+2025-10-01,Administration,Marketing Expense,112000,INR,Budget v1,Synthetic management budget
+2025-10-01,Administration,Technology Expense,114000,INR,Budget v1,Synthetic management budget
+2025-10-01,Administration,Administration Expense,49000,INR,Budget v1,Synthetic management budget
+2025-11-01,Sales,Sales Revenue,839000,INR,Budget v1,Synthetic management budget
+2025-11-01,Sales,Purchases,355000,INR,Budget v1,Synthetic management budget
+2025-11-01,Sales,Salaries,68000,INR,Budget v1,Synthetic management budget
+2025-11-01,Sales,Marketing Expense,113000,INR,Budget v1,Synthetic management budget
+2025-11-01,Sales,Technology Expense,108000,INR,Budget v1,Synthetic management budget
+2025-11-01,Sales,Administration Expense,135000,INR,Budget v1,Synthetic management budget
+2025-11-01,Operations,Sales Revenue,645000,INR,Budget v1,Synthetic management budget
+2025-11-01,Operations,Purchases,421000,INR,Budget v1,Synthetic management budget
+2025-11-01,Operations,Salaries,66000,INR,Budget v1,Synthetic management budget
+2025-11-01,Operations,Marketing Expense,39000,INR,Budget v1,Synthetic management budget
+2025-11-01,Operations,Technology Expense,107000,INR,Budget v1,Synthetic management budget
+2025-11-01,Operations,Administration Expense,54000,INR,Budget v1,Synthetic management budget
+2025-11-01,Finance,Sales Revenue,823000,INR,Budget v1,Synthetic management budget
+2025-11-01,Finance,Purchases,298000,INR,Budget v1,Synthetic management budget
+2025-11-01,Finance,Salaries,122000,INR,Budget v1,Synthetic management budget
+2025-11-01,Finance,Marketing Expense,59000,INR,Budget v1,Synthetic management budget
+2025-11-01,Finance,Technology Expense,146000,INR,Budget v1,Synthetic management budget
+2025-11-01,Finance,Administration Expense,36000,INR,Budget v1,Synthetic management budget
+2025-11-01,Technology,Sales Revenue,643000,INR,Budget v1,Synthetic management budget
+2025-11-01,Technology,Purchases,434000,INR,Budget v1,Synthetic management budget
+2025-11-01,Technology,Salaries,156000,INR,Budget v1,Synthetic management budget
+2025-11-01,Technology,Marketing Expense,46000,INR,Budget v1,Synthetic management budget
+2025-11-01,Technology,Technology Expense,159000,INR,Budget v1,Synthetic management budget
+2025-11-01,Technology,Administration Expense,141000,INR,Budget v1,Synthetic management budget
+2025-11-01,Administration,Sales Revenue,1034000,INR,Budget v1,Synthetic management budget
+2025-11-01,Administration,Purchases,601000,INR,Budget v1,Synthetic management budget
+2025-11-01,Administration,Salaries,142000,INR,Budget v1,Synthetic management budget
+2025-11-01,Administration,Marketing Expense,72000,INR,Budget v1,Synthetic management budget
+2025-11-01,Administration,Technology Expense,37000,INR,Budget v1,Synthetic management budget
+2025-11-01,Administration,Administration Expense,88000,INR,Budget v1,Synthetic management budget
+2025-12-01,Sales,Sales Revenue,762000,INR,Budget v1,Synthetic management budget
+2025-12-01,Sales,Purchases,401000,INR,Budget v1,Synthetic management budget
+2025-12-01,Sales,Salaries,55000,INR,Budget v1,Synthetic management budget
+2025-12-01,Sales,Marketing Expense,28000,INR,Budget v1,Synthetic management budget
+2025-12-01,Sales,Technology Expense,143000,INR,Budget v1,Synthetic management budget
+2025-12-01,Sales,Administration Expense,74000,INR,Budget v1,Synthetic management budget
+2025-12-01,Operations,Sales Revenue,760000,INR,Budget v1,Synthetic management budget
+2025-12-01,Operations,Purchases,361000,INR,Budget v1,Synthetic management budget
+2025-12-01,Operations,Salaries,48000,INR,Budget v1,Synthetic management budget
+2025-12-01,Operations,Marketing Expense,62000,INR,Budget v1,Synthetic management budget
+2025-12-01,Operations,Technology Expense,88000,INR,Budget v1,Synthetic management budget
+2025-12-01,Operations,Administration Expense,91000,INR,Budget v1,Synthetic management budget
+2025-12-01,Finance,Sales Revenue,830000,INR,Budget v1,Synthetic management budget
+2025-12-01,Finance,Purchases,284000,INR,Budget v1,Synthetic management budget
+2025-12-01,Finance,Salaries,135000,INR,Budget v1,Synthetic management budget
+2025-12-01,Finance,Marketing Expense,57000,INR,Budget v1,Synthetic management budget
+2025-12-01,Finance,Technology Expense,149000,INR,Budget v1,Synthetic management budget
+2025-12-01,Finance,Administration Expense,139000,INR,Budget v1,Synthetic management budget
+2025-12-01,Technology,Sales Revenue,592000,INR,Budget v1,Synthetic management budget
+2025-12-01,Technology,Purchases,557000,INR,Budget v1,Synthetic management budget
+2025-12-01,Technology,Salaries,55000,INR,Budget v1,Synthetic management budget
+2025-12-01,Technology,Marketing Expense,71000,INR,Budget v1,Synthetic management budget
+2025-12-01,Technology,Technology Expense,112000,INR,Budget v1,Synthetic management budget
+2025-12-01,Technology,Administration Expense,123000,INR,Budget v1,Synthetic management budget
+2025-12-01,Administration,Sales Revenue,895000,INR,Budget v1,Synthetic management budget
+2025-12-01,Administration,Purchases,298000,INR,Budget v1,Synthetic management budget
+2025-12-01,Administration,Salaries,115000,INR,Budget v1,Synthetic management budget
+2025-12-01,Administration,Marketing Expense,117000,INR,Budget v1,Synthetic management budget
+2025-12-01,Administration,Technology Expense,146000,INR,Budget v1,Synthetic management budget
+2025-12-01,Administration,Administration Expense,43000,INR,Budget v1,Synthetic management budget
+2026-01-01,Sales,Sales Revenue,765000,INR,Budget v1,Synthetic management budget
+2026-01-01,Sales,Purchases,515000,INR,Budget v1,Synthetic management budget
+2026-01-01,Sales,Salaries,44000,INR,Budget v1,Synthetic management budget
+2026-01-01,Sales,Marketing Expense,105000,INR,Budget v1,Synthetic management budget
+2026-01-01,Sales,Technology Expense,137000,INR,Budget v1,Synthetic management budget
+2026-01-01,Sales,Administration Expense,41000,INR,Budget v1,Synthetic management budget
+2026-01-01,Operations,Sales Revenue,1001000,INR,Budget v1,Synthetic management budget
+2026-01-01,Operations,Purchases,615000,INR,Budget v1,Synthetic management budget
+2026-01-01,Operations,Salaries,103000,INR,Budget v1,Synthetic management budget
+2026-01-01,Operations,Marketing Expense,83000,INR,Budget v1,Synthetic management budget
+2026-01-01,Operations,Technology Expense,125000,INR,Budget v1,Synthetic management budget
+2026-01-01,Operations,Administration Expense,97000,INR,Budget v1,Synthetic management budget
+2026-01-01,Finance,Sales Revenue,675000,INR,Budget v1,Synthetic management budget
+2026-01-01,Finance,Purchases,284000,INR,Budget v1,Synthetic management budget
+2026-01-01,Finance,Salaries,148000,INR,Budget v1,Synthetic management budget
+2026-01-01,Finance,Marketing Expense,47000,INR,Budget v1,Synthetic management budget
+2026-01-01,Finance,Technology Expense,51000,INR,Budget v1,Synthetic management budget
+2026-01-01,Finance,Administration Expense,84000,INR,Budget v1,Synthetic management budget
+2026-01-01,Technology,Sales Revenue,786000,INR,Budget v1,Synthetic management budget
+2026-01-01,Technology,Purchases,574000,INR,Budget v1,Synthetic management budget
+2026-01-01,Technology,Salaries,86000,INR,Budget v1,Synthetic management budget
+2026-01-01,Technology,Marketing Expense,142000,INR,Budget v1,Synthetic management budget
+2026-01-01,Technology,Technology Expense,47000,INR,Budget v1,Synthetic management budget
+2026-01-01,Technology,Administration Expense,67000,INR,Budget v1,Synthetic management budget
+2026-01-01,Administration,Sales Revenue,779000,INR,Budget v1,Synthetic management budget
+2026-01-01,Administration,Purchases,483000,INR,Budget v1,Synthetic management budget
+2026-01-01,Administration,Salaries,103000,INR,Budget v1,Synthetic management budget
+2026-01-01,Administration,Marketing Expense,136000,INR,Budget v1,Synthetic management budget
+2026-01-01,Administration,Technology Expense,101000,INR,Budget v1,Synthetic management budget
+2026-01-01,Administration,Administration Expense,148000,INR,Budget v1,Synthetic management budget
+2026-02-01,Sales,Sales Revenue,1016000,INR,Budget v1,Synthetic management budget
+2026-02-01,Sales,Purchases,588000,INR,Budget v1,Synthetic management budget
+2026-02-01,Sales,Salaries,158000,INR,Budget v1,Synthetic management budget
+2026-02-01,Sales,Marketing Expense,119000,INR,Budget v1,Synthetic management budget
+2026-02-01,Sales,Technology Expense,115000,INR,Budget v1,Synthetic management budget
+2026-02-01,Sales,Administration Expense,33000,INR,Budget v1,Synthetic management budget
+2026-02-01,Operations,Sales Revenue,1040000,INR,Budget v1,Synthetic management budget
+2026-02-01,Operations,Purchases,460000,INR,Budget v1,Synthetic management budget
+2026-02-01,Operations,Salaries,144000,INR,Budget v1,Synthetic management budget
+2026-02-01,Operations,Marketing Expense,105000,INR,Budget v1,Synthetic management budget
+2026-02-01,Operations,Technology Expense,78000,INR,Budget v1,Synthetic management budget
+2026-02-01,Operations,Administration Expense,56000,INR,Budget v1,Synthetic management budget
+2026-02-01,Finance,Sales Revenue,998000,INR,Budget v1,Synthetic management budget
+2026-02-01,Finance,Purchases,482000,INR,Budget v1,Synthetic management budget
+2026-02-01,Finance,Salaries,97000,INR,Budget v1,Synthetic management budget
+2026-02-01,Finance,Marketing Expense,158000,INR,Budget v1,Synthetic management budget
+2026-02-01,Finance,Technology Expense,91000,INR,Budget v1,Synthetic management budget
+2026-02-01,Finance,Administration Expense,66000,INR,Budget v1,Synthetic management budget
+2026-02-01,Technology,Sales Revenue,701000,INR,Budget v1,Synthetic management budget
+2026-02-01,Technology,Purchases,477000,INR,Budget v1,Synthetic management budget
+2026-02-01,Technology,Salaries,99000,INR,Budget v1,Synthetic management budget
+2026-02-01,Technology,Marketing Expense,104000,INR,Budget v1,Synthetic management budget
+2026-02-01,Technology,Technology Expense,109000,INR,Budget v1,Synthetic management budget
+2026-02-01,Technology,Administration Expense,85000,INR,Budget v1,Synthetic management budget
+2026-02-01,Administration,Sales Revenue,872000,INR,Budget v1,Synthetic management budget
+2026-02-01,Administration,Purchases,337000,INR,Budget v1,Synthetic management budget
+2026-02-01,Administration,Salaries,89000,INR,Budget v1,Synthetic management budget
+2026-02-01,Administration,Marketing Expense,80000,INR,Budget v1,Synthetic management budget
+2026-02-01,Administration,Technology Expense,128000,INR,Budget v1,Synthetic management budget
+2026-02-01,Administration,Administration Expense,149000,INR,Budget v1,Synthetic management budget
+2026-03-01,Sales,Sales Revenue,989000,INR,Budget v1,Synthetic management budget
+2026-03-01,Sales,Purchases,405000,INR,Budget v1,Synthetic management budget
+2026-03-01,Sales,Salaries,69000,INR,Budget v1,Synthetic management budget
+2026-03-01,Sales,Marketing Expense,62000,INR,Budget v1,Synthetic management budget
+2026-03-01,Sales,Technology Expense,150000,INR,Budget v1,Synthetic management budget
+2026-03-01,Sales,Administration Expense,85000,INR,Budget v1,Synthetic management budget
+2026-03-01,Operations,Sales Revenue,800000,INR,Budget v1,Synthetic management budget
+2026-03-01,Operations,Purchases,490000,INR,Budget v1,Synthetic management budget
+2026-03-01,Operations,Salaries,78000,INR,Budget v1,Synthetic management budget
+2026-03-01,Operations,Marketing Expense,42000,INR,Budget v1,Synthetic management budget
+2026-03-01,Operations,Technology Expense,159000,INR,Budget v1,Synthetic management budget
+2026-03-01,Operations,Administration Expense,56000,INR,Budget v1,Synthetic management budget
+2026-03-01,Finance,Sales Revenue,940000,INR,Budget v1,Synthetic management budget
+2026-03-01,Finance,Purchases,474000,INR,Budget v1,Synthetic management budget
+2026-03-01,Finance,Salaries,110000,INR,Budget v1,Synthetic management budget
+2026-03-01,Finance,Marketing Expense,32000,INR,Budget v1,Synthetic management budget
+2026-03-01,Finance,Technology Expense,80000,INR,Budget v1,Synthetic management budget
+2026-03-01,Finance,Administration Expense,29000,INR,Budget v1,Synthetic management budget
+2026-03-01,Technology,Sales Revenue,811000,INR,Budget v1,Synthetic management budget
+2026-03-01,Technology,Purchases,455000,INR,Budget v1,Synthetic management budget
+2026-03-01,Technology,Salaries,140000,INR,Budget v1,Synthetic management budget
+2026-03-01,Technology,Marketing Expense,48000,INR,Budget v1,Synthetic management budget
+2026-03-01,Technology,Technology Expense,94000,INR,Budget v1,Synthetic management budget
+2026-03-01,Technology,Administration Expense,156000,INR,Budget v1,Synthetic management budget
+2026-03-01,Administration,Sales Revenue,891000,INR,Budget v1,Synthetic management budget
+2026-03-01,Administration,Purchases,480000,INR,Budget v1,Synthetic management budget
+2026-03-01,Administration,Salaries,39000,INR,Budget v1,Synthetic management budget
+2026-03-01,Administration,Marketing Expense,116000,INR,Budget v1,Synthetic management budget
+2026-03-01,Administration,Technology Expense,140000,INR,Budget v1,Synthetic management budget
+2026-03-01,Administration,Administration Expense,142000,INR,Budget v1,Synthetic management budget

@@ -1,0 +1,103 @@
+Payment ID,Payment Number,Payment Date,Customer ID,Customer Name,Invoice ID,Invoice Number,Amount Applied,Currency Code,Payment Mode,Reference Number,Deposit To,Unused Amount,Branch,Notes
+ZCP-5001,PAY-5001,2025-06-06,CUST-005,Eastline Traders,ZI-1001,INV-1001,78327.1,INR,Bank Transfer,UTR20983935,HDFC Bank Current A/c,0,Kolkata,Payment applied to invoice
+ZCP-5002,PAY-5002,2025-06-18,CUST-003,City Bazaar Pvt Ltd,ZI-1002,INV-1002,28008.48,INR,Bank Transfer,UTR47512512,ICICI Bank Current A/c,0,Ahmedabad,Payment applied to invoice
+ZCP-5003,PAY-5003,2025-05-10,CUST-007,Grand Retailers,ZI-1003,INV-1003,106511.52,INR,Cheque,UTR52449542,ICICI Bank Current A/c,0,Bengaluru,Payment applied to invoice
+ZCP-5004,PAY-5004,2025-04-24,CUST-008,Harbor Mart,ZI-1004,INV-1004,104936.22,INR,Bank Transfer,UTR59504894,ICICI Bank Current A/c,0,Kolkata,Payment applied to invoice
+ZCP-5005,PAY-5005,2025-06-03,CUST-004,Delta Stores Limited,ZI-1005,INV-1005,332229,INR,Cheque,UTR58726330,HDFC Bank Current A/c,0,Kolkata,Payment applied to invoice
+ZCP-5006,PAY-5006,2025-05-25,CUST-007,Grand Retailers,ZI-1006,INV-1006,105197,INR,UPI,UTR12124499,HDFC Bank Current A/c,0,Delhi,Payment applied to invoice
+ZCP-5007,PAY-5007,2025-05-18,CUST-005,Eastline Traders,ZI-1007,INV-1007,53118.41,INR,UPI,UTR39297943,ICICI Bank Current A/c,0,Bengaluru,Payment applied to invoice
+ZCP-5008,PAY-5008,2025-05-23,CUST-005,Eastline Traders,ZI-1008,INV-1008,65736.38,INR,Cheque,UTR63058093,ICICI Bank Current A/c,0,Delhi,Payment applied to invoice
+ZCP-5009,PAY-5009,2025-05-28,CUST-004,Delta Stores Limited,ZI-1009,INV-1009,150945.6,INR,Cheque,UTR85054273,HDFC Bank Current A/c,0,Ahmedabad,Payment applied to invoice
+ZCP-5010,PAY-5010,2025-05-01,CUST-008,Harbor Mart,ZI-1010,INV-1010,162495.68,INR,UPI,UTR11398694,ICICI Bank Current A/c,0,Kolkata,Payment applied to invoice
+ZCP-5011,PAY-5011,2025-07-06,CUST-008,Harbor Mart,ZI-1011,INV-1011,42557.88,INR,UPI,UTR18291462,ICICI Bank Current A/c,0,Bengaluru,Payment applied to invoice
+ZCP-5012,PAY-5012,2025-06-03,CUST-009,Indus Stores,ZI-1012,INV-1012,83260.8,INR,Bank Transfer,UTR17645571,ICICI Bank Current A/c,0,Bengaluru,Payment applied to invoice
+ZCP-5013,PAY-5013,2025-06-21,CUST-008,Harbor Mart,ZI-1013,INV-1013,125380.9,INR,Bank Transfer,UTR22711904,HDFC Bank Current A/c,0,Ahmedabad,Payment applied to invoice
+ZCP-5014,PAY-5014,2025-06-05,CUST-002,BlueMart Limited,ZI-1014,INV-1014,168890.57,INR,Bank Transfer,UTR63704239,HDFC Bank Current A/c,0,Kolkata,Payment applied to invoice
+ZCP-5015,PAY-5015,2025-05-22,CUST-006,FreshCart Retail,ZI-1015,INV-1015,145186.02,INR,Bank Transfer,UTR13424241,ICICI Bank Current A/c,0,Mumbai,Payment applied to invoice
+ZCP-5016,PAY-5016,2025-07-03,CUST-005,Eastline Traders,ZI-1017,INV-1017,83119.2,INR,Cheque,UTR73775148,ICICI Bank Current A/c,0,Bengaluru,Payment applied to invoice
+ZCP-5017,PAY-5017,2025-06-05,CUST-003,City Bazaar Pvt Ltd,ZI-1018,INV-1018,185249.38,INR,UPI,UTR39988457,HDFC Bank Current A/c,0,Kolkata,Payment applied to invoice
+ZCP-5018,PAY-5018,2025-05-21,CUST-007,Grand Retailers,ZI-1019,INV-1019,134455.1,INR,Bank Transfer,UTR87790809,ICICI Bank Current A/c,0,Ahmedabad,Payment applied to invoice
+ZCP-5019,PAY-5019,2025-07-05,CUST-008,Harbor Mart,ZI-1020,INV-1020,258405.84,INR,Cheque,UTR57623641,HDFC Bank Current A/c,0,Bengaluru,Payment applied to invoice
+ZCP-5020,PAY-5020,2025-06-12,CUST-010,Jupiter Wholesale,ZI-1021,INV-1021,183696.5,INR,Bank Transfer,UTR70211593,ICICI Bank Current A/c,0,Bengaluru,Payment applied to invoice
+ZCP-5021,PAY-5021,2025-06-24,CUST-010,Jupiter Wholesale,ZI-1022,INV-1022,284051.96,INR,Bank Transfer,UTR14687508,HDFC Bank Current A/c,0,Delhi,Payment applied to invoice
+ZCP-5022,PAY-5022,2025-07-16,CUST-009,Indus Stores,ZI-1023,INV-1023,87744.8,INR,UPI,UTR26717431,HDFC Bank Current A/c,0,Kolkata,Payment applied to invoice
+ZCP-5023,PAY-5023,2025-06-29,CUST-010,Jupiter Wholesale,ZI-1024,INV-1024,78672.96,INR,Bank Transfer,UTR66625613,HDFC Bank Current A/c,0,Ahmedabad,Payment applied to invoice
+ZCP-5024,PAY-5024,2025-08-06,CUST-003,City Bazaar Pvt Ltd,ZI-1025,INV-1025,262547.64,INR,Bank Transfer,UTR37519506,ICICI Bank Current A/c,0,Mumbai,Payment applied to invoice
+ZCP-5025,PAY-5025,2025-06-29,CUST-010,Jupiter Wholesale,ZI-1027,INV-1027,152054.8,INR,Bank Transfer,UTR28128612,ICICI Bank Current A/c,0,Kolkata,Payment applied to invoice
+ZCP-5026,PAY-5026,2025-07-09,CUST-002,BlueMart Limited,ZI-1028,INV-1028,86653.18,INR,UPI,UTR50750216,HDFC Bank Current A/c,0,Mumbai,Payment applied to invoice
+ZCP-5027,PAY-5027,2025-08-14,CUST-006,FreshCart Retail,ZI-1029,INV-1029,85356.48,INR,Cheque,UTR22204906,ICICI Bank Current A/c,0,Mumbai,Payment applied to invoice
+ZCP-5028,PAY-5028,2025-08-25,CUST-007,Grand Retailers,ZI-1031,INV-1031,52291.58,INR,Cheque,UTR86899044,ICICI Bank Current A/c,0,Bengaluru,Payment applied to invoice
+ZCP-5029,PAY-5029,2025-08-26,CUST-006,FreshCart Retail,ZI-1032,INV-1032,210349.16,INR,UPI,UTR35990491,HDFC Bank Current A/c,0,Delhi,Payment applied to invoice
+ZCP-5030,PAY-5030,2025-08-31,CUST-002,BlueMart Limited,ZI-1034,INV-1034,233950.34,INR,Cheque,UTR66558783,HDFC Bank Current A/c,0,Delhi,Payment applied to invoice
+ZCP-5031,PAY-5031,2025-07-21,CUST-002,BlueMart Limited,ZI-1035,INV-1035,163441.8,INR,UPI,UTR20834780,HDFC Bank Current A/c,0,Kolkata,Payment applied to invoice
+ZCP-5032,PAY-5032,2025-09-04,CUST-010,Jupiter Wholesale,ZI-1036,INV-1036,164018.82,INR,Bank Transfer,UTR69509793,HDFC Bank Current A/c,0,Bengaluru,Payment applied to invoice
+ZCP-5033,PAY-5033,2025-08-17,CUST-006,FreshCart Retail,ZI-1037,INV-1037,226989.52,INR,Bank Transfer,UTR29025625,ICICI Bank Current A/c,0,Ahmedabad,Payment applied to invoice
+ZCP-5034,PAY-5034,2025-08-16,CUST-010,Jupiter Wholesale,ZI-1038,INV-1038,141038.32,INR,UPI,UTR74505719,ICICI Bank Current A/c,0,Delhi,Payment applied to invoice
+ZCP-5035,PAY-5035,2025-07-08,CUST-002,BlueMart Limited,ZI-1039,INV-1039,30569.67,INR,Bank Transfer,UTR25380160,HDFC Bank Current A/c,0,Bengaluru,Payment applied to invoice
+ZCP-5036,PAY-5036,2025-09-11,CUST-004,Delta Stores Limited,ZI-1041,INV-1041,172008.6,INR,Cheque,UTR92801307,HDFC Bank Current A/c,0,Kolkata,Payment applied to invoice
+ZCP-5037,PAY-5037,2025-08-26,CUST-002,BlueMart Limited,ZI-1042,INV-1042,174936.89,INR,Cheque,UTR48654847,ICICI Bank Current A/c,0,Delhi,Payment applied to invoice
+ZCP-5038,PAY-5038,2025-08-19,CUST-006,FreshCart Retail,ZI-1043,INV-1043,81692.23,INR,Cheque,UTR80840128,ICICI Bank Current A/c,0,Delhi,Payment applied to invoice
+ZCP-5039,PAY-5039,2025-09-04,CUST-004,Delta Stores Limited,ZI-1044,INV-1044,54877.08,INR,UPI,UTR24854741,ICICI Bank Current A/c,0,Bengaluru,Payment applied to invoice
+ZCP-5040,PAY-5040,2025-09-25,CUST-009,Indus Stores,ZI-1045,INV-1045,69993.47,INR,Cheque,UTR17573226,ICICI Bank Current A/c,0,Mumbai,Payment applied to invoice
+ZCP-5041,PAY-5041,2025-09-24,CUST-001,Apex Retail Pvt Ltd,ZI-1047,INV-1047,74511.1,INR,UPI,UTR49588806,HDFC Bank Current A/c,0,Kolkata,Payment applied to invoice
+ZCP-5042,PAY-5042,2025-09-03,CUST-003,City Bazaar Pvt Ltd,ZI-1048,INV-1048,159459.3,INR,UPI,UTR25856662,ICICI Bank Current A/c,0,Delhi,Payment applied to invoice
+ZCP-5043,PAY-5043,2025-10-10,CUST-006,FreshCart Retail,ZI-1050,INV-1050,71844.3,INR,UPI,UTR55882834,ICICI Bank Current A/c,0,Ahmedabad,Payment applied to invoice
+ZCP-5044,PAY-5044,2025-10-20,CUST-009,Indus Stores,ZI-1051,INV-1051,172138.4,INR,Cheque,UTR52348716,ICICI Bank Current A/c,0,Mumbai,Payment applied to invoice
+ZCP-5045,PAY-5045,2025-10-01,CUST-007,Grand Retailers,ZI-1052,INV-1052,85564.16,INR,Cheque,UTR29617986,HDFC Bank Current A/c,0,Ahmedabad,Payment applied to invoice
+ZCP-5046,PAY-5046,2025-10-18,CUST-002,BlueMart Limited,ZI-1055,INV-1055,137199.78,INR,Bank Transfer,UTR36350256,ICICI Bank Current A/c,0,Bengaluru,Payment applied to invoice
+ZCP-5047,PAY-5047,2025-11-04,CUST-006,FreshCart Retail,ZI-1056,INV-1056,77775.33,INR,Cheque,UTR33429687,ICICI Bank Current A/c,0,Mumbai,Payment applied to invoice
+ZCP-5048,PAY-5048,2025-11-12,CUST-007,Grand Retailers,ZI-1057,INV-1057,69620,INR,Bank Transfer,UTR27406616,ICICI Bank Current A/c,0,Kolkata,Payment applied to invoice
+ZCP-5049,PAY-5049,2025-10-16,CUST-009,Indus Stores,ZI-1058,INV-1058,208837.58,INR,Cheque,UTR54323068,HDFC Bank Current A/c,0,Delhi,Payment applied to invoice
+ZCP-5050,PAY-5050,2025-09-30,CUST-010,Jupiter Wholesale,ZI-1059,INV-1059,339528.48,INR,Cheque,UTR33941768,ICICI Bank Current A/c,0,Kolkata,Payment applied to invoice
+ZCP-5051,PAY-5051,2025-12-11,CUST-007,Grand Retailers,ZI-1061,INV-1061,252807.92,INR,Cheque,UTR91736025,HDFC Bank Current A/c,0,Kolkata,Payment applied to invoice
+ZCP-5052,PAY-5052,2025-11-16,CUST-009,Indus Stores,ZI-1062,INV-1062,100682.32,INR,UPI,UTR57169918,ICICI Bank Current A/c,0,Bengaluru,Payment applied to invoice
+ZCP-5053,PAY-5053,2025-12-12,CUST-001,Apex Retail Pvt Ltd,ZI-1063,INV-1063,70696.51,INR,Cheque,UTR97301078,HDFC Bank Current A/c,0,Bengaluru,Payment applied to invoice
+ZCP-5054,PAY-5054,2025-12-06,CUST-007,Grand Retailers,ZI-1064,INV-1064,193698.18,INR,Cheque,UTR35569601,ICICI Bank Current A/c,0,Bengaluru,Payment applied to invoice
+ZCP-5055,PAY-5055,2025-11-28,CUST-002,BlueMart Limited,ZI-1065,INV-1065,123928.32,INR,UPI,UTR18237845,ICICI Bank Current A/c,0,Ahmedabad,Payment applied to invoice
+ZCP-5056,PAY-5056,2025-11-22,CUST-009,Indus Stores,ZI-1068,INV-1068,123681.7,INR,UPI,UTR71866582,HDFC Bank Current A/c,0,Bengaluru,Payment applied to invoice
+ZCP-5057,PAY-5057,2025-10-30,CUST-005,Eastline Traders,ZI-1069,INV-1069,206807.27,INR,Bank Transfer,UTR88994322,HDFC Bank Current A/c,0,Bengaluru,Payment applied to invoice
+ZCP-5058,PAY-5058,2025-11-25,CUST-009,Indus Stores,ZI-1070,INV-1070,214790.68,INR,UPI,UTR80560674,HDFC Bank Current A/c,0,Mumbai,Payment applied to invoice
+ZCP-5059,PAY-5059,2025-11-30,CUST-007,Grand Retailers,ZI-1071,INV-1071,47841.92,INR,Bank Transfer,UTR26088496,ICICI Bank Current A/c,0,Bengaluru,Payment applied to invoice
+ZCP-5060,PAY-5060,2025-12-25,CUST-009,Indus Stores,ZI-1073,INV-1073,141133.9,INR,Bank Transfer,UTR89386272,HDFC Bank Current A/c,0,Mumbai,Payment applied to invoice
+ZCP-5061,PAY-5061,2025-12-10,CUST-007,Grand Retailers,ZI-1074,INV-1074,35695,INR,Cheque,UTR44971580,ICICI Bank Current A/c,0,Delhi,Payment applied to invoice
+ZCP-5062,PAY-5062,2025-11-27,CUST-004,Delta Stores Limited,ZI-1076,INV-1076,38583.05,INR,UPI,UTR75507592,ICICI Bank Current A/c,0,Bengaluru,Payment applied to invoice
+ZCP-5063,PAY-5063,2025-11-28,CUST-004,Delta Stores Limited,ZI-1077,INV-1077,65596.2,INR,Bank Transfer,UTR39337004,ICICI Bank Current A/c,0,Kolkata,Payment applied to invoice
+ZCP-5064,PAY-5064,2026-01-07,CUST-007,Grand Retailers,ZI-1079,INV-1079,120950,INR,Cheque,UTR43515248,HDFC Bank Current A/c,0,Mumbai,Payment applied to invoice
+ZCP-5065,PAY-5065,2025-12-16,CUST-007,Grand Retailers,ZI-1080,INV-1080,107343.66,INR,Cheque,UTR89871260,HDFC Bank Current A/c,0,Mumbai,Payment applied to invoice
+ZCP-5066,PAY-5066,2025-12-27,CUST-006,FreshCart Retail,ZI-1081,INV-1081,113213.92,INR,Cheque,UTR72646579,HDFC Bank Current A/c,0,Delhi,Payment applied to invoice
+ZCP-5067,PAY-5067,2026-01-16,CUST-004,Delta Stores Limited,ZI-1082,INV-1082,228157.72,INR,Bank Transfer,UTR40111013,HDFC Bank Current A/c,0,Mumbai,Payment applied to invoice
+ZCP-5068,PAY-5068,2026-01-07,CUST-009,Indus Stores,ZI-1083,INV-1083,72952.32,INR,Cheque,UTR88083194,HDFC Bank Current A/c,0,Kolkata,Payment applied to invoice
+ZCP-5069,PAY-5069,2026-01-03,CUST-004,Delta Stores Limited,ZI-1085,INV-1085,81731.52,INR,Cheque,UTR24824622,ICICI Bank Current A/c,0,Bengaluru,Payment applied to invoice
+ZCP-5070,PAY-5070,2026-01-07,CUST-003,City Bazaar Pvt Ltd,ZI-1086,INV-1086,97385.4,INR,Cheque,UTR17906331,ICICI Bank Current A/c,0,Delhi,Payment applied to invoice
+ZCP-5071,PAY-5071,2025-12-26,CUST-005,Eastline Traders,ZI-1087,INV-1087,109397.8,INR,UPI,UTR68892191,ICICI Bank Current A/c,0,Kolkata,Payment applied to invoice
+ZCP-5072,PAY-5072,2025-12-26,CUST-003,City Bazaar Pvt Ltd,ZI-1088,INV-1088,77323.04,INR,UPI,UTR22810429,ICICI Bank Current A/c,0,Kolkata,Payment applied to invoice
+ZCP-5073,PAY-5073,2026-01-22,CUST-001,Apex Retail Pvt Ltd,ZI-1089,INV-1089,95325.12,INR,Cheque,UTR45402167,HDFC Bank Current A/c,0,Ahmedabad,Payment applied to invoice
+ZCP-5074,PAY-5074,2026-01-27,CUST-005,Eastline Traders,ZI-1090,INV-1090,98341.2,INR,UPI,UTR88746412,HDFC Bank Current A/c,0,Mumbai,Payment applied to invoice
+ZCP-5075,PAY-5075,2026-02-19,CUST-002,BlueMart Limited,ZI-1091,INV-1091,57724.18,INR,Bank Transfer,UTR76885068,ICICI Bank Current A/c,0,Ahmedabad,Payment applied to invoice
+ZCP-5076,PAY-5076,2026-03-16,CUST-009,Indus Stores,ZI-1092,INV-1092,129663.83,INR,Bank Transfer,UTR91447923,ICICI Bank Current A/c,0,Mumbai,Payment applied to invoice
+ZCP-5077,PAY-5077,2026-02-26,CUST-005,Eastline Traders,ZI-1093,INV-1093,92925,INR,Cheque,UTR17277661,ICICI Bank Current A/c,0,Mumbai,Payment applied to invoice
+ZCP-5078,PAY-5078,2026-03-19,CUST-010,Jupiter Wholesale,ZI-1094,INV-1094,154709.8,INR,Cheque,UTR88054854,HDFC Bank Current A/c,0,Kolkata,Payment applied to invoice
+ZCP-5079,PAY-5079,2026-01-22,CUST-010,Jupiter Wholesale,ZI-1095,INV-1095,55031.42,INR,Cheque,UTR81922966,ICICI Bank Current A/c,0,Delhi,Payment applied to invoice
+ZCP-5080,PAY-5080,2026-02-20,CUST-001,Apex Retail Pvt Ltd,ZI-1097,INV-1097,318398.22,INR,UPI,UTR10374054,HDFC Bank Current A/c,0,Mumbai,Payment applied to invoice
+ZCP-5081,PAY-5081,2026-02-05,CUST-010,Jupiter Wholesale,ZI-1098,INV-1098,119449.51,INR,Bank Transfer,UTR35293644,HDFC Bank Current A/c,0,Mumbai,Payment applied to invoice
+ZCP-5082,PAY-5082,2026-02-09,CUST-008,Harbor Mart,ZI-1099,INV-1099,69773.4,INR,Cheque,UTR21423707,ICICI Bank Current A/c,0,Mumbai,Payment applied to invoice
+ZCP-5083,PAY-5083,2026-02-17,CUST-001,Apex Retail Pvt Ltd,ZI-1100,INV-1100,194381.4,INR,UPI,UTR57320913,HDFC Bank Current A/c,0,Kolkata,Payment applied to invoice
+ZCP-5084,PAY-5084,2026-03-08,CUST-003,City Bazaar Pvt Ltd,ZI-1101,INV-1101,108309.84,INR,UPI,UTR11200138,HDFC Bank Current A/c,0,Bengaluru,Payment applied to invoice
+ZCP-5085,PAY-5085,2026-03-17,CUST-007,Grand Retailers,ZI-1102,INV-1102,363204,INR,Cheque,UTR99059458,HDFC Bank Current A/c,0,Mumbai,Payment applied to invoice
+ZCP-5086,PAY-5086,2026-03-31,CUST-009,Indus Stores,ZI-1103,INV-1103,171081.12,INR,UPI,UTR12805154,ICICI Bank Current A/c,0,Kolkata,Payment applied to invoice
+ZCP-5087,PAY-5087,2026-03-15,CUST-002,BlueMart Limited,ZI-1104,INV-1104,65539.56,INR,UPI,UTR28376709,HDFC Bank Current A/c,0,Delhi,Payment applied to invoice
+ZCP-5088,PAY-5088,2026-03-30,CUST-004,Delta Stores Limited,ZI-1105,INV-1105,128104.34,INR,Bank Transfer,UTR43871811,ICICI Bank Current A/c,0,Bengaluru,Payment applied to invoice
+ZCP-5089,PAY-5089,2026-03-14,CUST-003,City Bazaar Pvt Ltd,ZI-1106,INV-1106,100453.4,INR,Cheque,UTR57671349,ICICI Bank Current A/c,0,Delhi,Payment applied to invoice
+ZCP-5090,PAY-5090,2026-03-28,CUST-001,Apex Retail Pvt Ltd,ZI-1107,INV-1107,46267.8,INR,UPI,UTR16564416,HDFC Bank Current A/c,0,Ahmedabad,Payment applied to invoice
+ZCP-5091,PAY-5091,2026-02-23,CUST-001,Apex Retail Pvt Ltd,ZI-1108,INV-1108,191943.52,INR,Cheque,UTR23873308,HDFC Bank Current A/c,0,Mumbai,Payment applied to invoice
+ZCP-5092,PAY-5092,2026-02-26,CUST-004,Delta Stores Limited,ZI-1109,INV-1109,220680.06,INR,Cheque,UTR97578525,ICICI Bank Current A/c,0,Bengaluru,Payment applied to invoice
+ZCP-5093,PAY-5093,2026-03-25,CUST-002,BlueMart Limited,ZI-1110,INV-1110,77970.86,INR,Bank Transfer,UTR18443769,HDFC Bank Current A/c,0,Ahmedabad,Payment applied to invoice
+ZCP-5094,PAY-5094,2026-03-22,CUST-005,Eastline Traders,ZI-1111,INV-1111,163807.6,INR,Cheque,UTR78140946,HDFC Bank Current A/c,0,Mumbai,Payment applied to invoice
+ZCP-5095,PAY-5095,2026-03-23,CUST-002,BlueMart Limited,ZI-1113,INV-1113,187835.94,INR,UPI,UTR30685817,ICICI Bank Current A/c,0,Delhi,Payment applied to invoice
+ZCP-5096,PAY-5096,2026-03-30,CUST-009,Indus Stores,ZI-1114,INV-1114,159977.32,INR,Cheque,UTR56840405,ICICI Bank Current A/c,0,Delhi,Payment applied to invoice
+ZCP-5097,PAY-5097,2026-03-16,CUST-004,Delta Stores Limited,ZI-1115,INV-1115,148764.96,INR,UPI,UTR53527451,HDFC Bank Current A/c,0,Mumbai,Payment applied to invoice
+ZCP-5098,PAY-5098,2026-03-28,CUST-005,Eastline Traders,ZI-1116,INV-1116,152268.14,INR,UPI,UTR92873572,ICICI Bank Current A/c,0,Delhi,Payment applied to invoice
+ZCP-5099,PAY-5099,2026-03-21,CUST-001,Apex Retail Pvt Ltd,ZI-1117,INV-1117,29955.48,INR,Cheque,UTR60765151,ICICI Bank Current A/c,0,Mumbai,Payment applied to invoice
+ZCP-5100,PAY-5100,2026-03-24,CUST-005,Eastline Traders,ZI-1118,INV-1118,160843.44,INR,Cheque,UTR67473337,ICICI Bank Current A/c,0,Kolkata,Payment applied to invoice
+ZCP-5101,PAY-5101,2026-03-24,CUST-008,Harbor Mart,ZI-1119,INV-1119,121242.64,INR,UPI,UTR48279045,ICICI Bank Current A/c,0,Kolkata,Payment applied to invoice
+ZCP-5102,PAY-5102,2026-03-30,CUST-009,Indus Stores,ZI-1120,INV-1120,130976.34,INR,Cheque,UTR84097954,HDFC Bank Current A/c,0,Delhi,Payment applied to invoice

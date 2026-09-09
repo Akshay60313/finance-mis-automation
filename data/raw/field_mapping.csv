@@ -1,0 +1,123 @@
+Source File,Source Column,Target SQL Table,Target SQL Column,Data Type,Required,Key Type,Transformation Rule,Validation Rule,Purpose
+sales_invoices.csv,Invoice ID,stg_sales_invoices,invoice_id,TEXT,Yes,Primary/Foreign Key,Trim whitespace; preserve source value,Reject null or blank,Revenue and receivables
+sales_invoices.csv,Invoice Number,stg_sales_invoices,invoice_number,TEXT,Yes,,Trim whitespace; preserve source value,Reject null or blank,Revenue and receivables
+sales_invoices.csv,Invoice Date,stg_sales_invoices,invoice_date,DATE,Yes,,Parse ISO date YYYY-MM-DD,Reject null or blank,Revenue and receivables
+sales_invoices.csv,Due Date,stg_sales_invoices,due_date,DATE,No,,Parse ISO date YYYY-MM-DD,Allow null; log when control-relevant,Revenue and receivables
+sales_invoices.csv,Customer ID,stg_sales_invoices,customer_id,TEXT,Yes,Primary/Foreign Key,Trim whitespace; preserve source value,Reject null or blank,Revenue and receivables
+sales_invoices.csv,Customer Name,stg_sales_invoices,customer_name,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Revenue and receivables
+sales_invoices.csv,Customer GSTIN,stg_sales_invoices,customer_gstin,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Revenue and receivables
+sales_invoices.csv,Place of Supply,stg_sales_invoices,place_of_supply,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Revenue and receivables
+sales_invoices.csv,Status,stg_sales_invoices,status,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Revenue and receivables
+sales_invoices.csv,Currency Code,stg_sales_invoices,currency_code,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Revenue and receivables
+sales_invoices.csv,Exchange Rate,stg_sales_invoices,exchange_rate,"DECIMAL(18,2)",No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Revenue and receivables
+sales_invoices.csv,Item ID,stg_sales_invoices,item_id,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Revenue and receivables
+sales_invoices.csv,Item Name,stg_sales_invoices,item_name,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Revenue and receivables
+sales_invoices.csv,SKU,stg_sales_invoices,sku,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Revenue and receivables
+sales_invoices.csv,Sales Account,stg_sales_invoices,sales_account,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Revenue and receivables
+sales_invoices.csv,Quantity,stg_sales_invoices,quantity,"DECIMAL(18,2)",No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Revenue and receivables
+sales_invoices.csv,Rate,stg_sales_invoices,rate,"DECIMAL(18,2)",No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Revenue and receivables
+sales_invoices.csv,Discount,stg_sales_invoices,discount,"DECIMAL(18,2)",No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Revenue and receivables
+sales_invoices.csv,Tax Name,stg_sales_invoices,tax_name,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Revenue and receivables
+sales_invoices.csv,Tax Percentage,stg_sales_invoices,tax_percentage,"DECIMAL(18,2)",No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Revenue and receivables
+sales_invoices.csv,Tax Amount,stg_sales_invoices,tax_amount,"DECIMAL(18,2)",No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Revenue and receivables
+sales_invoices.csv,SubTotal,stg_sales_invoices,subtotal,"DECIMAL(18,2)",No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Revenue and receivables
+sales_invoices.csv,Total,stg_sales_invoices,total,"DECIMAL(18,2)",Yes,,Trim whitespace; preserve source value,Reject null or blank,Revenue and receivables
+sales_invoices.csv,Balance,stg_sales_invoices,balance,"DECIMAL(18,2)",No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Revenue and receivables
+sales_invoices.csv,Salesperson,stg_sales_invoices,salesperson,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Revenue and receivables
+sales_invoices.csv,Branch,stg_sales_invoices,branch,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Revenue and receivables
+sales_invoices.csv,Reference Number,stg_sales_invoices,reference_number,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Revenue and receivables
+sales_invoices.csv,Notes,stg_sales_invoices,notes,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Revenue and receivables
+vendor_bills.csv,Bill ID,stg_vendor_bills,bill_id,TEXT,Yes,Primary/Foreign Key,Trim whitespace; preserve source value,Reject null or blank,"Purchases, payables and invoice controls"
+vendor_bills.csv,Bill Number,stg_vendor_bills,bill_number,TEXT,Yes,,Trim whitespace; preserve source value,Reject null or blank,"Purchases, payables and invoice controls"
+vendor_bills.csv,Bill Date,stg_vendor_bills,bill_date,DATE,Yes,,Parse ISO date YYYY-MM-DD,Reject null or blank,"Purchases, payables and invoice controls"
+vendor_bills.csv,Due Date,stg_vendor_bills,due_date,DATE,No,,Parse ISO date YYYY-MM-DD,Allow null; log when control-relevant,"Purchases, payables and invoice controls"
+vendor_bills.csv,Vendor ID,stg_vendor_bills,vendor_id,TEXT,Yes,Primary/Foreign Key,Trim whitespace; preserve source value,Reject null or blank,"Purchases, payables and invoice controls"
+vendor_bills.csv,Vendor Name,stg_vendor_bills,vendor_name,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,"Purchases, payables and invoice controls"
+vendor_bills.csv,Vendor GSTIN,stg_vendor_bills,vendor_gstin,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,"Purchases, payables and invoice controls"
+vendor_bills.csv,Source of Supply,stg_vendor_bills,source_of_supply,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,"Purchases, payables and invoice controls"
+vendor_bills.csv,Status,stg_vendor_bills,status,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,"Purchases, payables and invoice controls"
+vendor_bills.csv,Currency Code,stg_vendor_bills,currency_code,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,"Purchases, payables and invoice controls"
+vendor_bills.csv,Exchange Rate,stg_vendor_bills,exchange_rate,"DECIMAL(18,2)",No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,"Purchases, payables and invoice controls"
+vendor_bills.csv,Expense Account,stg_vendor_bills,expense_account,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,"Purchases, payables and invoice controls"
+vendor_bills.csv,Item Description,stg_vendor_bills,item_description,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,"Purchases, payables and invoice controls"
+vendor_bills.csv,Quantity,stg_vendor_bills,quantity,"DECIMAL(18,2)",No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,"Purchases, payables and invoice controls"
+vendor_bills.csv,Rate,stg_vendor_bills,rate,"DECIMAL(18,2)",No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,"Purchases, payables and invoice controls"
+vendor_bills.csv,Tax Name,stg_vendor_bills,tax_name,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,"Purchases, payables and invoice controls"
+vendor_bills.csv,Tax Percentage,stg_vendor_bills,tax_percentage,"DECIMAL(18,2)",No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,"Purchases, payables and invoice controls"
+vendor_bills.csv,Tax Amount,stg_vendor_bills,tax_amount,"DECIMAL(18,2)",No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,"Purchases, payables and invoice controls"
+vendor_bills.csv,SubTotal,stg_vendor_bills,subtotal,"DECIMAL(18,2)",No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,"Purchases, payables and invoice controls"
+vendor_bills.csv,Total,stg_vendor_bills,total,"DECIMAL(18,2)",Yes,,Trim whitespace; preserve source value,Reject null or blank,"Purchases, payables and invoice controls"
+vendor_bills.csv,Balance,stg_vendor_bills,balance,"DECIMAL(18,2)",No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,"Purchases, payables and invoice controls"
+vendor_bills.csv,Purchase Order Number,stg_vendor_bills,purchase_order_number,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,"Purchases, payables and invoice controls"
+vendor_bills.csv,GRN Number,stg_vendor_bills,grn_number,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,"Purchases, payables and invoice controls"
+vendor_bills.csv,Department,stg_vendor_bills,department,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,"Purchases, payables and invoice controls"
+vendor_bills.csv,Branch,stg_vendor_bills,branch,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,"Purchases, payables and invoice controls"
+vendor_bills.csv,Reference Number,stg_vendor_bills,reference_number,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,"Purchases, payables and invoice controls"
+vendor_bills.csv,Notes,stg_vendor_bills,notes,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,"Purchases, payables and invoice controls"
+customer_payments.csv,Payment ID,stg_customer_payments,payment_id,TEXT,Yes,Primary/Foreign Key,Trim whitespace; preserve source value,Reject null or blank,Collections and AR settlement
+customer_payments.csv,Payment Number,stg_customer_payments,payment_number,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Collections and AR settlement
+customer_payments.csv,Payment Date,stg_customer_payments,payment_date,DATE,Yes,,Parse ISO date YYYY-MM-DD,Reject null or blank,Collections and AR settlement
+customer_payments.csv,Customer ID,stg_customer_payments,customer_id,TEXT,Yes,Primary/Foreign Key,Trim whitespace; preserve source value,Reject null or blank,Collections and AR settlement
+customer_payments.csv,Customer Name,stg_customer_payments,customer_name,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Collections and AR settlement
+customer_payments.csv,Invoice ID,stg_customer_payments,invoice_id,TEXT,Yes,Primary/Foreign Key,Trim whitespace; preserve source value,Reject null or blank,Collections and AR settlement
+customer_payments.csv,Invoice Number,stg_customer_payments,invoice_number,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Collections and AR settlement
+customer_payments.csv,Amount Applied,stg_customer_payments,amount_applied,"DECIMAL(18,2)",Yes,,Trim whitespace; preserve source value,Reject null or blank,Collections and AR settlement
+customer_payments.csv,Currency Code,stg_customer_payments,currency_code,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Collections and AR settlement
+customer_payments.csv,Payment Mode,stg_customer_payments,payment_mode,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Collections and AR settlement
+customer_payments.csv,Reference Number,stg_customer_payments,reference_number,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Collections and AR settlement
+customer_payments.csv,Deposit To,stg_customer_payments,deposit_to,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Collections and AR settlement
+customer_payments.csv,Unused Amount,stg_customer_payments,unused_amount,"DECIMAL(18,2)",No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Collections and AR settlement
+customer_payments.csv,Branch,stg_customer_payments,branch,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Collections and AR settlement
+customer_payments.csv,Notes,stg_customer_payments,notes,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Collections and AR settlement
+vendor_payments.csv,Payment ID,stg_vendor_payments,payment_id,TEXT,Yes,Primary/Foreign Key,Trim whitespace; preserve source value,Reject null or blank,Payments and AP settlement
+vendor_payments.csv,Payment Number,stg_vendor_payments,payment_number,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Payments and AP settlement
+vendor_payments.csv,Payment Date,stg_vendor_payments,payment_date,DATE,Yes,,Parse ISO date YYYY-MM-DD,Reject null or blank,Payments and AP settlement
+vendor_payments.csv,Vendor ID,stg_vendor_payments,vendor_id,TEXT,Yes,Primary/Foreign Key,Trim whitespace; preserve source value,Reject null or blank,Payments and AP settlement
+vendor_payments.csv,Vendor Name,stg_vendor_payments,vendor_name,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Payments and AP settlement
+vendor_payments.csv,Bill ID,stg_vendor_payments,bill_id,TEXT,Yes,Primary/Foreign Key,Trim whitespace; preserve source value,Reject null or blank,Payments and AP settlement
+vendor_payments.csv,Bill Number,stg_vendor_payments,bill_number,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Payments and AP settlement
+vendor_payments.csv,Amount Applied,stg_vendor_payments,amount_applied,"DECIMAL(18,2)",Yes,,Trim whitespace; preserve source value,Reject null or blank,Payments and AP settlement
+vendor_payments.csv,Currency Code,stg_vendor_payments,currency_code,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Payments and AP settlement
+vendor_payments.csv,Payment Mode,stg_vendor_payments,payment_mode,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Payments and AP settlement
+vendor_payments.csv,Reference Number,stg_vendor_payments,reference_number,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Payments and AP settlement
+vendor_payments.csv,Paid Through,stg_vendor_payments,paid_through,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Payments and AP settlement
+vendor_payments.csv,Branch,stg_vendor_payments,branch,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Payments and AP settlement
+vendor_payments.csv,Notes,stg_vendor_payments,notes,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Payments and AP settlement
+expenses.csv,Expense ID,stg_expenses,expense_id,TEXT,Yes,Primary/Foreign Key,Trim whitespace; preserve source value,Reject null or blank,Operating-expense reporting
+expenses.csv,Expense Date,stg_expenses,expense_date,DATE,Yes,,Parse ISO date YYYY-MM-DD,Reject null or blank,Operating-expense reporting
+expenses.csv,Expense Account,stg_expenses,expense_account,TEXT,Yes,,Trim whitespace; preserve source value,Reject null or blank,Operating-expense reporting
+expenses.csv,Paid Through,stg_expenses,paid_through,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Operating-expense reporting
+expenses.csv,Vendor ID,stg_expenses,vendor_id,TEXT,No,Primary/Foreign Key,Trim whitespace; preserve source value,Allow null; log when control-relevant,Operating-expense reporting
+expenses.csv,Vendor Name,stg_expenses,vendor_name,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Operating-expense reporting
+expenses.csv,GST Treatment,stg_expenses,gst_treatment,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Operating-expense reporting
+expenses.csv,Tax Name,stg_expenses,tax_name,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Operating-expense reporting
+expenses.csv,Tax Percentage,stg_expenses,tax_percentage,"DECIMAL(18,2)",No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Operating-expense reporting
+expenses.csv,Tax Amount,stg_expenses,tax_amount,"DECIMAL(18,2)",No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Operating-expense reporting
+expenses.csv,SubTotal,stg_expenses,subtotal,"DECIMAL(18,2)",No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Operating-expense reporting
+expenses.csv,Total,stg_expenses,total,"DECIMAL(18,2)",Yes,,Trim whitespace; preserve source value,Reject null or blank,Operating-expense reporting
+expenses.csv,Payment Mode,stg_expenses,payment_mode,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Operating-expense reporting
+expenses.csv,Reference Number,stg_expenses,reference_number,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Operating-expense reporting
+expenses.csv,Department,stg_expenses,department,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Operating-expense reporting
+expenses.csv,Branch,stg_expenses,branch,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Operating-expense reporting
+expenses.csv,Description,stg_expenses,description,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Operating-expense reporting
+general_ledger.csv,Date,stg_general_ledger,date,DATE,Yes,,Parse ISO date YYYY-MM-DD,Reject null or blank,Financial statements and reconciliation
+general_ledger.csv,Journal Number,stg_general_ledger,journal_number,TEXT,Yes,Primary/Foreign Key,Trim whitespace; preserve source value,Reject null or blank,Financial statements and reconciliation
+general_ledger.csv,Transaction Type,stg_general_ledger,transaction_type,TEXT,Yes,,Trim whitespace; preserve source value,Reject null or blank,Financial statements and reconciliation
+general_ledger.csv,Transaction ID,stg_general_ledger,transaction_id,TEXT,No,Primary/Foreign Key,Trim whitespace; preserve source value,Allow null; log when control-relevant,Financial statements and reconciliation
+general_ledger.csv,Reference Number,stg_general_ledger,reference_number,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Financial statements and reconciliation
+general_ledger.csv,Account,stg_general_ledger,account,TEXT,Yes,,Trim whitespace; preserve source value,Reject null or blank,Financial statements and reconciliation
+general_ledger.csv,Account Type,stg_general_ledger,account_type,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Financial statements and reconciliation
+general_ledger.csv,Contact ID,stg_general_ledger,contact_id,TEXT,No,Primary/Foreign Key,Trim whitespace; preserve source value,Allow null; log when control-relevant,Financial statements and reconciliation
+general_ledger.csv,Contact Name,stg_general_ledger,contact_name,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Financial statements and reconciliation
+general_ledger.csv,Debit,stg_general_ledger,debit,"DECIMAL(18,2)",Yes,,Trim whitespace; preserve source value,Reject null or blank,Financial statements and reconciliation
+general_ledger.csv,Credit,stg_general_ledger,credit,"DECIMAL(18,2)",Yes,,Trim whitespace; preserve source value,Reject null or blank,Financial statements and reconciliation
+general_ledger.csv,Department,stg_general_ledger,department,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Financial statements and reconciliation
+general_ledger.csv,Branch,stg_general_ledger,branch,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Financial statements and reconciliation
+general_ledger.csv,Description,stg_general_ledger,description,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Financial statements and reconciliation
+budget.csv,Month,stg_budget,month,DATE,Yes,,Parse ISO date YYYY-MM-DD,Reject null or blank,Budget-versus-actual reporting
+budget.csv,Department,stg_budget,department,TEXT,Yes,,Trim whitespace; preserve source value,Reject null or blank,Budget-versus-actual reporting
+budget.csv,Account,stg_budget,account,TEXT,Yes,,Trim whitespace; preserve source value,Reject null or blank,Budget-versus-actual reporting
+budget.csv,Budget Amount,stg_budget,budget_amount,"DECIMAL(18,2)",Yes,,Trim whitespace; preserve source value,Reject null or blank,Budget-versus-actual reporting
+budget.csv,Currency Code,stg_budget,currency_code,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Budget-versus-actual reporting
+budget.csv,Version,stg_budget,version,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Budget-versus-actual reporting
+budget.csv,Notes,stg_budget,notes,TEXT,No,,Trim whitespace; preserve source value,Allow null; log when control-relevant,Budget-versus-actual reporting

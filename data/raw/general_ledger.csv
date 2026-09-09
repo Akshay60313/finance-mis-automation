@@ -1,0 +1,1223 @@
+Date,Journal Number,Transaction Type,Transaction ID,Reference Number,Account,Account Type,Contact ID,Contact Name,Debit,Credit,Department,Branch,Description
+2025-04-22,JRN-9001,Invoice,ZI-1001,INV-1001,Accounts Receivable,Accounts Receivable,CUST-005,Eastline Traders,111895.86,0,Sales,Mumbai,Sales invoice INV-1001
+2025-04-22,JRN-9001,Invoice,ZI-1001,INV-1001,Consumer Goods,Income,CUST-005,Eastline Traders,0,94827,Sales,Mumbai,Sales invoice INV-1001
+2025-04-22,JRN-9001,Invoice,ZI-1001,INV-1001,Output GST Payable,Other Current Liability,CUST-005,Eastline Traders,0,17068.86,Sales,Mumbai,Sales invoice INV-1001
+2025-04-25,JRN-9002,Invoice,ZI-1002,INV-1002,Accounts Receivable,Accounts Receivable,CUST-003,City Bazaar Pvt Ltd,56016.96,0,Sales,Kolkata,Sales invoice INV-1002
+2025-04-25,JRN-9002,Invoice,ZI-1002,INV-1002,Industrial Supplies,Income,CUST-003,City Bazaar Pvt Ltd,0,47472,Sales,Kolkata,Sales invoice INV-1002
+2025-04-25,JRN-9002,Invoice,ZI-1002,INV-1002,Output GST Payable,Other Current Liability,CUST-003,City Bazaar Pvt Ltd,0,8544.96,Sales,Kolkata,Sales invoice INV-1002
+2025-04-01,JRN-9003,Invoice,ZI-1003,INV-1003,Accounts Receivable,Accounts Receivable,CUST-007,Grand Retailers,106511.52,0,Sales,Mumbai,Sales invoice INV-1003
+2025-04-01,JRN-9003,Invoice,ZI-1003,INV-1003,Packaging Revenue,Income,CUST-007,Grand Retailers,0,90264,Sales,Mumbai,Sales invoice INV-1003
+2025-04-01,JRN-9003,Invoice,ZI-1003,INV-1003,Output GST Payable,Other Current Liability,CUST-007,Grand Retailers,0,16247.52,Sales,Mumbai,Sales invoice INV-1003
+2025-04-05,JRN-9004,Invoice,ZI-1004,INV-1004,Accounts Receivable,Accounts Receivable,CUST-008,Harbor Mart,209872.44,0,Sales,Ahmedabad,Sales invoice INV-1004
+2025-04-05,JRN-9004,Invoice,ZI-1004,INV-1004,Industrial Supplies,Income,CUST-008,Harbor Mart,0,177858,Sales,Ahmedabad,Sales invoice INV-1004
+2025-04-05,JRN-9004,Invoice,ZI-1004,INV-1004,Output GST Payable,Other Current Liability,CUST-008,Harbor Mart,0,32014.44,Sales,Ahmedabad,Sales invoice INV-1004
+2025-04-24,JRN-9005,Invoice,ZI-1005,INV-1005,Accounts Receivable,Accounts Receivable,CUST-004,Delta Stores Limited,332229,0,Sales,Mumbai,Sales invoice INV-1005
+2025-04-24,JRN-9005,Invoice,ZI-1005,INV-1005,Speciality Revenue,Income,CUST-004,Delta Stores Limited,0,281550,Sales,Mumbai,Sales invoice INV-1005
+2025-04-24,JRN-9005,Invoice,ZI-1005,INV-1005,Output GST Payable,Other Current Liability,CUST-004,Delta Stores Limited,0,50679,Sales,Mumbai,Sales invoice INV-1005
+2025-04-01,JRN-9006,Invoice,ZI-1006,INV-1006,Accounts Receivable,Accounts Receivable,CUST-007,Grand Retailers,105197,0,Sales,Kolkata,Sales invoice INV-1006
+2025-04-01,JRN-9006,Invoice,ZI-1006,INV-1006,Packaging Revenue,Income,CUST-007,Grand Retailers,0,89150,Sales,Kolkata,Sales invoice INV-1006
+2025-04-01,JRN-9006,Invoice,ZI-1006,INV-1006,Output GST Payable,Other Current Liability,CUST-007,Grand Retailers,0,16047,Sales,Kolkata,Sales invoice INV-1006
+2025-04-07,JRN-9007,Invoice,ZI-1007,INV-1007,Accounts Receivable,Accounts Receivable,CUST-005,Eastline Traders,75883.44,0,Sales,Delhi,Sales invoice INV-1007
+2025-04-07,JRN-9007,Invoice,ZI-1007,INV-1007,Consumer Goods,Income,CUST-005,Eastline Traders,0,64308,Sales,Delhi,Sales invoice INV-1007
+2025-04-07,JRN-9007,Invoice,ZI-1007,INV-1007,Output GST Payable,Other Current Liability,CUST-005,Eastline Traders,0,11575.44,Sales,Delhi,Sales invoice INV-1007
+2025-04-06,JRN-9008,Invoice,ZI-1008,INV-1008,Accounts Receivable,Accounts Receivable,CUST-005,Eastline Traders,93909.12,0,Sales,Bengaluru,Sales invoice INV-1008
+2025-04-06,JRN-9008,Invoice,ZI-1008,INV-1008,Consumer Goods,Income,CUST-005,Eastline Traders,0,79584,Sales,Bengaluru,Sales invoice INV-1008
+2025-04-06,JRN-9008,Invoice,ZI-1008,INV-1008,Output GST Payable,Other Current Liability,CUST-005,Eastline Traders,0,14325.12,Sales,Bengaluru,Sales invoice INV-1008
+2025-04-06,JRN-9009,Invoice,ZI-1009,INV-1009,Accounts Receivable,Accounts Receivable,CUST-004,Delta Stores Limited,150945.6,0,Sales,Bengaluru,Sales invoice INV-1009
+2025-04-06,JRN-9009,Invoice,ZI-1009,INV-1009,Consumer Goods,Income,CUST-004,Delta Stores Limited,0,127920,Sales,Bengaluru,Sales invoice INV-1009
+2025-04-06,JRN-9009,Invoice,ZI-1009,INV-1009,Output GST Payable,Other Current Liability,CUST-004,Delta Stores Limited,0,23025.6,Sales,Bengaluru,Sales invoice INV-1009
+2025-04-25,JRN-9010,Invoice,ZI-1010,INV-1010,Accounts Receivable,Accounts Receivable,CUST-008,Harbor Mart,232136.68,0,Sales,Ahmedabad,Sales invoice INV-1010
+2025-04-25,JRN-9010,Invoice,ZI-1010,INV-1010,Packaging Revenue,Income,CUST-008,Harbor Mart,0,196726,Sales,Ahmedabad,Sales invoice INV-1010
+2025-04-25,JRN-9010,Invoice,ZI-1010,INV-1010,Output GST Payable,Other Current Liability,CUST-008,Harbor Mart,0,35410.68,Sales,Ahmedabad,Sales invoice INV-1010
+2025-05-12,JRN-9011,Invoice,ZI-1011,INV-1011,Accounts Receivable,Accounts Receivable,CUST-008,Harbor Mart,85115.76,0,Sales,Bengaluru,Sales invoice INV-1011
+2025-05-12,JRN-9011,Invoice,ZI-1011,INV-1011,Consumer Goods,Income,CUST-008,Harbor Mart,0,72132,Sales,Bengaluru,Sales invoice INV-1011
+2025-05-12,JRN-9011,Invoice,ZI-1011,INV-1011,Output GST Payable,Other Current Liability,CUST-008,Harbor Mart,0,12983.76,Sales,Bengaluru,Sales invoice INV-1011
+2025-05-21,JRN-9012,Invoice,ZI-1012,INV-1012,Accounts Receivable,Accounts Receivable,CUST-009,Indus Stores,118944,0,Sales,Mumbai,Sales invoice INV-1012
+2025-05-21,JRN-9012,Invoice,ZI-1012,INV-1012,Consumer Goods,Income,CUST-009,Indus Stores,0,100800,Sales,Mumbai,Sales invoice INV-1012
+2025-05-21,JRN-9012,Invoice,ZI-1012,INV-1012,Output GST Payable,Other Current Liability,CUST-009,Indus Stores,0,18144,Sales,Mumbai,Sales invoice INV-1012
+2025-05-01,JRN-9013,Invoice,ZI-1013,INV-1013,Accounts Receivable,Accounts Receivable,CUST-008,Harbor Mart,125380.9,0,Sales,Bengaluru,Sales invoice INV-1013
+2025-05-01,JRN-9013,Invoice,ZI-1013,INV-1013,Consumer Goods,Income,CUST-008,Harbor Mart,0,106255,Sales,Bengaluru,Sales invoice INV-1013
+2025-05-01,JRN-9013,Invoice,ZI-1013,INV-1013,Output GST Payable,Other Current Liability,CUST-008,Harbor Mart,0,19125.9,Sales,Bengaluru,Sales invoice INV-1013
+2025-05-23,JRN-9014,Invoice,ZI-1014,INV-1014,Accounts Receivable,Accounts Receivable,CUST-002,BlueMart Limited,241272.24,0,Sales,Delhi,Sales invoice INV-1014
+2025-05-23,JRN-9014,Invoice,ZI-1014,INV-1014,Speciality Revenue,Income,CUST-002,BlueMart Limited,0,204468,Sales,Delhi,Sales invoice INV-1014
+2025-05-23,JRN-9014,Invoice,ZI-1014,INV-1014,Output GST Payable,Other Current Liability,CUST-002,BlueMart Limited,0,36804.24,Sales,Delhi,Sales invoice INV-1014
+2025-05-14,JRN-9015,Invoice,ZI-1015,INV-1015,Accounts Receivable,Accounts Receivable,CUST-006,FreshCart Retail,145186.02,0,Sales,Bengaluru,Sales invoice INV-1015
+2025-05-14,JRN-9015,Invoice,ZI-1015,INV-1015,Packaging Revenue,Income,CUST-006,FreshCart Retail,0,123039,Sales,Bengaluru,Sales invoice INV-1015
+2025-05-14,JRN-9015,Invoice,ZI-1015,INV-1015,Output GST Payable,Other Current Liability,CUST-006,FreshCart Retail,0,22147.02,Sales,Bengaluru,Sales invoice INV-1015
+2025-05-18,JRN-9016,Invoice,ZI-1016,INV-1016,Accounts Receivable,Accounts Receivable,CUST-004,Delta Stores Limited,222923.24,0,Sales,Mumbai,Sales invoice INV-1016
+2025-05-18,JRN-9016,Invoice,ZI-1016,INV-1016,Speciality Revenue,Income,CUST-004,Delta Stores Limited,0,188918,Sales,Mumbai,Sales invoice INV-1016
+2025-05-18,JRN-9016,Invoice,ZI-1016,INV-1016,Output GST Payable,Other Current Liability,CUST-004,Delta Stores Limited,0,34005.24,Sales,Mumbai,Sales invoice INV-1016
+2025-05-10,JRN-9017,Invoice,ZI-1017,INV-1017,Accounts Receivable,Accounts Receivable,CUST-005,Eastline Traders,83119.2,0,Sales,Ahmedabad,Sales invoice INV-1017
+2025-05-10,JRN-9017,Invoice,ZI-1017,INV-1017,Packaging Revenue,Income,CUST-005,Eastline Traders,0,70440,Sales,Ahmedabad,Sales invoice INV-1017
+2025-05-10,JRN-9017,Invoice,ZI-1017,INV-1017,Output GST Payable,Other Current Liability,CUST-005,Eastline Traders,0,12679.2,Sales,Ahmedabad,Sales invoice INV-1017
+2025-05-23,JRN-9018,Invoice,ZI-1018,INV-1018,Accounts Receivable,Accounts Receivable,CUST-003,City Bazaar Pvt Ltd,370498.76,0,Sales,Bengaluru,Sales invoice INV-1018
+2025-05-23,JRN-9018,Invoice,ZI-1018,INV-1018,Speciality Revenue,Income,CUST-003,City Bazaar Pvt Ltd,0,313982,Sales,Bengaluru,Sales invoice INV-1018
+2025-05-23,JRN-9018,Invoice,ZI-1018,INV-1018,Output GST Payable,Other Current Liability,CUST-003,City Bazaar Pvt Ltd,0,56516.76,Sales,Bengaluru,Sales invoice INV-1018
+2025-05-06,JRN-9019,Invoice,ZI-1019,INV-1019,Accounts Receivable,Accounts Receivable,CUST-007,Grand Retailers,134455.1,0,Sales,Bengaluru,Sales invoice INV-1019
+2025-05-06,JRN-9019,Invoice,ZI-1019,INV-1019,Industrial Supplies,Income,CUST-007,Grand Retailers,0,113945,Sales,Bengaluru,Sales invoice INV-1019
+2025-05-06,JRN-9019,Invoice,ZI-1019,INV-1019,Output GST Payable,Other Current Liability,CUST-007,Grand Retailers,0,20510.1,Sales,Bengaluru,Sales invoice INV-1019
+2025-05-18,JRN-9020,Invoice,ZI-1020,INV-1020,Accounts Receivable,Accounts Receivable,CUST-008,Harbor Mart,258405.84,0,Sales,Mumbai,Sales invoice INV-1020
+2025-05-18,JRN-9020,Invoice,ZI-1020,INV-1020,Industrial Supplies,Income,CUST-008,Harbor Mart,0,218988,Sales,Mumbai,Sales invoice INV-1020
+2025-05-18,JRN-9020,Invoice,ZI-1020,INV-1020,Output GST Payable,Other Current Liability,CUST-008,Harbor Mart,0,39417.84,Sales,Mumbai,Sales invoice INV-1020
+2025-06-01,JRN-9021,Invoice,ZI-1021,INV-1021,Accounts Receivable,Accounts Receivable,CUST-010,Jupiter Wholesale,183696.5,0,Sales,Mumbai,Sales invoice INV-1021
+2025-06-01,JRN-9021,Invoice,ZI-1021,INV-1021,Industrial Supplies,Income,CUST-010,Jupiter Wholesale,0,155675,Sales,Mumbai,Sales invoice INV-1021
+2025-06-01,JRN-9021,Invoice,ZI-1021,INV-1021,Output GST Payable,Other Current Liability,CUST-010,Jupiter Wholesale,0,28021.5,Sales,Mumbai,Sales invoice INV-1021
+2025-06-17,JRN-9022,Invoice,ZI-1022,INV-1022,Accounts Receivable,Accounts Receivable,CUST-010,Jupiter Wholesale,284051.96,0,Sales,Bengaluru,Sales invoice INV-1022
+2025-06-17,JRN-9022,Invoice,ZI-1022,INV-1022,Speciality Revenue,Income,CUST-010,Jupiter Wholesale,0,240722,Sales,Bengaluru,Sales invoice INV-1022
+2025-06-17,JRN-9022,Invoice,ZI-1022,INV-1022,Output GST Payable,Other Current Liability,CUST-010,Jupiter Wholesale,0,43329.96,Sales,Bengaluru,Sales invoice INV-1022
+2025-06-16,JRN-9023,Invoice,ZI-1023,INV-1023,Accounts Receivable,Accounts Receivable,CUST-009,Indus Stores,87744.8,0,Sales,Mumbai,Sales invoice INV-1023
+2025-06-16,JRN-9023,Invoice,ZI-1023,INV-1023,Consumer Goods,Income,CUST-009,Indus Stores,0,74360,Sales,Mumbai,Sales invoice INV-1023
+2025-06-16,JRN-9023,Invoice,ZI-1023,INV-1023,Output GST Payable,Other Current Liability,CUST-009,Indus Stores,0,13384.8,Sales,Mumbai,Sales invoice INV-1023
+2025-06-21,JRN-9024,Invoice,ZI-1024,INV-1024,Accounts Receivable,Accounts Receivable,CUST-010,Jupiter Wholesale,78672.96,0,Sales,Delhi,Sales invoice INV-1024
+2025-06-21,JRN-9024,Invoice,ZI-1024,INV-1024,Packaging Revenue,Income,CUST-010,Jupiter Wholesale,0,66672,Sales,Delhi,Sales invoice INV-1024
+2025-06-21,JRN-9024,Invoice,ZI-1024,INV-1024,Output GST Payable,Other Current Liability,CUST-010,Jupiter Wholesale,0,12000.96,Sales,Delhi,Sales invoice INV-1024
+2025-06-23,JRN-9025,Invoice,ZI-1025,INV-1025,Accounts Receivable,Accounts Receivable,CUST-003,City Bazaar Pvt Ltd,262547.64,0,Sales,Ahmedabad,Sales invoice INV-1025
+2025-06-23,JRN-9025,Invoice,ZI-1025,INV-1025,Industrial Supplies,Income,CUST-003,City Bazaar Pvt Ltd,0,222498,Sales,Ahmedabad,Sales invoice INV-1025
+2025-06-23,JRN-9025,Invoice,ZI-1025,INV-1025,Output GST Payable,Other Current Liability,CUST-003,City Bazaar Pvt Ltd,0,40049.64,Sales,Ahmedabad,Sales invoice INV-1025
+2025-06-09,JRN-9026,Invoice,ZI-1026,INV-1026,Accounts Receivable,Accounts Receivable,CUST-002,BlueMart Limited,76487.6,0,Sales,Bengaluru,Sales invoice INV-1026
+2025-06-09,JRN-9026,Invoice,ZI-1026,INV-1026,Packaging Revenue,Income,CUST-002,BlueMart Limited,0,64820,Sales,Bengaluru,Sales invoice INV-1026
+2025-06-09,JRN-9026,Invoice,ZI-1026,INV-1026,Output GST Payable,Other Current Liability,CUST-002,BlueMart Limited,0,11667.6,Sales,Bengaluru,Sales invoice INV-1026
+2025-06-22,JRN-9027,Invoice,ZI-1027,INV-1027,Accounts Receivable,Accounts Receivable,CUST-010,Jupiter Wholesale,152054.8,0,Sales,Bengaluru,Sales invoice INV-1027
+2025-06-22,JRN-9027,Invoice,ZI-1027,INV-1027,Consumer Goods,Income,CUST-010,Jupiter Wholesale,0,128860,Sales,Bengaluru,Sales invoice INV-1027
+2025-06-22,JRN-9027,Invoice,ZI-1027,INV-1027,Output GST Payable,Other Current Liability,CUST-010,Jupiter Wholesale,0,23194.8,Sales,Bengaluru,Sales invoice INV-1027
+2025-06-20,JRN-9028,Invoice,ZI-1028,INV-1028,Accounts Receivable,Accounts Receivable,CUST-002,BlueMart Limited,123790.26,0,Sales,Delhi,Sales invoice INV-1028
+2025-06-20,JRN-9028,Invoice,ZI-1028,INV-1028,Packaging Revenue,Income,CUST-002,BlueMart Limited,0,104907,Sales,Delhi,Sales invoice INV-1028
+2025-06-20,JRN-9028,Invoice,ZI-1028,INV-1028,Output GST Payable,Other Current Liability,CUST-002,BlueMart Limited,0,18883.26,Sales,Delhi,Sales invoice INV-1028
+2025-06-26,JRN-9029,Invoice,ZI-1029,INV-1029,Accounts Receivable,Accounts Receivable,CUST-006,FreshCart Retail,85356.48,0,Sales,Mumbai,Sales invoice INV-1029
+2025-06-26,JRN-9029,Invoice,ZI-1029,INV-1029,Industrial Supplies,Income,CUST-006,FreshCart Retail,0,72336,Sales,Mumbai,Sales invoice INV-1029
+2025-06-26,JRN-9029,Invoice,ZI-1029,INV-1029,Output GST Payable,Other Current Liability,CUST-006,FreshCart Retail,0,13020.48,Sales,Mumbai,Sales invoice INV-1029
+2025-06-02,JRN-9030,Invoice,ZI-1030,INV-1030,Accounts Receivable,Accounts Receivable,CUST-004,Delta Stores Limited,102206.88,0,Sales,Mumbai,Sales invoice INV-1030
+2025-06-02,JRN-9030,Invoice,ZI-1030,INV-1030,Consumer Goods,Income,CUST-004,Delta Stores Limited,0,86616,Sales,Mumbai,Sales invoice INV-1030
+2025-06-02,JRN-9030,Invoice,ZI-1030,INV-1030,Output GST Payable,Other Current Liability,CUST-004,Delta Stores Limited,0,15590.88,Sales,Mumbai,Sales invoice INV-1030
+2025-07-19,JRN-9031,Invoice,ZI-1031,INV-1031,Accounts Receivable,Accounts Receivable,CUST-007,Grand Retailers,74702.26,0,Sales,Ahmedabad,Sales invoice INV-1031
+2025-07-19,JRN-9031,Invoice,ZI-1031,INV-1031,Packaging Revenue,Income,CUST-007,Grand Retailers,0,63307,Sales,Ahmedabad,Sales invoice INV-1031
+2025-07-19,JRN-9031,Invoice,ZI-1031,INV-1031,Output GST Payable,Other Current Liability,CUST-007,Grand Retailers,0,11395.26,Sales,Ahmedabad,Sales invoice INV-1031
+2025-07-03,JRN-9032,Invoice,ZI-1032,INV-1032,Accounts Receivable,Accounts Receivable,CUST-006,FreshCart Retail,210349.16,0,Sales,Kolkata,Sales invoice INV-1032
+2025-07-03,JRN-9032,Invoice,ZI-1032,INV-1032,Packaging Revenue,Income,CUST-006,FreshCart Retail,0,178262,Sales,Kolkata,Sales invoice INV-1032
+2025-07-03,JRN-9032,Invoice,ZI-1032,INV-1032,Output GST Payable,Other Current Liability,CUST-006,FreshCart Retail,0,32087.16,Sales,Kolkata,Sales invoice INV-1032
+2025-07-26,JRN-9033,Invoice,ZI-1033,INV-1033,Accounts Receivable,Accounts Receivable,CUST-006,FreshCart Retail,93328.56,0,Sales,Delhi,Sales invoice INV-1033
+2025-07-26,JRN-9033,Invoice,ZI-1033,INV-1033,Speciality Revenue,Income,CUST-006,FreshCart Retail,0,79092,Sales,Delhi,Sales invoice INV-1033
+2025-07-26,JRN-9033,Invoice,ZI-1033,INV-1033,Output GST Payable,Other Current Liability,CUST-006,FreshCart Retail,0,14236.56,Sales,Delhi,Sales invoice INV-1033
+2025-07-22,JRN-9034,Invoice,ZI-1034,INV-1034,Accounts Receivable,Accounts Receivable,CUST-002,BlueMart Limited,233950.34,0,Sales,Mumbai,Sales invoice INV-1034
+2025-07-22,JRN-9034,Invoice,ZI-1034,INV-1034,Packaging Revenue,Income,CUST-002,BlueMart Limited,0,198263,Sales,Mumbai,Sales invoice INV-1034
+2025-07-22,JRN-9034,Invoice,ZI-1034,INV-1034,Output GST Payable,Other Current Liability,CUST-002,BlueMart Limited,0,35687.34,Sales,Mumbai,Sales invoice INV-1034
+2025-07-09,JRN-9035,Invoice,ZI-1035,INV-1035,Accounts Receivable,Accounts Receivable,CUST-002,BlueMart Limited,163441.8,0,Sales,Kolkata,Sales invoice INV-1035
+2025-07-09,JRN-9035,Invoice,ZI-1035,INV-1035,Industrial Supplies,Income,CUST-002,BlueMart Limited,0,138510,Sales,Kolkata,Sales invoice INV-1035
+2025-07-09,JRN-9035,Invoice,ZI-1035,INV-1035,Output GST Payable,Other Current Liability,CUST-002,BlueMart Limited,0,24931.8,Sales,Kolkata,Sales invoice INV-1035
+2025-07-21,JRN-9036,Invoice,ZI-1036,INV-1036,Accounts Receivable,Accounts Receivable,CUST-010,Jupiter Wholesale,234312.6,0,Sales,Bengaluru,Sales invoice INV-1036
+2025-07-21,JRN-9036,Invoice,ZI-1036,INV-1036,Speciality Revenue,Income,CUST-010,Jupiter Wholesale,0,198570,Sales,Bengaluru,Sales invoice INV-1036
+2025-07-21,JRN-9036,Invoice,ZI-1036,INV-1036,Output GST Payable,Other Current Liability,CUST-010,Jupiter Wholesale,0,35742.6,Sales,Bengaluru,Sales invoice INV-1036
+2025-07-06,JRN-9037,Invoice,ZI-1037,INV-1037,Accounts Receivable,Accounts Receivable,CUST-006,FreshCart Retail,226989.52,0,Sales,Bengaluru,Sales invoice INV-1037
+2025-07-06,JRN-9037,Invoice,ZI-1037,INV-1037,Industrial Supplies,Income,CUST-006,FreshCart Retail,0,192364,Sales,Bengaluru,Sales invoice INV-1037
+2025-07-06,JRN-9037,Invoice,ZI-1037,INV-1037,Output GST Payable,Other Current Liability,CUST-006,FreshCart Retail,0,34625.52,Sales,Bengaluru,Sales invoice INV-1037
+2025-07-13,JRN-9038,Invoice,ZI-1038,INV-1038,Accounts Receivable,Accounts Receivable,CUST-010,Jupiter Wholesale,141038.32,0,Sales,Mumbai,Sales invoice INV-1038
+2025-07-13,JRN-9038,Invoice,ZI-1038,INV-1038,Packaging Revenue,Income,CUST-010,Jupiter Wholesale,0,119524,Sales,Mumbai,Sales invoice INV-1038
+2025-07-13,JRN-9038,Invoice,ZI-1038,INV-1038,Output GST Payable,Other Current Liability,CUST-010,Jupiter Wholesale,0,21514.32,Sales,Mumbai,Sales invoice INV-1038
+2025-07-03,JRN-9039,Invoice,ZI-1039,INV-1039,Accounts Receivable,Accounts Receivable,CUST-002,BlueMart Limited,61139.34,0,Sales,Delhi,Sales invoice INV-1039
+2025-07-03,JRN-9039,Invoice,ZI-1039,INV-1039,Packaging Revenue,Income,CUST-002,BlueMart Limited,0,51813,Sales,Delhi,Sales invoice INV-1039
+2025-07-03,JRN-9039,Invoice,ZI-1039,INV-1039,Output GST Payable,Other Current Liability,CUST-002,BlueMart Limited,0,9326.34,Sales,Delhi,Sales invoice INV-1039
+2025-07-25,JRN-9040,Invoice,ZI-1040,INV-1040,Accounts Receivable,Accounts Receivable,CUST-002,BlueMart Limited,146393.16,0,Sales,Bengaluru,Sales invoice INV-1040
+2025-07-25,JRN-9040,Invoice,ZI-1040,INV-1040,Industrial Supplies,Income,CUST-002,BlueMart Limited,0,124062,Sales,Bengaluru,Sales invoice INV-1040
+2025-07-25,JRN-9040,Invoice,ZI-1040,INV-1040,Output GST Payable,Other Current Liability,CUST-002,BlueMart Limited,0,22331.16,Sales,Bengaluru,Sales invoice INV-1040
+2025-08-18,JRN-9041,Invoice,ZI-1041,INV-1041,Accounts Receivable,Accounts Receivable,CUST-004,Delta Stores Limited,344017.2,0,Sales,Ahmedabad,Sales invoice INV-1041
+2025-08-18,JRN-9041,Invoice,ZI-1041,INV-1041,Speciality Revenue,Income,CUST-004,Delta Stores Limited,0,291540,Sales,Ahmedabad,Sales invoice INV-1041
+2025-08-18,JRN-9041,Invoice,ZI-1041,INV-1041,Output GST Payable,Other Current Liability,CUST-004,Delta Stores Limited,0,52477.2,Sales,Ahmedabad,Sales invoice INV-1041
+2025-08-14,JRN-9042,Invoice,ZI-1042,INV-1042,Accounts Receivable,Accounts Receivable,CUST-002,BlueMart Limited,249909.84,0,Sales,Bengaluru,Sales invoice INV-1042
+2025-08-14,JRN-9042,Invoice,ZI-1042,INV-1042,Packaging Revenue,Income,CUST-002,BlueMart Limited,0,211788,Sales,Bengaluru,Sales invoice INV-1042
+2025-08-14,JRN-9042,Invoice,ZI-1042,INV-1042,Output GST Payable,Other Current Liability,CUST-002,BlueMart Limited,0,38121.84,Sales,Bengaluru,Sales invoice INV-1042
+2025-08-06,JRN-9043,Invoice,ZI-1043,INV-1043,Accounts Receivable,Accounts Receivable,CUST-006,FreshCart Retail,116703.18,0,Sales,Ahmedabad,Sales invoice INV-1043
+2025-08-06,JRN-9043,Invoice,ZI-1043,INV-1043,Consumer Goods,Income,CUST-006,FreshCart Retail,0,98901,Sales,Ahmedabad,Sales invoice INV-1043
+2025-08-06,JRN-9043,Invoice,ZI-1043,INV-1043,Output GST Payable,Other Current Liability,CUST-006,FreshCart Retail,0,17802.18,Sales,Ahmedabad,Sales invoice INV-1043
+2025-08-14,JRN-9044,Invoice,ZI-1044,INV-1044,Accounts Receivable,Accounts Receivable,CUST-004,Delta Stores Limited,109754.16,0,Sales,Mumbai,Sales invoice INV-1044
+2025-08-14,JRN-9044,Invoice,ZI-1044,INV-1044,Consumer Goods,Income,CUST-004,Delta Stores Limited,0,93012,Sales,Mumbai,Sales invoice INV-1044
+2025-08-14,JRN-9044,Invoice,ZI-1044,INV-1044,Output GST Payable,Other Current Liability,CUST-004,Delta Stores Limited,0,16742.16,Sales,Mumbai,Sales invoice INV-1044
+2025-08-18,JRN-9045,Invoice,ZI-1045,INV-1045,Accounts Receivable,Accounts Receivable,CUST-009,Indus Stores,139986.94,0,Sales,Mumbai,Sales invoice INV-1045
+2025-08-18,JRN-9045,Invoice,ZI-1045,INV-1045,Packaging Revenue,Income,CUST-009,Indus Stores,0,118633,Sales,Mumbai,Sales invoice INV-1045
+2025-08-18,JRN-9045,Invoice,ZI-1045,INV-1045,Output GST Payable,Other Current Liability,CUST-009,Indus Stores,0,21353.94,Sales,Mumbai,Sales invoice INV-1045
+2025-08-07,JRN-9046,Invoice,ZI-1046,INV-1046,Accounts Receivable,Accounts Receivable,CUST-001,Apex Retail Pvt Ltd,148658.76,0,Sales,Mumbai,Sales invoice INV-1046
+2025-08-07,JRN-9046,Invoice,ZI-1046,INV-1046,Industrial Supplies,Income,CUST-001,Apex Retail Pvt Ltd,0,125982,Sales,Mumbai,Sales invoice INV-1046
+2025-08-07,JRN-9046,Invoice,ZI-1046,INV-1046,Output GST Payable,Other Current Liability,CUST-001,Apex Retail Pvt Ltd,0,22676.76,Sales,Mumbai,Sales invoice INV-1046
+2025-08-19,JRN-9047,Invoice,ZI-1047,INV-1047,Accounts Receivable,Accounts Receivable,CUST-001,Apex Retail Pvt Ltd,149022.2,0,Sales,Kolkata,Sales invoice INV-1047
+2025-08-19,JRN-9047,Invoice,ZI-1047,INV-1047,Packaging Revenue,Income,CUST-001,Apex Retail Pvt Ltd,0,126290,Sales,Kolkata,Sales invoice INV-1047
+2025-08-19,JRN-9047,Invoice,ZI-1047,INV-1047,Output GST Payable,Other Current Liability,CUST-001,Apex Retail Pvt Ltd,0,22732.2,Sales,Kolkata,Sales invoice INV-1047
+2025-08-07,JRN-9048,Invoice,ZI-1048,INV-1048,Accounts Receivable,Accounts Receivable,CUST-003,City Bazaar Pvt Ltd,227799,0,Sales,Kolkata,Sales invoice INV-1048
+2025-08-07,JRN-9048,Invoice,ZI-1048,INV-1048,Packaging Revenue,Income,CUST-003,City Bazaar Pvt Ltd,0,193050,Sales,Kolkata,Sales invoice INV-1048
+2025-08-07,JRN-9048,Invoice,ZI-1048,INV-1048,Output GST Payable,Other Current Liability,CUST-003,City Bazaar Pvt Ltd,0,34749,Sales,Kolkata,Sales invoice INV-1048
+2025-08-03,JRN-9049,Invoice,ZI-1049,INV-1049,Accounts Receivable,Accounts Receivable,CUST-003,City Bazaar Pvt Ltd,219451.68,0,Sales,Mumbai,Sales invoice INV-1049
+2025-08-03,JRN-9049,Invoice,ZI-1049,INV-1049,Industrial Supplies,Income,CUST-003,City Bazaar Pvt Ltd,0,185976,Sales,Mumbai,Sales invoice INV-1049
+2025-08-03,JRN-9049,Invoice,ZI-1049,INV-1049,Output GST Payable,Other Current Liability,CUST-003,City Bazaar Pvt Ltd,0,33475.68,Sales,Mumbai,Sales invoice INV-1049
+2025-08-23,JRN-9050,Invoice,ZI-1050,INV-1050,Accounts Receivable,Accounts Receivable,CUST-006,FreshCart Retail,143688.6,0,Sales,Mumbai,Sales invoice INV-1050
+2025-08-23,JRN-9050,Invoice,ZI-1050,INV-1050,Consumer Goods,Income,CUST-006,FreshCart Retail,0,121770,Sales,Mumbai,Sales invoice INV-1050
+2025-08-23,JRN-9050,Invoice,ZI-1050,INV-1050,Output GST Payable,Other Current Liability,CUST-006,FreshCart Retail,0,21918.6,Sales,Mumbai,Sales invoice INV-1050
+2025-09-15,JRN-9051,Invoice,ZI-1051,INV-1051,Accounts Receivable,Accounts Receivable,CUST-009,Indus Stores,172138.4,0,Sales,Ahmedabad,Sales invoice INV-1051
+2025-09-15,JRN-9051,Invoice,ZI-1051,INV-1051,Packaging Revenue,Income,CUST-009,Indus Stores,0,145880,Sales,Ahmedabad,Sales invoice INV-1051
+2025-09-15,JRN-9051,Invoice,ZI-1051,INV-1051,Output GST Payable,Other Current Liability,CUST-009,Indus Stores,0,26258.4,Sales,Ahmedabad,Sales invoice INV-1051
+2025-09-21,JRN-9052,Invoice,ZI-1052,INV-1052,Accounts Receivable,Accounts Receivable,CUST-007,Grand Retailers,85564.16,0,Sales,Ahmedabad,Sales invoice INV-1052
+2025-09-21,JRN-9052,Invoice,ZI-1052,INV-1052,Packaging Revenue,Income,CUST-007,Grand Retailers,0,72512,Sales,Ahmedabad,Sales invoice INV-1052
+2025-09-21,JRN-9052,Invoice,ZI-1052,INV-1052,Output GST Payable,Other Current Liability,CUST-007,Grand Retailers,0,13052.16,Sales,Ahmedabad,Sales invoice INV-1052
+2025-09-06,JRN-9053,Invoice,ZI-1053,INV-1053,Accounts Receivable,Accounts Receivable,CUST-008,Harbor Mart,136667.6,0,Sales,Ahmedabad,Sales invoice INV-1053
+2025-09-06,JRN-9053,Invoice,ZI-1053,INV-1053,Consumer Goods,Income,CUST-008,Harbor Mart,0,115820,Sales,Ahmedabad,Sales invoice INV-1053
+2025-09-06,JRN-9053,Invoice,ZI-1053,INV-1053,Output GST Payable,Other Current Liability,CUST-008,Harbor Mart,0,20847.6,Sales,Ahmedabad,Sales invoice INV-1053
+2025-09-22,JRN-9054,Invoice,ZI-1054,INV-1054,Accounts Receivable,Accounts Receivable,CUST-005,Eastline Traders,139242.36,0,Sales,Bengaluru,Sales invoice INV-1054
+2025-09-22,JRN-9054,Invoice,ZI-1054,INV-1054,Industrial Supplies,Income,CUST-005,Eastline Traders,0,118002,Sales,Bengaluru,Sales invoice INV-1054
+2025-09-22,JRN-9054,Invoice,ZI-1054,INV-1054,Output GST Payable,Other Current Liability,CUST-005,Eastline Traders,0,21240.36,Sales,Bengaluru,Sales invoice INV-1054
+2025-09-20,JRN-9055,Invoice,ZI-1055,INV-1055,Accounts Receivable,Accounts Receivable,CUST-002,BlueMart Limited,137199.78,0,Sales,Mumbai,Sales invoice INV-1055
+2025-09-20,JRN-9055,Invoice,ZI-1055,INV-1055,Speciality Revenue,Income,CUST-002,BlueMart Limited,0,116271,Sales,Mumbai,Sales invoice INV-1055
+2025-09-20,JRN-9055,Invoice,ZI-1055,INV-1055,Output GST Payable,Other Current Liability,CUST-002,BlueMart Limited,0,20928.78,Sales,Mumbai,Sales invoice INV-1055
+2025-09-15,JRN-9056,Invoice,ZI-1056,INV-1056,Accounts Receivable,Accounts Receivable,CUST-006,FreshCart Retail,111107.62,0,Sales,Bengaluru,Sales invoice INV-1056
+2025-09-15,JRN-9056,Invoice,ZI-1056,INV-1056,Industrial Supplies,Income,CUST-006,FreshCart Retail,0,94159,Sales,Bengaluru,Sales invoice INV-1056
+2025-09-15,JRN-9056,Invoice,ZI-1056,INV-1056,Output GST Payable,Other Current Liability,CUST-006,FreshCart Retail,0,16948.62,Sales,Bengaluru,Sales invoice INV-1056
+2025-09-23,JRN-9057,Invoice,ZI-1057,INV-1057,Accounts Receivable,Accounts Receivable,CUST-007,Grand Retailers,139240,0,Sales,Ahmedabad,Sales invoice INV-1057
+2025-09-23,JRN-9057,Invoice,ZI-1057,INV-1057,Packaging Revenue,Income,CUST-007,Grand Retailers,0,118000,Sales,Ahmedabad,Sales invoice INV-1057
+2025-09-23,JRN-9057,Invoice,ZI-1057,INV-1057,Output GST Payable,Other Current Liability,CUST-007,Grand Retailers,0,21240,Sales,Ahmedabad,Sales invoice INV-1057
+2025-09-22,JRN-9058,Invoice,ZI-1058,INV-1058,Accounts Receivable,Accounts Receivable,CUST-009,Indus Stores,298339.4,0,Sales,Delhi,Sales invoice INV-1058
+2025-09-22,JRN-9058,Invoice,ZI-1058,INV-1058,Industrial Supplies,Income,CUST-009,Indus Stores,0,252830,Sales,Delhi,Sales invoice INV-1058
+2025-09-22,JRN-9058,Invoice,ZI-1058,INV-1058,Output GST Payable,Other Current Liability,CUST-009,Indus Stores,0,45509.4,Sales,Delhi,Sales invoice INV-1058
+2025-09-09,JRN-9059,Invoice,ZI-1059,INV-1059,Accounts Receivable,Accounts Receivable,CUST-010,Jupiter Wholesale,339528.48,0,Sales,Kolkata,Sales invoice INV-1059
+2025-09-09,JRN-9059,Invoice,ZI-1059,INV-1059,Speciality Revenue,Income,CUST-010,Jupiter Wholesale,0,287736,Sales,Kolkata,Sales invoice INV-1059
+2025-09-09,JRN-9059,Invoice,ZI-1059,INV-1059,Output GST Payable,Other Current Liability,CUST-010,Jupiter Wholesale,0,51792.48,Sales,Kolkata,Sales invoice INV-1059
+2025-09-02,JRN-9060,Invoice,ZI-1060,INV-1060,Accounts Receivable,Accounts Receivable,CUST-009,Indus Stores,197513.12,0,Sales,Mumbai,Sales invoice INV-1060
+2025-09-02,JRN-9060,Invoice,ZI-1060,INV-1060,Packaging Revenue,Income,CUST-009,Indus Stores,0,167384,Sales,Mumbai,Sales invoice INV-1060
+2025-09-02,JRN-9060,Invoice,ZI-1060,INV-1060,Output GST Payable,Other Current Liability,CUST-009,Indus Stores,0,30129.12,Sales,Mumbai,Sales invoice INV-1060
+2025-10-17,JRN-9061,Invoice,ZI-1061,INV-1061,Accounts Receivable,Accounts Receivable,CUST-007,Grand Retailers,252807.92,0,Sales,Mumbai,Sales invoice INV-1061
+2025-10-17,JRN-9061,Invoice,ZI-1061,INV-1061,Packaging Revenue,Income,CUST-007,Grand Retailers,0,214244,Sales,Mumbai,Sales invoice INV-1061
+2025-10-17,JRN-9061,Invoice,ZI-1061,INV-1061,Output GST Payable,Other Current Liability,CUST-007,Grand Retailers,0,38563.92,Sales,Mumbai,Sales invoice INV-1061
+2025-10-03,JRN-9062,Invoice,ZI-1062,INV-1062,Accounts Receivable,Accounts Receivable,CUST-009,Indus Stores,100682.32,0,Sales,Kolkata,Sales invoice INV-1062
+2025-10-03,JRN-9062,Invoice,ZI-1062,INV-1062,Industrial Supplies,Income,CUST-009,Indus Stores,0,85324,Sales,Kolkata,Sales invoice INV-1062
+2025-10-03,JRN-9062,Invoice,ZI-1062,INV-1062,Output GST Payable,Other Current Liability,CUST-009,Indus Stores,0,15358.32,Sales,Kolkata,Sales invoice INV-1062
+2025-10-19,JRN-9063,Invoice,ZI-1063,INV-1063,Accounts Receivable,Accounts Receivable,CUST-001,Apex Retail Pvt Ltd,100995.02,0,Sales,Bengaluru,Sales invoice INV-1063
+2025-10-19,JRN-9063,Invoice,ZI-1063,INV-1063,Speciality Revenue,Income,CUST-001,Apex Retail Pvt Ltd,0,85589,Sales,Bengaluru,Sales invoice INV-1063
+2025-10-19,JRN-9063,Invoice,ZI-1063,INV-1063,Output GST Payable,Other Current Liability,CUST-001,Apex Retail Pvt Ltd,0,15406.02,Sales,Bengaluru,Sales invoice INV-1063
+2025-10-15,JRN-9064,Invoice,ZI-1064,INV-1064,Accounts Receivable,Accounts Receivable,CUST-007,Grand Retailers,193698.18,0,Sales,Delhi,Sales invoice INV-1064
+2025-10-15,JRN-9064,Invoice,ZI-1064,INV-1064,Industrial Supplies,Income,CUST-007,Grand Retailers,0,164151,Sales,Delhi,Sales invoice INV-1064
+2025-10-15,JRN-9064,Invoice,ZI-1064,INV-1064,Output GST Payable,Other Current Liability,CUST-007,Grand Retailers,0,29547.18,Sales,Delhi,Sales invoice INV-1064
+2025-10-26,JRN-9065,Invoice,ZI-1065,INV-1065,Accounts Receivable,Accounts Receivable,CUST-002,BlueMart Limited,123928.32,0,Sales,Bengaluru,Sales invoice INV-1065
+2025-10-26,JRN-9065,Invoice,ZI-1065,INV-1065,Speciality Revenue,Income,CUST-002,BlueMart Limited,0,105024,Sales,Bengaluru,Sales invoice INV-1065
+2025-10-26,JRN-9065,Invoice,ZI-1065,INV-1065,Output GST Payable,Other Current Liability,CUST-002,BlueMart Limited,0,18904.32,Sales,Bengaluru,Sales invoice INV-1065
+2025-10-24,JRN-9066,Invoice,ZI-1066,INV-1066,Accounts Receivable,Accounts Receivable,CUST-002,BlueMart Limited,58535.08,0,Sales,Bengaluru,Sales invoice INV-1066
+2025-10-24,JRN-9066,Invoice,ZI-1066,INV-1066,Industrial Supplies,Income,CUST-002,BlueMart Limited,0,49606,Sales,Bengaluru,Sales invoice INV-1066
+2025-10-24,JRN-9066,Invoice,ZI-1066,INV-1066,Output GST Payable,Other Current Liability,CUST-002,BlueMart Limited,0,8929.08,Sales,Bengaluru,Sales invoice INV-1066
+2025-10-05,JRN-9067,Invoice,ZI-1067,INV-1067,Accounts Receivable,Accounts Receivable,CUST-004,Delta Stores Limited,135676.4,0,Sales,Bengaluru,Sales invoice INV-1067
+2025-10-05,JRN-9067,Invoice,ZI-1067,INV-1067,Consumer Goods,Income,CUST-004,Delta Stores Limited,0,114980,Sales,Bengaluru,Sales invoice INV-1067
+2025-10-05,JRN-9067,Invoice,ZI-1067,INV-1067,Output GST Payable,Other Current Liability,CUST-004,Delta Stores Limited,0,20696.4,Sales,Bengaluru,Sales invoice INV-1067
+2025-10-12,JRN-9068,Invoice,ZI-1068,INV-1068,Accounts Receivable,Accounts Receivable,CUST-009,Indus Stores,123681.7,0,Sales,Ahmedabad,Sales invoice INV-1068
+2025-10-12,JRN-9068,Invoice,ZI-1068,INV-1068,Packaging Revenue,Income,CUST-009,Indus Stores,0,104815,Sales,Ahmedabad,Sales invoice INV-1068
+2025-10-12,JRN-9068,Invoice,ZI-1068,INV-1068,Output GST Payable,Other Current Liability,CUST-009,Indus Stores,0,18866.7,Sales,Ahmedabad,Sales invoice INV-1068
+2025-10-05,JRN-9069,Invoice,ZI-1069,INV-1069,Accounts Receivable,Accounts Receivable,CUST-005,Eastline Traders,295438.96,0,Sales,Delhi,Sales invoice INV-1069
+2025-10-05,JRN-9069,Invoice,ZI-1069,INV-1069,Industrial Supplies,Income,CUST-005,Eastline Traders,0,250372,Sales,Delhi,Sales invoice INV-1069
+2025-10-05,JRN-9069,Invoice,ZI-1069,INV-1069,Output GST Payable,Other Current Liability,CUST-005,Eastline Traders,0,45066.96,Sales,Delhi,Sales invoice INV-1069
+2025-10-11,JRN-9070,Invoice,ZI-1070,INV-1070,Accounts Receivable,Accounts Receivable,CUST-009,Indus Stores,214790.68,0,Sales,Bengaluru,Sales invoice INV-1070
+2025-10-11,JRN-9070,Invoice,ZI-1070,INV-1070,Industrial Supplies,Income,CUST-009,Indus Stores,0,182026,Sales,Bengaluru,Sales invoice INV-1070
+2025-10-11,JRN-9070,Invoice,ZI-1070,INV-1070,Output GST Payable,Other Current Liability,CUST-009,Indus Stores,0,32764.68,Sales,Bengaluru,Sales invoice INV-1070
+2025-11-06,JRN-9071,Invoice,ZI-1071,INV-1071,Accounts Receivable,Accounts Receivable,CUST-007,Grand Retailers,68345.6,0,Sales,Delhi,Sales invoice INV-1071
+2025-11-06,JRN-9071,Invoice,ZI-1071,INV-1071,Consumer Goods,Income,CUST-007,Grand Retailers,0,57920,Sales,Delhi,Sales invoice INV-1071
+2025-11-06,JRN-9071,Invoice,ZI-1071,INV-1071,Output GST Payable,Other Current Liability,CUST-007,Grand Retailers,0,10425.6,Sales,Delhi,Sales invoice INV-1071
+2025-11-23,JRN-9072,Invoice,ZI-1072,INV-1072,Accounts Receivable,Accounts Receivable,CUST-007,Grand Retailers,121038.5,0,Sales,Ahmedabad,Sales invoice INV-1072
+2025-11-23,JRN-9072,Invoice,ZI-1072,INV-1072,Consumer Goods,Income,CUST-007,Grand Retailers,0,102575,Sales,Ahmedabad,Sales invoice INV-1072
+2025-11-23,JRN-9072,Invoice,ZI-1072,INV-1072,Output GST Payable,Other Current Liability,CUST-007,Grand Retailers,0,18463.5,Sales,Ahmedabad,Sales invoice INV-1072
+2025-11-08,JRN-9073,Invoice,ZI-1073,INV-1073,Accounts Receivable,Accounts Receivable,CUST-009,Indus Stores,141133.9,0,Sales,Mumbai,Sales invoice INV-1073
+2025-11-08,JRN-9073,Invoice,ZI-1073,INV-1073,Industrial Supplies,Income,CUST-009,Indus Stores,0,119605,Sales,Mumbai,Sales invoice INV-1073
+2025-11-08,JRN-9073,Invoice,ZI-1073,INV-1073,Output GST Payable,Other Current Liability,CUST-009,Indus Stores,0,21528.9,Sales,Mumbai,Sales invoice INV-1073
+2025-11-23,JRN-9074,Invoice,ZI-1074,INV-1074,Accounts Receivable,Accounts Receivable,CUST-007,Grand Retailers,71390,0,Sales,Delhi,Sales invoice INV-1074
+2025-11-23,JRN-9074,Invoice,ZI-1074,INV-1074,Consumer Goods,Income,CUST-007,Grand Retailers,0,60500,Sales,Delhi,Sales invoice INV-1074
+2025-11-23,JRN-9074,Invoice,ZI-1074,INV-1074,Output GST Payable,Other Current Liability,CUST-007,Grand Retailers,0,10890,Sales,Delhi,Sales invoice INV-1074
+2025-11-06,JRN-9075,Invoice,ZI-1075,INV-1075,Accounts Receivable,Accounts Receivable,CUST-007,Grand Retailers,57304.34,0,Sales,Delhi,Sales invoice INV-1075
+2025-11-06,JRN-9075,Invoice,ZI-1075,INV-1075,Consumer Goods,Income,CUST-007,Grand Retailers,0,48563,Sales,Delhi,Sales invoice INV-1075
+2025-11-06,JRN-9075,Invoice,ZI-1075,INV-1075,Output GST Payable,Other Current Liability,CUST-007,Grand Retailers,0,8741.34,Sales,Delhi,Sales invoice INV-1075
+2025-11-07,JRN-9076,Invoice,ZI-1076,INV-1076,Accounts Receivable,Accounts Receivable,CUST-004,Delta Stores Limited,77166.1,0,Sales,Kolkata,Sales invoice INV-1076
+2025-11-07,JRN-9076,Invoice,ZI-1076,INV-1076,Consumer Goods,Income,CUST-004,Delta Stores Limited,0,65395,Sales,Kolkata,Sales invoice INV-1076
+2025-11-07,JRN-9076,Invoice,ZI-1076,INV-1076,Output GST Payable,Other Current Liability,CUST-004,Delta Stores Limited,0,11771.1,Sales,Kolkata,Sales invoice INV-1076
+2025-11-17,JRN-9077,Invoice,ZI-1077,INV-1077,Accounts Receivable,Accounts Receivable,CUST-004,Delta Stores Limited,65596.2,0,Sales,Kolkata,Sales invoice INV-1077
+2025-11-17,JRN-9077,Invoice,ZI-1077,INV-1077,Packaging Revenue,Income,CUST-004,Delta Stores Limited,0,55590,Sales,Kolkata,Sales invoice INV-1077
+2025-11-17,JRN-9077,Invoice,ZI-1077,INV-1077,Output GST Payable,Other Current Liability,CUST-004,Delta Stores Limited,0,10006.2,Sales,Kolkata,Sales invoice INV-1077
+2025-11-09,JRN-9078,Invoice,ZI-1078,INV-1078,Accounts Receivable,Accounts Receivable,CUST-009,Indus Stores,149848.2,0,Sales,Delhi,Sales invoice INV-1078
+2025-11-09,JRN-9078,Invoice,ZI-1078,INV-1078,Consumer Goods,Income,CUST-009,Indus Stores,0,126990,Sales,Delhi,Sales invoice INV-1078
+2025-11-09,JRN-9078,Invoice,ZI-1078,INV-1078,Output GST Payable,Other Current Liability,CUST-009,Indus Stores,0,22858.2,Sales,Delhi,Sales invoice INV-1078
+2025-11-23,JRN-9079,Invoice,ZI-1079,INV-1079,Accounts Receivable,Accounts Receivable,CUST-007,Grand Retailers,120950,0,Sales,Delhi,Sales invoice INV-1079
+2025-11-23,JRN-9079,Invoice,ZI-1079,INV-1079,Packaging Revenue,Income,CUST-007,Grand Retailers,0,102500,Sales,Delhi,Sales invoice INV-1079
+2025-11-23,JRN-9079,Invoice,ZI-1079,INV-1079,Output GST Payable,Other Current Liability,CUST-007,Grand Retailers,0,18450,Sales,Delhi,Sales invoice INV-1079
+2025-11-02,JRN-9080,Invoice,ZI-1080,INV-1080,Accounts Receivable,Accounts Receivable,CUST-007,Grand Retailers,153348.08,0,Sales,Ahmedabad,Sales invoice INV-1080
+2025-11-02,JRN-9080,Invoice,ZI-1080,INV-1080,Packaging Revenue,Income,CUST-007,Grand Retailers,0,129956,Sales,Ahmedabad,Sales invoice INV-1080
+2025-11-02,JRN-9080,Invoice,ZI-1080,INV-1080,Output GST Payable,Other Current Liability,CUST-007,Grand Retailers,0,23392.08,Sales,Ahmedabad,Sales invoice INV-1080
+2025-12-05,JRN-9081,Invoice,ZI-1081,INV-1081,Accounts Receivable,Accounts Receivable,CUST-006,FreshCart Retail,113213.92,0,Sales,Kolkata,Sales invoice INV-1081
+2025-12-05,JRN-9081,Invoice,ZI-1081,INV-1081,Consumer Goods,Income,CUST-006,FreshCart Retail,0,95944,Sales,Kolkata,Sales invoice INV-1081
+2025-12-05,JRN-9081,Invoice,ZI-1081,INV-1081,Output GST Payable,Other Current Liability,CUST-006,FreshCart Retail,0,17269.92,Sales,Kolkata,Sales invoice INV-1081
+2025-12-10,JRN-9082,Invoice,ZI-1082,INV-1082,Accounts Receivable,Accounts Receivable,CUST-004,Delta Stores Limited,228157.72,0,Sales,Ahmedabad,Sales invoice INV-1082
+2025-12-10,JRN-9082,Invoice,ZI-1082,INV-1082,Packaging Revenue,Income,CUST-004,Delta Stores Limited,0,193354,Sales,Ahmedabad,Sales invoice INV-1082
+2025-12-10,JRN-9082,Invoice,ZI-1082,INV-1082,Output GST Payable,Other Current Liability,CUST-004,Delta Stores Limited,0,34803.72,Sales,Ahmedabad,Sales invoice INV-1082
+2025-12-12,JRN-9083,Invoice,ZI-1083,INV-1083,Accounts Receivable,Accounts Receivable,CUST-009,Indus Stores,145904.64,0,Sales,Kolkata,Sales invoice INV-1083
+2025-12-12,JRN-9083,Invoice,ZI-1083,INV-1083,Packaging Revenue,Income,CUST-009,Indus Stores,0,123648,Sales,Kolkata,Sales invoice INV-1083
+2025-12-12,JRN-9083,Invoice,ZI-1083,INV-1083,Output GST Payable,Other Current Liability,CUST-009,Indus Stores,0,22256.64,Sales,Kolkata,Sales invoice INV-1083
+2025-12-09,JRN-9084,Invoice,ZI-1084,INV-1084,Accounts Receivable,Accounts Receivable,CUST-002,BlueMart Limited,109074.48,0,Sales,Kolkata,Sales invoice INV-1084
+2025-12-09,JRN-9084,Invoice,ZI-1084,INV-1084,Packaging Revenue,Income,CUST-002,BlueMart Limited,0,92436,Sales,Kolkata,Sales invoice INV-1084
+2025-12-09,JRN-9084,Invoice,ZI-1084,INV-1084,Output GST Payable,Other Current Liability,CUST-002,BlueMart Limited,0,16638.48,Sales,Kolkata,Sales invoice INV-1084
+2025-12-19,JRN-9085,Invoice,ZI-1085,INV-1085,Accounts Receivable,Accounts Receivable,CUST-004,Delta Stores Limited,81731.52,0,Sales,Delhi,Sales invoice INV-1085
+2025-12-19,JRN-9085,Invoice,ZI-1085,INV-1085,Packaging Revenue,Income,CUST-004,Delta Stores Limited,0,69264,Sales,Delhi,Sales invoice INV-1085
+2025-12-19,JRN-9085,Invoice,ZI-1085,INV-1085,Output GST Payable,Other Current Liability,CUST-004,Delta Stores Limited,0,12467.52,Sales,Delhi,Sales invoice INV-1085
+2025-12-11,JRN-9086,Invoice,ZI-1086,INV-1086,Accounts Receivable,Accounts Receivable,CUST-003,City Bazaar Pvt Ltd,194770.8,0,Sales,Mumbai,Sales invoice INV-1086
+2025-12-11,JRN-9086,Invoice,ZI-1086,INV-1086,Packaging Revenue,Income,CUST-003,City Bazaar Pvt Ltd,0,165060,Sales,Mumbai,Sales invoice INV-1086
+2025-12-11,JRN-9086,Invoice,ZI-1086,INV-1086,Output GST Payable,Other Current Liability,CUST-003,City Bazaar Pvt Ltd,0,29710.8,Sales,Mumbai,Sales invoice INV-1086
+2025-12-13,JRN-9087,Invoice,ZI-1087,INV-1087,Accounts Receivable,Accounts Receivable,CUST-005,Eastline Traders,109397.8,0,Sales,Kolkata,Sales invoice INV-1087
+2025-12-13,JRN-9087,Invoice,ZI-1087,INV-1087,Consumer Goods,Income,CUST-005,Eastline Traders,0,92710,Sales,Kolkata,Sales invoice INV-1087
+2025-12-13,JRN-9087,Invoice,ZI-1087,INV-1087,Output GST Payable,Other Current Liability,CUST-005,Eastline Traders,0,16687.8,Sales,Kolkata,Sales invoice INV-1087
+2025-12-06,JRN-9088,Invoice,ZI-1088,INV-1088,Accounts Receivable,Accounts Receivable,CUST-003,City Bazaar Pvt Ltd,77323.04,0,Sales,Ahmedabad,Sales invoice INV-1088
+2025-12-06,JRN-9088,Invoice,ZI-1088,INV-1088,Consumer Goods,Income,CUST-003,City Bazaar Pvt Ltd,0,65528,Sales,Ahmedabad,Sales invoice INV-1088
+2025-12-06,JRN-9088,Invoice,ZI-1088,INV-1088,Output GST Payable,Other Current Liability,CUST-003,City Bazaar Pvt Ltd,0,11795.04,Sales,Ahmedabad,Sales invoice INV-1088
+2025-12-15,JRN-9089,Invoice,ZI-1089,INV-1089,Accounts Receivable,Accounts Receivable,CUST-001,Apex Retail Pvt Ltd,190650.24,0,Sales,Mumbai,Sales invoice INV-1089
+2025-12-15,JRN-9089,Invoice,ZI-1089,INV-1089,Consumer Goods,Income,CUST-001,Apex Retail Pvt Ltd,0,161568,Sales,Mumbai,Sales invoice INV-1089
+2025-12-15,JRN-9089,Invoice,ZI-1089,INV-1089,Output GST Payable,Other Current Liability,CUST-001,Apex Retail Pvt Ltd,0,29082.24,Sales,Mumbai,Sales invoice INV-1089
+2025-12-21,JRN-9090,Invoice,ZI-1090,INV-1090,Accounts Receivable,Accounts Receivable,CUST-005,Eastline Traders,98341.2,0,Sales,Kolkata,Sales invoice INV-1090
+2025-12-21,JRN-9090,Invoice,ZI-1090,INV-1090,Industrial Supplies,Income,CUST-005,Eastline Traders,0,83340,Sales,Kolkata,Sales invoice INV-1090
+2025-12-21,JRN-9090,Invoice,ZI-1090,INV-1090,Output GST Payable,Other Current Liability,CUST-005,Eastline Traders,0,15001.2,Sales,Kolkata,Sales invoice INV-1090
+2026-01-11,JRN-9091,Invoice,ZI-1091,INV-1091,Accounts Receivable,Accounts Receivable,CUST-002,BlueMart Limited,82463.12,0,Sales,Bengaluru,Sales invoice INV-1091
+2026-01-11,JRN-9091,Invoice,ZI-1091,INV-1091,Consumer Goods,Income,CUST-002,BlueMart Limited,0,69884,Sales,Bengaluru,Sales invoice INV-1091
+2026-01-11,JRN-9091,Invoice,ZI-1091,INV-1091,Output GST Payable,Other Current Liability,CUST-002,BlueMart Limited,0,12579.12,Sales,Bengaluru,Sales invoice INV-1091
+2026-01-25,JRN-9092,Invoice,ZI-1092,INV-1092,Accounts Receivable,Accounts Receivable,CUST-009,Indus Stores,185234.04,0,Sales,Bengaluru,Sales invoice INV-1092
+2026-01-25,JRN-9092,Invoice,ZI-1092,INV-1092,Packaging Revenue,Income,CUST-009,Indus Stores,0,156978,Sales,Bengaluru,Sales invoice INV-1092
+2026-01-25,JRN-9092,Invoice,ZI-1092,INV-1092,Output GST Payable,Other Current Liability,CUST-009,Indus Stores,0,28256.04,Sales,Bengaluru,Sales invoice INV-1092
+2026-01-21,JRN-9093,Invoice,ZI-1093,INV-1093,Accounts Receivable,Accounts Receivable,CUST-005,Eastline Traders,132750,0,Sales,Bengaluru,Sales invoice INV-1093
+2026-01-21,JRN-9093,Invoice,ZI-1093,INV-1093,Industrial Supplies,Income,CUST-005,Eastline Traders,0,112500,Sales,Bengaluru,Sales invoice INV-1093
+2026-01-21,JRN-9093,Invoice,ZI-1093,INV-1093,Output GST Payable,Other Current Liability,CUST-005,Eastline Traders,0,20250,Sales,Bengaluru,Sales invoice INV-1093
+2026-01-26,JRN-9094,Invoice,ZI-1094,INV-1094,Accounts Receivable,Accounts Receivable,CUST-010,Jupiter Wholesale,154709.8,0,Sales,Delhi,Sales invoice INV-1094
+2026-01-26,JRN-9094,Invoice,ZI-1094,INV-1094,Consumer Goods,Income,CUST-010,Jupiter Wholesale,0,131110,Sales,Delhi,Sales invoice INV-1094
+2026-01-26,JRN-9094,Invoice,ZI-1094,INV-1094,Output GST Payable,Other Current Liability,CUST-010,Jupiter Wholesale,0,23599.8,Sales,Delhi,Sales invoice INV-1094
+2026-01-02,JRN-9095,Invoice,ZI-1095,INV-1095,Accounts Receivable,Accounts Receivable,CUST-010,Jupiter Wholesale,78616.32,0,Sales,Bengaluru,Sales invoice INV-1095
+2026-01-02,JRN-9095,Invoice,ZI-1095,INV-1095,Speciality Revenue,Income,CUST-010,Jupiter Wholesale,0,66624,Sales,Bengaluru,Sales invoice INV-1095
+2026-01-02,JRN-9095,Invoice,ZI-1095,INV-1095,Output GST Payable,Other Current Liability,CUST-010,Jupiter Wholesale,0,11992.32,Sales,Bengaluru,Sales invoice INV-1095
+2026-01-19,JRN-9096,Invoice,ZI-1096,INV-1096,Accounts Receivable,Accounts Receivable,CUST-007,Grand Retailers,360790.9,0,Sales,Kolkata,Sales invoice INV-1096
+2026-01-19,JRN-9096,Invoice,ZI-1096,INV-1096,Speciality Revenue,Income,CUST-007,Grand Retailers,0,305755,Sales,Kolkata,Sales invoice INV-1096
+2026-01-19,JRN-9096,Invoice,ZI-1096,INV-1096,Output GST Payable,Other Current Liability,CUST-007,Grand Retailers,0,55035.9,Sales,Kolkata,Sales invoice INV-1096
+2026-01-11,JRN-9097,Invoice,ZI-1097,INV-1097,Accounts Receivable,Accounts Receivable,CUST-001,Apex Retail Pvt Ltd,318398.22,0,Sales,Ahmedabad,Sales invoice INV-1097
+2026-01-11,JRN-9097,Invoice,ZI-1097,INV-1097,Speciality Revenue,Income,CUST-001,Apex Retail Pvt Ltd,0,269829,Sales,Ahmedabad,Sales invoice INV-1097
+2026-01-11,JRN-9097,Invoice,ZI-1097,INV-1097,Output GST Payable,Other Current Liability,CUST-001,Apex Retail Pvt Ltd,0,48569.22,Sales,Ahmedabad,Sales invoice INV-1097
+2026-01-08,JRN-9098,Invoice,ZI-1098,INV-1098,Accounts Receivable,Accounts Receivable,CUST-010,Jupiter Wholesale,170642.16,0,Sales,Kolkata,Sales invoice INV-1098
+2026-01-08,JRN-9098,Invoice,ZI-1098,INV-1098,Packaging Revenue,Income,CUST-010,Jupiter Wholesale,0,144612,Sales,Kolkata,Sales invoice INV-1098
+2026-01-08,JRN-9098,Invoice,ZI-1098,INV-1098,Output GST Payable,Other Current Liability,CUST-010,Jupiter Wholesale,0,26030.16,Sales,Kolkata,Sales invoice INV-1098
+2026-01-06,JRN-9099,Invoice,ZI-1099,INV-1099,Accounts Receivable,Accounts Receivable,CUST-008,Harbor Mart,69773.4,0,Sales,Ahmedabad,Sales invoice INV-1099
+2026-01-06,JRN-9099,Invoice,ZI-1099,INV-1099,Consumer Goods,Income,CUST-008,Harbor Mart,0,59130,Sales,Ahmedabad,Sales invoice INV-1099
+2026-01-06,JRN-9099,Invoice,ZI-1099,INV-1099,Output GST Payable,Other Current Liability,CUST-008,Harbor Mart,0,10643.4,Sales,Ahmedabad,Sales invoice INV-1099
+2026-01-01,JRN-9100,Invoice,ZI-1100,INV-1100,Accounts Receivable,Accounts Receivable,CUST-001,Apex Retail Pvt Ltd,194381.4,0,Sales,Bengaluru,Sales invoice INV-1100
+2026-01-01,JRN-9100,Invoice,ZI-1100,INV-1100,Speciality Revenue,Income,CUST-001,Apex Retail Pvt Ltd,0,164730,Sales,Bengaluru,Sales invoice INV-1100
+2026-01-01,JRN-9100,Invoice,ZI-1100,INV-1100,Output GST Payable,Other Current Liability,CUST-001,Apex Retail Pvt Ltd,0,29651.4,Sales,Bengaluru,Sales invoice INV-1100
+2026-02-25,JRN-9101,Invoice,ZI-1101,INV-1101,Accounts Receivable,Accounts Receivable,CUST-003,City Bazaar Pvt Ltd,108309.84,0,Sales,Bengaluru,Sales invoice INV-1101
+2026-02-25,JRN-9101,Invoice,ZI-1101,INV-1101,Packaging Revenue,Income,CUST-003,City Bazaar Pvt Ltd,0,91788,Sales,Bengaluru,Sales invoice INV-1101
+2026-02-25,JRN-9101,Invoice,ZI-1101,INV-1101,Output GST Payable,Other Current Liability,CUST-003,City Bazaar Pvt Ltd,0,16521.84,Sales,Bengaluru,Sales invoice INV-1101
+2026-02-11,JRN-9102,Invoice,ZI-1102,INV-1102,Accounts Receivable,Accounts Receivable,CUST-007,Grand Retailers,363204,0,Sales,Ahmedabad,Sales invoice INV-1102
+2026-02-11,JRN-9102,Invoice,ZI-1102,INV-1102,Speciality Revenue,Income,CUST-007,Grand Retailers,0,307800,Sales,Ahmedabad,Sales invoice INV-1102
+2026-02-11,JRN-9102,Invoice,ZI-1102,INV-1102,Output GST Payable,Other Current Liability,CUST-007,Grand Retailers,0,55404,Sales,Ahmedabad,Sales invoice INV-1102
+2026-02-08,JRN-9103,Invoice,ZI-1103,INV-1103,Accounts Receivable,Accounts Receivable,CUST-009,Indus Stores,244401.6,0,Sales,Mumbai,Sales invoice INV-1103
+2026-02-08,JRN-9103,Invoice,ZI-1103,INV-1103,Industrial Supplies,Income,CUST-009,Indus Stores,0,207120,Sales,Mumbai,Sales invoice INV-1103
+2026-02-08,JRN-9103,Invoice,ZI-1103,INV-1103,Output GST Payable,Other Current Liability,CUST-009,Indus Stores,0,37281.6,Sales,Mumbai,Sales invoice INV-1103
+2026-02-23,JRN-9104,Invoice,ZI-1104,INV-1104,Accounts Receivable,Accounts Receivable,CUST-002,BlueMart Limited,65539.56,0,Sales,Kolkata,Sales invoice INV-1104
+2026-02-23,JRN-9104,Invoice,ZI-1104,INV-1104,Packaging Revenue,Income,CUST-002,BlueMart Limited,0,55542,Sales,Kolkata,Sales invoice INV-1104
+2026-02-23,JRN-9104,Invoice,ZI-1104,INV-1104,Output GST Payable,Other Current Liability,CUST-002,BlueMart Limited,0,9997.56,Sales,Kolkata,Sales invoice INV-1104
+2026-02-26,JRN-9105,Invoice,ZI-1105,INV-1105,Accounts Receivable,Accounts Receivable,CUST-004,Delta Stores Limited,256208.68,0,Sales,Mumbai,Sales invoice INV-1105
+2026-02-26,JRN-9105,Invoice,ZI-1105,INV-1105,Industrial Supplies,Income,CUST-004,Delta Stores Limited,0,217126,Sales,Mumbai,Sales invoice INV-1105
+2026-02-26,JRN-9105,Invoice,ZI-1105,INV-1105,Output GST Payable,Other Current Liability,CUST-004,Delta Stores Limited,0,39082.68,Sales,Mumbai,Sales invoice INV-1105
+2026-02-25,JRN-9106,Invoice,ZI-1106,INV-1106,Accounts Receivable,Accounts Receivable,CUST-003,City Bazaar Pvt Ltd,200906.8,0,Sales,Bengaluru,Sales invoice INV-1106
+2026-02-25,JRN-9106,Invoice,ZI-1106,INV-1106,Industrial Supplies,Income,CUST-003,City Bazaar Pvt Ltd,0,170260,Sales,Bengaluru,Sales invoice INV-1106
+2026-02-25,JRN-9106,Invoice,ZI-1106,INV-1106,Output GST Payable,Other Current Liability,CUST-003,City Bazaar Pvt Ltd,0,30646.8,Sales,Bengaluru,Sales invoice INV-1106
+2026-02-20,JRN-9107,Invoice,ZI-1107,INV-1107,Accounts Receivable,Accounts Receivable,CUST-001,Apex Retail Pvt Ltd,92535.6,0,Sales,Delhi,Sales invoice INV-1107
+2026-02-20,JRN-9107,Invoice,ZI-1107,INV-1107,Consumer Goods,Income,CUST-001,Apex Retail Pvt Ltd,0,78420,Sales,Delhi,Sales invoice INV-1107
+2026-02-20,JRN-9107,Invoice,ZI-1107,INV-1107,Output GST Payable,Other Current Liability,CUST-001,Apex Retail Pvt Ltd,0,14115.6,Sales,Delhi,Sales invoice INV-1107
+2026-02-02,JRN-9108,Invoice,ZI-1108,INV-1108,Accounts Receivable,Accounts Receivable,CUST-001,Apex Retail Pvt Ltd,191943.52,0,Sales,Kolkata,Sales invoice INV-1108
+2026-02-02,JRN-9108,Invoice,ZI-1108,INV-1108,Speciality Revenue,Income,CUST-001,Apex Retail Pvt Ltd,0,162664,Sales,Kolkata,Sales invoice INV-1108
+2026-02-02,JRN-9108,Invoice,ZI-1108,INV-1108,Output GST Payable,Other Current Liability,CUST-001,Apex Retail Pvt Ltd,0,29279.52,Sales,Kolkata,Sales invoice INV-1108
+2026-02-09,JRN-9109,Invoice,ZI-1109,INV-1109,Accounts Receivable,Accounts Receivable,CUST-004,Delta Stores Limited,220680.06,0,Sales,Bengaluru,Sales invoice INV-1109
+2026-02-09,JRN-9109,Invoice,ZI-1109,INV-1109,Speciality Revenue,Income,CUST-004,Delta Stores Limited,0,187017,Sales,Bengaluru,Sales invoice INV-1109
+2026-02-09,JRN-9109,Invoice,ZI-1109,INV-1109,Output GST Payable,Other Current Liability,CUST-004,Delta Stores Limited,0,33663.06,Sales,Bengaluru,Sales invoice INV-1109
+2026-02-20,JRN-9110,Invoice,ZI-1110,INV-1110,Accounts Receivable,Accounts Receivable,CUST-002,BlueMart Limited,77970.86,0,Sales,Ahmedabad,Sales invoice INV-1110
+2026-02-20,JRN-9110,Invoice,ZI-1110,INV-1110,Industrial Supplies,Income,CUST-002,BlueMart Limited,0,66077,Sales,Ahmedabad,Sales invoice INV-1110
+2026-02-20,JRN-9110,Invoice,ZI-1110,INV-1110,Output GST Payable,Other Current Liability,CUST-002,BlueMart Limited,0,11893.86,Sales,Ahmedabad,Sales invoice INV-1110
+2026-03-13,JRN-9111,Invoice,ZI-1111,INV-1111,Accounts Receivable,Accounts Receivable,CUST-005,Eastline Traders,163807.6,0,Sales,Ahmedabad,Sales invoice INV-1111
+2026-03-13,JRN-9111,Invoice,ZI-1111,INV-1111,Consumer Goods,Income,CUST-005,Eastline Traders,0,138820,Sales,Ahmedabad,Sales invoice INV-1111
+2026-03-13,JRN-9111,Invoice,ZI-1111,INV-1111,Output GST Payable,Other Current Liability,CUST-005,Eastline Traders,0,24987.6,Sales,Ahmedabad,Sales invoice INV-1111
+2026-03-14,JRN-9112,Invoice,ZI-1112,INV-1112,Accounts Receivable,Accounts Receivable,CUST-006,FreshCart Retail,67519.6,0,Sales,Mumbai,Sales invoice INV-1112
+2026-03-14,JRN-9112,Invoice,ZI-1112,INV-1112,Consumer Goods,Income,CUST-006,FreshCart Retail,0,57220,Sales,Mumbai,Sales invoice INV-1112
+2026-03-14,JRN-9112,Invoice,ZI-1112,INV-1112,Output GST Payable,Other Current Liability,CUST-006,FreshCart Retail,0,10299.6,Sales,Mumbai,Sales invoice INV-1112
+2026-03-06,JRN-9113,Invoice,ZI-1113,INV-1113,Accounts Receivable,Accounts Receivable,CUST-002,BlueMart Limited,187835.94,0,Sales,Ahmedabad,Sales invoice INV-1113
+2026-03-06,JRN-9113,Invoice,ZI-1113,INV-1113,Industrial Supplies,Income,CUST-002,BlueMart Limited,0,159183,Sales,Ahmedabad,Sales invoice INV-1113
+2026-03-06,JRN-9113,Invoice,ZI-1113,INV-1113,Output GST Payable,Other Current Liability,CUST-002,BlueMart Limited,0,28652.94,Sales,Ahmedabad,Sales invoice INV-1113
+2026-03-25,JRN-9114,Invoice,ZI-1114,INV-1114,Accounts Receivable,Accounts Receivable,CUST-009,Indus Stores,159977.32,0,Sales,Bengaluru,Sales invoice INV-1114
+2026-03-25,JRN-9114,Invoice,ZI-1114,INV-1114,Consumer Goods,Income,CUST-009,Indus Stores,0,135574,Sales,Bengaluru,Sales invoice INV-1114
+2026-03-25,JRN-9114,Invoice,ZI-1114,INV-1114,Output GST Payable,Other Current Liability,CUST-009,Indus Stores,0,24403.32,Sales,Bengaluru,Sales invoice INV-1114
+2026-03-04,JRN-9115,Invoice,ZI-1115,INV-1115,Accounts Receivable,Accounts Receivable,CUST-004,Delta Stores Limited,148764.96,0,Sales,Mumbai,Sales invoice INV-1115
+2026-03-04,JRN-9115,Invoice,ZI-1115,INV-1115,Packaging Revenue,Income,CUST-004,Delta Stores Limited,0,126072,Sales,Mumbai,Sales invoice INV-1115
+2026-03-04,JRN-9115,Invoice,ZI-1115,INV-1115,Output GST Payable,Other Current Liability,CUST-004,Delta Stores Limited,0,22692.96,Sales,Mumbai,Sales invoice INV-1115
+2026-03-22,JRN-9116,Invoice,ZI-1116,INV-1116,Accounts Receivable,Accounts Receivable,CUST-005,Eastline Traders,217525.92,0,Sales,Ahmedabad,Sales invoice INV-1116
+2026-03-22,JRN-9116,Invoice,ZI-1116,INV-1116,Packaging Revenue,Income,CUST-005,Eastline Traders,0,184344,Sales,Ahmedabad,Sales invoice INV-1116
+2026-03-22,JRN-9116,Invoice,ZI-1116,INV-1116,Output GST Payable,Other Current Liability,CUST-005,Eastline Traders,0,33181.92,Sales,Ahmedabad,Sales invoice INV-1116
+2026-03-11,JRN-9117,Invoice,ZI-1117,INV-1117,Accounts Receivable,Accounts Receivable,CUST-001,Apex Retail Pvt Ltd,59910.96,0,Sales,Delhi,Sales invoice INV-1117
+2026-03-11,JRN-9117,Invoice,ZI-1117,INV-1117,Packaging Revenue,Income,CUST-001,Apex Retail Pvt Ltd,0,50772,Sales,Delhi,Sales invoice INV-1117
+2026-03-11,JRN-9117,Invoice,ZI-1117,INV-1117,Output GST Payable,Other Current Liability,CUST-001,Apex Retail Pvt Ltd,0,9138.96,Sales,Delhi,Sales invoice INV-1117
+2026-03-17,JRN-9118,Invoice,ZI-1118,INV-1118,Accounts Receivable,Accounts Receivable,CUST-005,Eastline Traders,160843.44,0,Sales,Ahmedabad,Sales invoice INV-1118
+2026-03-17,JRN-9118,Invoice,ZI-1118,INV-1118,Industrial Supplies,Income,CUST-005,Eastline Traders,0,136308,Sales,Ahmedabad,Sales invoice INV-1118
+2026-03-17,JRN-9118,Invoice,ZI-1118,INV-1118,Output GST Payable,Other Current Liability,CUST-005,Eastline Traders,0,24535.44,Sales,Ahmedabad,Sales invoice INV-1118
+2026-03-09,JRN-9119,Invoice,ZI-1119,INV-1119,Accounts Receivable,Accounts Receivable,CUST-008,Harbor Mart,121242.64,0,Sales,Bengaluru,Sales invoice INV-1119
+2026-03-09,JRN-9119,Invoice,ZI-1119,INV-1119,Speciality Revenue,Income,CUST-008,Harbor Mart,0,102748,Sales,Bengaluru,Sales invoice INV-1119
+2026-03-09,JRN-9119,Invoice,ZI-1119,INV-1119,Output GST Payable,Other Current Liability,CUST-008,Harbor Mart,0,18494.64,Sales,Bengaluru,Sales invoice INV-1119
+2026-03-09,JRN-9120,Invoice,ZI-1120,INV-1120,Accounts Receivable,Accounts Receivable,CUST-009,Indus Stores,187109.06,0,Sales,Ahmedabad,Sales invoice INV-1120
+2026-03-09,JRN-9120,Invoice,ZI-1120,INV-1120,Industrial Supplies,Income,CUST-009,Indus Stores,0,158567,Sales,Ahmedabad,Sales invoice INV-1120
+2026-03-09,JRN-9120,Invoice,ZI-1120,INV-1120,Output GST Payable,Other Current Liability,CUST-009,Indus Stores,0,28542.06,Sales,Ahmedabad,Sales invoice INV-1120
+2025-06-06,JRN-9121,Customer Payment,ZCP-5001,PAY-5001,HDFC Bank Current A/c,Bank,CUST-005,Eastline Traders,78327.1,0,Finance,Kolkata,Receipt against INV-1001
+2025-06-06,JRN-9121,Customer Payment,ZCP-5001,PAY-5001,Accounts Receivable,Accounts Receivable,CUST-005,Eastline Traders,0,78327.1,Finance,Kolkata,Receipt against INV-1001
+2025-06-18,JRN-9122,Customer Payment,ZCP-5002,PAY-5002,ICICI Bank Current A/c,Bank,CUST-003,City Bazaar Pvt Ltd,28008.48,0,Finance,Ahmedabad,Receipt against INV-1002
+2025-06-18,JRN-9122,Customer Payment,ZCP-5002,PAY-5002,Accounts Receivable,Accounts Receivable,CUST-003,City Bazaar Pvt Ltd,0,28008.48,Finance,Ahmedabad,Receipt against INV-1002
+2025-05-10,JRN-9123,Customer Payment,ZCP-5003,PAY-5003,ICICI Bank Current A/c,Bank,CUST-007,Grand Retailers,106511.52,0,Finance,Bengaluru,Receipt against INV-1003
+2025-05-10,JRN-9123,Customer Payment,ZCP-5003,PAY-5003,Accounts Receivable,Accounts Receivable,CUST-007,Grand Retailers,0,106511.52,Finance,Bengaluru,Receipt against INV-1003
+2025-04-24,JRN-9124,Customer Payment,ZCP-5004,PAY-5004,ICICI Bank Current A/c,Bank,CUST-008,Harbor Mart,104936.22,0,Finance,Kolkata,Receipt against INV-1004
+2025-04-24,JRN-9124,Customer Payment,ZCP-5004,PAY-5004,Accounts Receivable,Accounts Receivable,CUST-008,Harbor Mart,0,104936.22,Finance,Kolkata,Receipt against INV-1004
+2025-06-03,JRN-9125,Customer Payment,ZCP-5005,PAY-5005,HDFC Bank Current A/c,Bank,CUST-004,Delta Stores Limited,332229,0,Finance,Kolkata,Receipt against INV-1005
+2025-06-03,JRN-9125,Customer Payment,ZCP-5005,PAY-5005,Accounts Receivable,Accounts Receivable,CUST-004,Delta Stores Limited,0,332229,Finance,Kolkata,Receipt against INV-1005
+2025-05-25,JRN-9126,Customer Payment,ZCP-5006,PAY-5006,HDFC Bank Current A/c,Bank,CUST-007,Grand Retailers,105197,0,Finance,Delhi,Receipt against INV-1006
+2025-05-25,JRN-9126,Customer Payment,ZCP-5006,PAY-5006,Accounts Receivable,Accounts Receivable,CUST-007,Grand Retailers,0,105197,Finance,Delhi,Receipt against INV-1006
+2025-05-18,JRN-9127,Customer Payment,ZCP-5007,PAY-5007,ICICI Bank Current A/c,Bank,CUST-005,Eastline Traders,53118.41,0,Finance,Bengaluru,Receipt against INV-1007
+2025-05-18,JRN-9127,Customer Payment,ZCP-5007,PAY-5007,Accounts Receivable,Accounts Receivable,CUST-005,Eastline Traders,0,53118.41,Finance,Bengaluru,Receipt against INV-1007
+2025-05-23,JRN-9128,Customer Payment,ZCP-5008,PAY-5008,ICICI Bank Current A/c,Bank,CUST-005,Eastline Traders,65736.38,0,Finance,Delhi,Receipt against INV-1008
+2025-05-23,JRN-9128,Customer Payment,ZCP-5008,PAY-5008,Accounts Receivable,Accounts Receivable,CUST-005,Eastline Traders,0,65736.38,Finance,Delhi,Receipt against INV-1008
+2025-05-28,JRN-9129,Customer Payment,ZCP-5009,PAY-5009,HDFC Bank Current A/c,Bank,CUST-004,Delta Stores Limited,150945.6,0,Finance,Ahmedabad,Receipt against INV-1009
+2025-05-28,JRN-9129,Customer Payment,ZCP-5009,PAY-5009,Accounts Receivable,Accounts Receivable,CUST-004,Delta Stores Limited,0,150945.6,Finance,Ahmedabad,Receipt against INV-1009
+2025-05-01,JRN-9130,Customer Payment,ZCP-5010,PAY-5010,ICICI Bank Current A/c,Bank,CUST-008,Harbor Mart,162495.68,0,Finance,Kolkata,Receipt against INV-1010
+2025-05-01,JRN-9130,Customer Payment,ZCP-5010,PAY-5010,Accounts Receivable,Accounts Receivable,CUST-008,Harbor Mart,0,162495.68,Finance,Kolkata,Receipt against INV-1010
+2025-07-06,JRN-9131,Customer Payment,ZCP-5011,PAY-5011,ICICI Bank Current A/c,Bank,CUST-008,Harbor Mart,42557.88,0,Finance,Bengaluru,Receipt against INV-1011
+2025-07-06,JRN-9131,Customer Payment,ZCP-5011,PAY-5011,Accounts Receivable,Accounts Receivable,CUST-008,Harbor Mart,0,42557.88,Finance,Bengaluru,Receipt against INV-1011
+2025-06-03,JRN-9132,Customer Payment,ZCP-5012,PAY-5012,ICICI Bank Current A/c,Bank,CUST-009,Indus Stores,83260.8,0,Finance,Bengaluru,Receipt against INV-1012
+2025-06-03,JRN-9132,Customer Payment,ZCP-5012,PAY-5012,Accounts Receivable,Accounts Receivable,CUST-009,Indus Stores,0,83260.8,Finance,Bengaluru,Receipt against INV-1012
+2025-06-21,JRN-9133,Customer Payment,ZCP-5013,PAY-5013,HDFC Bank Current A/c,Bank,CUST-008,Harbor Mart,125380.9,0,Finance,Ahmedabad,Receipt against INV-1013
+2025-06-21,JRN-9133,Customer Payment,ZCP-5013,PAY-5013,Accounts Receivable,Accounts Receivable,CUST-008,Harbor Mart,0,125380.9,Finance,Ahmedabad,Receipt against INV-1013
+2025-06-05,JRN-9134,Customer Payment,ZCP-5014,PAY-5014,HDFC Bank Current A/c,Bank,CUST-002,BlueMart Limited,168890.57,0,Finance,Kolkata,Receipt against INV-1014
+2025-06-05,JRN-9134,Customer Payment,ZCP-5014,PAY-5014,Accounts Receivable,Accounts Receivable,CUST-002,BlueMart Limited,0,168890.57,Finance,Kolkata,Receipt against INV-1014
+2025-05-22,JRN-9135,Customer Payment,ZCP-5015,PAY-5015,ICICI Bank Current A/c,Bank,CUST-006,FreshCart Retail,145186.02,0,Finance,Mumbai,Receipt against INV-1015
+2025-05-22,JRN-9135,Customer Payment,ZCP-5015,PAY-5015,Accounts Receivable,Accounts Receivable,CUST-006,FreshCart Retail,0,145186.02,Finance,Mumbai,Receipt against INV-1015
+2025-07-03,JRN-9136,Customer Payment,ZCP-5016,PAY-5016,ICICI Bank Current A/c,Bank,CUST-005,Eastline Traders,83119.2,0,Finance,Bengaluru,Receipt against INV-1017
+2025-07-03,JRN-9136,Customer Payment,ZCP-5016,PAY-5016,Accounts Receivable,Accounts Receivable,CUST-005,Eastline Traders,0,83119.2,Finance,Bengaluru,Receipt against INV-1017
+2025-06-05,JRN-9137,Customer Payment,ZCP-5017,PAY-5017,HDFC Bank Current A/c,Bank,CUST-003,City Bazaar Pvt Ltd,185249.38,0,Finance,Kolkata,Receipt against INV-1018
+2025-06-05,JRN-9137,Customer Payment,ZCP-5017,PAY-5017,Accounts Receivable,Accounts Receivable,CUST-003,City Bazaar Pvt Ltd,0,185249.38,Finance,Kolkata,Receipt against INV-1018
+2025-05-21,JRN-9138,Customer Payment,ZCP-5018,PAY-5018,ICICI Bank Current A/c,Bank,CUST-007,Grand Retailers,134455.1,0,Finance,Ahmedabad,Receipt against INV-1019
+2025-05-21,JRN-9138,Customer Payment,ZCP-5018,PAY-5018,Accounts Receivable,Accounts Receivable,CUST-007,Grand Retailers,0,134455.1,Finance,Ahmedabad,Receipt against INV-1019
+2025-07-05,JRN-9139,Customer Payment,ZCP-5019,PAY-5019,HDFC Bank Current A/c,Bank,CUST-008,Harbor Mart,258405.84,0,Finance,Bengaluru,Receipt against INV-1020
+2025-07-05,JRN-9139,Customer Payment,ZCP-5019,PAY-5019,Accounts Receivable,Accounts Receivable,CUST-008,Harbor Mart,0,258405.84,Finance,Bengaluru,Receipt against INV-1020
+2025-06-12,JRN-9140,Customer Payment,ZCP-5020,PAY-5020,ICICI Bank Current A/c,Bank,CUST-010,Jupiter Wholesale,183696.5,0,Finance,Bengaluru,Receipt against INV-1021
+2025-06-12,JRN-9140,Customer Payment,ZCP-5020,PAY-5020,Accounts Receivable,Accounts Receivable,CUST-010,Jupiter Wholesale,0,183696.5,Finance,Bengaluru,Receipt against INV-1021
+2025-06-24,JRN-9141,Customer Payment,ZCP-5021,PAY-5021,HDFC Bank Current A/c,Bank,CUST-010,Jupiter Wholesale,284051.96,0,Finance,Delhi,Receipt against INV-1022
+2025-06-24,JRN-9141,Customer Payment,ZCP-5021,PAY-5021,Accounts Receivable,Accounts Receivable,CUST-010,Jupiter Wholesale,0,284051.96,Finance,Delhi,Receipt against INV-1022
+2025-07-16,JRN-9142,Customer Payment,ZCP-5022,PAY-5022,HDFC Bank Current A/c,Bank,CUST-009,Indus Stores,87744.8,0,Finance,Kolkata,Receipt against INV-1023
+2025-07-16,JRN-9142,Customer Payment,ZCP-5022,PAY-5022,Accounts Receivable,Accounts Receivable,CUST-009,Indus Stores,0,87744.8,Finance,Kolkata,Receipt against INV-1023
+2025-06-29,JRN-9143,Customer Payment,ZCP-5023,PAY-5023,HDFC Bank Current A/c,Bank,CUST-010,Jupiter Wholesale,78672.96,0,Finance,Ahmedabad,Receipt against INV-1024
+2025-06-29,JRN-9143,Customer Payment,ZCP-5023,PAY-5023,Accounts Receivable,Accounts Receivable,CUST-010,Jupiter Wholesale,0,78672.96,Finance,Ahmedabad,Receipt against INV-1024
+2025-08-06,JRN-9144,Customer Payment,ZCP-5024,PAY-5024,ICICI Bank Current A/c,Bank,CUST-003,City Bazaar Pvt Ltd,262547.64,0,Finance,Mumbai,Receipt against INV-1025
+2025-08-06,JRN-9144,Customer Payment,ZCP-5024,PAY-5024,Accounts Receivable,Accounts Receivable,CUST-003,City Bazaar Pvt Ltd,0,262547.64,Finance,Mumbai,Receipt against INV-1025
+2025-06-29,JRN-9145,Customer Payment,ZCP-5025,PAY-5025,ICICI Bank Current A/c,Bank,CUST-010,Jupiter Wholesale,152054.8,0,Finance,Kolkata,Receipt against INV-1027
+2025-06-29,JRN-9145,Customer Payment,ZCP-5025,PAY-5025,Accounts Receivable,Accounts Receivable,CUST-010,Jupiter Wholesale,0,152054.8,Finance,Kolkata,Receipt against INV-1027
+2025-07-09,JRN-9146,Customer Payment,ZCP-5026,PAY-5026,HDFC Bank Current A/c,Bank,CUST-002,BlueMart Limited,86653.18,0,Finance,Mumbai,Receipt against INV-1028
+2025-07-09,JRN-9146,Customer Payment,ZCP-5026,PAY-5026,Accounts Receivable,Accounts Receivable,CUST-002,BlueMart Limited,0,86653.18,Finance,Mumbai,Receipt against INV-1028
+2025-08-14,JRN-9147,Customer Payment,ZCP-5027,PAY-5027,ICICI Bank Current A/c,Bank,CUST-006,FreshCart Retail,85356.48,0,Finance,Mumbai,Receipt against INV-1029
+2025-08-14,JRN-9147,Customer Payment,ZCP-5027,PAY-5027,Accounts Receivable,Accounts Receivable,CUST-006,FreshCart Retail,0,85356.48,Finance,Mumbai,Receipt against INV-1029
+2025-08-25,JRN-9148,Customer Payment,ZCP-5028,PAY-5028,ICICI Bank Current A/c,Bank,CUST-007,Grand Retailers,52291.58,0,Finance,Bengaluru,Receipt against INV-1031
+2025-08-25,JRN-9148,Customer Payment,ZCP-5028,PAY-5028,Accounts Receivable,Accounts Receivable,CUST-007,Grand Retailers,0,52291.58,Finance,Bengaluru,Receipt against INV-1031
+2025-08-26,JRN-9149,Customer Payment,ZCP-5029,PAY-5029,HDFC Bank Current A/c,Bank,CUST-006,FreshCart Retail,210349.16,0,Finance,Delhi,Receipt against INV-1032
+2025-08-26,JRN-9149,Customer Payment,ZCP-5029,PAY-5029,Accounts Receivable,Accounts Receivable,CUST-006,FreshCart Retail,0,210349.16,Finance,Delhi,Receipt against INV-1032
+2025-08-31,JRN-9150,Customer Payment,ZCP-5030,PAY-5030,HDFC Bank Current A/c,Bank,CUST-002,BlueMart Limited,233950.34,0,Finance,Delhi,Receipt against INV-1034
+2025-08-31,JRN-9150,Customer Payment,ZCP-5030,PAY-5030,Accounts Receivable,Accounts Receivable,CUST-002,BlueMart Limited,0,233950.34,Finance,Delhi,Receipt against INV-1034
+2025-07-21,JRN-9151,Customer Payment,ZCP-5031,PAY-5031,HDFC Bank Current A/c,Bank,CUST-002,BlueMart Limited,163441.8,0,Finance,Kolkata,Receipt against INV-1035
+2025-07-21,JRN-9151,Customer Payment,ZCP-5031,PAY-5031,Accounts Receivable,Accounts Receivable,CUST-002,BlueMart Limited,0,163441.8,Finance,Kolkata,Receipt against INV-1035
+2025-09-04,JRN-9152,Customer Payment,ZCP-5032,PAY-5032,HDFC Bank Current A/c,Bank,CUST-010,Jupiter Wholesale,164018.82,0,Finance,Bengaluru,Receipt against INV-1036
+2025-09-04,JRN-9152,Customer Payment,ZCP-5032,PAY-5032,Accounts Receivable,Accounts Receivable,CUST-010,Jupiter Wholesale,0,164018.82,Finance,Bengaluru,Receipt against INV-1036
+2025-08-17,JRN-9153,Customer Payment,ZCP-5033,PAY-5033,ICICI Bank Current A/c,Bank,CUST-006,FreshCart Retail,226989.52,0,Finance,Ahmedabad,Receipt against INV-1037
+2025-08-17,JRN-9153,Customer Payment,ZCP-5033,PAY-5033,Accounts Receivable,Accounts Receivable,CUST-006,FreshCart Retail,0,226989.52,Finance,Ahmedabad,Receipt against INV-1037
+2025-08-16,JRN-9154,Customer Payment,ZCP-5034,PAY-5034,ICICI Bank Current A/c,Bank,CUST-010,Jupiter Wholesale,141038.32,0,Finance,Delhi,Receipt against INV-1038
+2025-08-16,JRN-9154,Customer Payment,ZCP-5034,PAY-5034,Accounts Receivable,Accounts Receivable,CUST-010,Jupiter Wholesale,0,141038.32,Finance,Delhi,Receipt against INV-1038
+2025-07-08,JRN-9155,Customer Payment,ZCP-5035,PAY-5035,HDFC Bank Current A/c,Bank,CUST-002,BlueMart Limited,30569.67,0,Finance,Bengaluru,Receipt against INV-1039
+2025-07-08,JRN-9155,Customer Payment,ZCP-5035,PAY-5035,Accounts Receivable,Accounts Receivable,CUST-002,BlueMart Limited,0,30569.67,Finance,Bengaluru,Receipt against INV-1039
+2025-09-11,JRN-9156,Customer Payment,ZCP-5036,PAY-5036,HDFC Bank Current A/c,Bank,CUST-004,Delta Stores Limited,172008.6,0,Finance,Kolkata,Receipt against INV-1041
+2025-09-11,JRN-9156,Customer Payment,ZCP-5036,PAY-5036,Accounts Receivable,Accounts Receivable,CUST-004,Delta Stores Limited,0,172008.6,Finance,Kolkata,Receipt against INV-1041
+2025-08-26,JRN-9157,Customer Payment,ZCP-5037,PAY-5037,ICICI Bank Current A/c,Bank,CUST-002,BlueMart Limited,174936.89,0,Finance,Delhi,Receipt against INV-1042
+2025-08-26,JRN-9157,Customer Payment,ZCP-5037,PAY-5037,Accounts Receivable,Accounts Receivable,CUST-002,BlueMart Limited,0,174936.89,Finance,Delhi,Receipt against INV-1042
+2025-08-19,JRN-9158,Customer Payment,ZCP-5038,PAY-5038,ICICI Bank Current A/c,Bank,CUST-006,FreshCart Retail,81692.23,0,Finance,Delhi,Receipt against INV-1043
+2025-08-19,JRN-9158,Customer Payment,ZCP-5038,PAY-5038,Accounts Receivable,Accounts Receivable,CUST-006,FreshCart Retail,0,81692.23,Finance,Delhi,Receipt against INV-1043
+2025-09-04,JRN-9159,Customer Payment,ZCP-5039,PAY-5039,ICICI Bank Current A/c,Bank,CUST-004,Delta Stores Limited,54877.08,0,Finance,Bengaluru,Receipt against INV-1044
+2025-09-04,JRN-9159,Customer Payment,ZCP-5039,PAY-5039,Accounts Receivable,Accounts Receivable,CUST-004,Delta Stores Limited,0,54877.08,Finance,Bengaluru,Receipt against INV-1044
+2025-09-25,JRN-9160,Customer Payment,ZCP-5040,PAY-5040,ICICI Bank Current A/c,Bank,CUST-009,Indus Stores,69993.47,0,Finance,Mumbai,Receipt against INV-1045
+2025-09-25,JRN-9160,Customer Payment,ZCP-5040,PAY-5040,Accounts Receivable,Accounts Receivable,CUST-009,Indus Stores,0,69993.47,Finance,Mumbai,Receipt against INV-1045
+2025-09-24,JRN-9161,Customer Payment,ZCP-5041,PAY-5041,HDFC Bank Current A/c,Bank,CUST-001,Apex Retail Pvt Ltd,74511.1,0,Finance,Kolkata,Receipt against INV-1047
+2025-09-24,JRN-9161,Customer Payment,ZCP-5041,PAY-5041,Accounts Receivable,Accounts Receivable,CUST-001,Apex Retail Pvt Ltd,0,74511.1,Finance,Kolkata,Receipt against INV-1047
+2025-09-03,JRN-9162,Customer Payment,ZCP-5042,PAY-5042,ICICI Bank Current A/c,Bank,CUST-003,City Bazaar Pvt Ltd,159459.3,0,Finance,Delhi,Receipt against INV-1048
+2025-09-03,JRN-9162,Customer Payment,ZCP-5042,PAY-5042,Accounts Receivable,Accounts Receivable,CUST-003,City Bazaar Pvt Ltd,0,159459.3,Finance,Delhi,Receipt against INV-1048
+2025-10-10,JRN-9163,Customer Payment,ZCP-5043,PAY-5043,ICICI Bank Current A/c,Bank,CUST-006,FreshCart Retail,71844.3,0,Finance,Ahmedabad,Receipt against INV-1050
+2025-10-10,JRN-9163,Customer Payment,ZCP-5043,PAY-5043,Accounts Receivable,Accounts Receivable,CUST-006,FreshCart Retail,0,71844.3,Finance,Ahmedabad,Receipt against INV-1050
+2025-10-20,JRN-9164,Customer Payment,ZCP-5044,PAY-5044,ICICI Bank Current A/c,Bank,CUST-009,Indus Stores,172138.4,0,Finance,Mumbai,Receipt against INV-1051
+2025-10-20,JRN-9164,Customer Payment,ZCP-5044,PAY-5044,Accounts Receivable,Accounts Receivable,CUST-009,Indus Stores,0,172138.4,Finance,Mumbai,Receipt against INV-1051
+2025-10-01,JRN-9165,Customer Payment,ZCP-5045,PAY-5045,HDFC Bank Current A/c,Bank,CUST-007,Grand Retailers,85564.16,0,Finance,Ahmedabad,Receipt against INV-1052
+2025-10-01,JRN-9165,Customer Payment,ZCP-5045,PAY-5045,Accounts Receivable,Accounts Receivable,CUST-007,Grand Retailers,0,85564.16,Finance,Ahmedabad,Receipt against INV-1052
+2025-10-18,JRN-9166,Customer Payment,ZCP-5046,PAY-5046,ICICI Bank Current A/c,Bank,CUST-002,BlueMart Limited,137199.78,0,Finance,Bengaluru,Receipt against INV-1055
+2025-10-18,JRN-9166,Customer Payment,ZCP-5046,PAY-5046,Accounts Receivable,Accounts Receivable,CUST-002,BlueMart Limited,0,137199.78,Finance,Bengaluru,Receipt against INV-1055
+2025-11-04,JRN-9167,Customer Payment,ZCP-5047,PAY-5047,ICICI Bank Current A/c,Bank,CUST-006,FreshCart Retail,77775.33,0,Finance,Mumbai,Receipt against INV-1056
+2025-11-04,JRN-9167,Customer Payment,ZCP-5047,PAY-5047,Accounts Receivable,Accounts Receivable,CUST-006,FreshCart Retail,0,77775.33,Finance,Mumbai,Receipt against INV-1056
+2025-11-12,JRN-9168,Customer Payment,ZCP-5048,PAY-5048,ICICI Bank Current A/c,Bank,CUST-007,Grand Retailers,69620,0,Finance,Kolkata,Receipt against INV-1057
+2025-11-12,JRN-9168,Customer Payment,ZCP-5048,PAY-5048,Accounts Receivable,Accounts Receivable,CUST-007,Grand Retailers,0,69620,Finance,Kolkata,Receipt against INV-1057
+2025-10-16,JRN-9169,Customer Payment,ZCP-5049,PAY-5049,HDFC Bank Current A/c,Bank,CUST-009,Indus Stores,208837.58,0,Finance,Delhi,Receipt against INV-1058
+2025-10-16,JRN-9169,Customer Payment,ZCP-5049,PAY-5049,Accounts Receivable,Accounts Receivable,CUST-009,Indus Stores,0,208837.58,Finance,Delhi,Receipt against INV-1058
+2025-09-30,JRN-9170,Customer Payment,ZCP-5050,PAY-5050,ICICI Bank Current A/c,Bank,CUST-010,Jupiter Wholesale,339528.48,0,Finance,Kolkata,Receipt against INV-1059
+2025-09-30,JRN-9170,Customer Payment,ZCP-5050,PAY-5050,Accounts Receivable,Accounts Receivable,CUST-010,Jupiter Wholesale,0,339528.48,Finance,Kolkata,Receipt against INV-1059
+2025-12-11,JRN-9171,Customer Payment,ZCP-5051,PAY-5051,HDFC Bank Current A/c,Bank,CUST-007,Grand Retailers,252807.92,0,Finance,Kolkata,Receipt against INV-1061
+2025-12-11,JRN-9171,Customer Payment,ZCP-5051,PAY-5051,Accounts Receivable,Accounts Receivable,CUST-007,Grand Retailers,0,252807.92,Finance,Kolkata,Receipt against INV-1061
+2025-11-16,JRN-9172,Customer Payment,ZCP-5052,PAY-5052,ICICI Bank Current A/c,Bank,CUST-009,Indus Stores,100682.32,0,Finance,Bengaluru,Receipt against INV-1062
+2025-11-16,JRN-9172,Customer Payment,ZCP-5052,PAY-5052,Accounts Receivable,Accounts Receivable,CUST-009,Indus Stores,0,100682.32,Finance,Bengaluru,Receipt against INV-1062
+2025-12-12,JRN-9173,Customer Payment,ZCP-5053,PAY-5053,HDFC Bank Current A/c,Bank,CUST-001,Apex Retail Pvt Ltd,70696.51,0,Finance,Bengaluru,Receipt against INV-1063
+2025-12-12,JRN-9173,Customer Payment,ZCP-5053,PAY-5053,Accounts Receivable,Accounts Receivable,CUST-001,Apex Retail Pvt Ltd,0,70696.51,Finance,Bengaluru,Receipt against INV-1063
+2025-12-06,JRN-9174,Customer Payment,ZCP-5054,PAY-5054,ICICI Bank Current A/c,Bank,CUST-007,Grand Retailers,193698.18,0,Finance,Bengaluru,Receipt against INV-1064
+2025-12-06,JRN-9174,Customer Payment,ZCP-5054,PAY-5054,Accounts Receivable,Accounts Receivable,CUST-007,Grand Retailers,0,193698.18,Finance,Bengaluru,Receipt against INV-1064
+2025-11-28,JRN-9175,Customer Payment,ZCP-5055,PAY-5055,ICICI Bank Current A/c,Bank,CUST-002,BlueMart Limited,123928.32,0,Finance,Ahmedabad,Receipt against INV-1065
+2025-11-28,JRN-9175,Customer Payment,ZCP-5055,PAY-5055,Accounts Receivable,Accounts Receivable,CUST-002,BlueMart Limited,0,123928.32,Finance,Ahmedabad,Receipt against INV-1065
+2025-11-22,JRN-9176,Customer Payment,ZCP-5056,PAY-5056,HDFC Bank Current A/c,Bank,CUST-009,Indus Stores,123681.7,0,Finance,Bengaluru,Receipt against INV-1068
+2025-11-22,JRN-9176,Customer Payment,ZCP-5056,PAY-5056,Accounts Receivable,Accounts Receivable,CUST-009,Indus Stores,0,123681.7,Finance,Bengaluru,Receipt against INV-1068
+2025-10-30,JRN-9177,Customer Payment,ZCP-5057,PAY-5057,HDFC Bank Current A/c,Bank,CUST-005,Eastline Traders,206807.27,0,Finance,Bengaluru,Receipt against INV-1069
+2025-10-30,JRN-9177,Customer Payment,ZCP-5057,PAY-5057,Accounts Receivable,Accounts Receivable,CUST-005,Eastline Traders,0,206807.27,Finance,Bengaluru,Receipt against INV-1069
+2025-11-25,JRN-9178,Customer Payment,ZCP-5058,PAY-5058,HDFC Bank Current A/c,Bank,CUST-009,Indus Stores,214790.68,0,Finance,Mumbai,Receipt against INV-1070
+2025-11-25,JRN-9178,Customer Payment,ZCP-5058,PAY-5058,Accounts Receivable,Accounts Receivable,CUST-009,Indus Stores,0,214790.68,Finance,Mumbai,Receipt against INV-1070
+2025-11-30,JRN-9179,Customer Payment,ZCP-5059,PAY-5059,ICICI Bank Current A/c,Bank,CUST-007,Grand Retailers,47841.92,0,Finance,Bengaluru,Receipt against INV-1071
+2025-11-30,JRN-9179,Customer Payment,ZCP-5059,PAY-5059,Accounts Receivable,Accounts Receivable,CUST-007,Grand Retailers,0,47841.92,Finance,Bengaluru,Receipt against INV-1071
+2025-12-25,JRN-9180,Customer Payment,ZCP-5060,PAY-5060,HDFC Bank Current A/c,Bank,CUST-009,Indus Stores,141133.9,0,Finance,Mumbai,Receipt against INV-1073
+2025-12-25,JRN-9180,Customer Payment,ZCP-5060,PAY-5060,Accounts Receivable,Accounts Receivable,CUST-009,Indus Stores,0,141133.9,Finance,Mumbai,Receipt against INV-1073
+2025-12-10,JRN-9181,Customer Payment,ZCP-5061,PAY-5061,ICICI Bank Current A/c,Bank,CUST-007,Grand Retailers,35695,0,Finance,Delhi,Receipt against INV-1074
+2025-12-10,JRN-9181,Customer Payment,ZCP-5061,PAY-5061,Accounts Receivable,Accounts Receivable,CUST-007,Grand Retailers,0,35695,Finance,Delhi,Receipt against INV-1074
+2025-11-27,JRN-9182,Customer Payment,ZCP-5062,PAY-5062,ICICI Bank Current A/c,Bank,CUST-004,Delta Stores Limited,38583.05,0,Finance,Bengaluru,Receipt against INV-1076
+2025-11-27,JRN-9182,Customer Payment,ZCP-5062,PAY-5062,Accounts Receivable,Accounts Receivable,CUST-004,Delta Stores Limited,0,38583.05,Finance,Bengaluru,Receipt against INV-1076
+2025-11-28,JRN-9183,Customer Payment,ZCP-5063,PAY-5063,ICICI Bank Current A/c,Bank,CUST-004,Delta Stores Limited,65596.2,0,Finance,Kolkata,Receipt against INV-1077
+2025-11-28,JRN-9183,Customer Payment,ZCP-5063,PAY-5063,Accounts Receivable,Accounts Receivable,CUST-004,Delta Stores Limited,0,65596.2,Finance,Kolkata,Receipt against INV-1077
+2026-01-07,JRN-9184,Customer Payment,ZCP-5064,PAY-5064,HDFC Bank Current A/c,Bank,CUST-007,Grand Retailers,120950,0,Finance,Mumbai,Receipt against INV-1079
+2026-01-07,JRN-9184,Customer Payment,ZCP-5064,PAY-5064,Accounts Receivable,Accounts Receivable,CUST-007,Grand Retailers,0,120950,Finance,Mumbai,Receipt against INV-1079
+2025-12-16,JRN-9185,Customer Payment,ZCP-5065,PAY-5065,HDFC Bank Current A/c,Bank,CUST-007,Grand Retailers,107343.66,0,Finance,Mumbai,Receipt against INV-1080
+2025-12-16,JRN-9185,Customer Payment,ZCP-5065,PAY-5065,Accounts Receivable,Accounts Receivable,CUST-007,Grand Retailers,0,107343.66,Finance,Mumbai,Receipt against INV-1080
+2025-12-27,JRN-9186,Customer Payment,ZCP-5066,PAY-5066,HDFC Bank Current A/c,Bank,CUST-006,FreshCart Retail,113213.92,0,Finance,Delhi,Receipt against INV-1081
+2025-12-27,JRN-9186,Customer Payment,ZCP-5066,PAY-5066,Accounts Receivable,Accounts Receivable,CUST-006,FreshCart Retail,0,113213.92,Finance,Delhi,Receipt against INV-1081
+2026-01-16,JRN-9187,Customer Payment,ZCP-5067,PAY-5067,HDFC Bank Current A/c,Bank,CUST-004,Delta Stores Limited,228157.72,0,Finance,Mumbai,Receipt against INV-1082
+2026-01-16,JRN-9187,Customer Payment,ZCP-5067,PAY-5067,Accounts Receivable,Accounts Receivable,CUST-004,Delta Stores Limited,0,228157.72,Finance,Mumbai,Receipt against INV-1082
+2026-01-07,JRN-9188,Customer Payment,ZCP-5068,PAY-5068,HDFC Bank Current A/c,Bank,CUST-009,Indus Stores,72952.32,0,Finance,Kolkata,Receipt against INV-1083
+2026-01-07,JRN-9188,Customer Payment,ZCP-5068,PAY-5068,Accounts Receivable,Accounts Receivable,CUST-009,Indus Stores,0,72952.32,Finance,Kolkata,Receipt against INV-1083
+2026-01-03,JRN-9189,Customer Payment,ZCP-5069,PAY-5069,ICICI Bank Current A/c,Bank,CUST-004,Delta Stores Limited,81731.52,0,Finance,Bengaluru,Receipt against INV-1085
+2026-01-03,JRN-9189,Customer Payment,ZCP-5069,PAY-5069,Accounts Receivable,Accounts Receivable,CUST-004,Delta Stores Limited,0,81731.52,Finance,Bengaluru,Receipt against INV-1085
+2026-01-07,JRN-9190,Customer Payment,ZCP-5070,PAY-5070,ICICI Bank Current A/c,Bank,CUST-003,City Bazaar Pvt Ltd,97385.4,0,Finance,Delhi,Receipt against INV-1086
+2026-01-07,JRN-9190,Customer Payment,ZCP-5070,PAY-5070,Accounts Receivable,Accounts Receivable,CUST-003,City Bazaar Pvt Ltd,0,97385.4,Finance,Delhi,Receipt against INV-1086
+2025-12-26,JRN-9191,Customer Payment,ZCP-5071,PAY-5071,ICICI Bank Current A/c,Bank,CUST-005,Eastline Traders,109397.8,0,Finance,Kolkata,Receipt against INV-1087
+2025-12-26,JRN-9191,Customer Payment,ZCP-5071,PAY-5071,Accounts Receivable,Accounts Receivable,CUST-005,Eastline Traders,0,109397.8,Finance,Kolkata,Receipt against INV-1087
+2025-12-26,JRN-9192,Customer Payment,ZCP-5072,PAY-5072,ICICI Bank Current A/c,Bank,CUST-003,City Bazaar Pvt Ltd,77323.04,0,Finance,Kolkata,Receipt against INV-1088
+2025-12-26,JRN-9192,Customer Payment,ZCP-5072,PAY-5072,Accounts Receivable,Accounts Receivable,CUST-003,City Bazaar Pvt Ltd,0,77323.04,Finance,Kolkata,Receipt against INV-1088
+2026-01-22,JRN-9193,Customer Payment,ZCP-5073,PAY-5073,HDFC Bank Current A/c,Bank,CUST-001,Apex Retail Pvt Ltd,95325.12,0,Finance,Ahmedabad,Receipt against INV-1089
+2026-01-22,JRN-9193,Customer Payment,ZCP-5073,PAY-5073,Accounts Receivable,Accounts Receivable,CUST-001,Apex Retail Pvt Ltd,0,95325.12,Finance,Ahmedabad,Receipt against INV-1089
+2026-01-27,JRN-9194,Customer Payment,ZCP-5074,PAY-5074,HDFC Bank Current A/c,Bank,CUST-005,Eastline Traders,98341.2,0,Finance,Mumbai,Receipt against INV-1090
+2026-01-27,JRN-9194,Customer Payment,ZCP-5074,PAY-5074,Accounts Receivable,Accounts Receivable,CUST-005,Eastline Traders,0,98341.2,Finance,Mumbai,Receipt against INV-1090
+2026-02-19,JRN-9195,Customer Payment,ZCP-5075,PAY-5075,ICICI Bank Current A/c,Bank,CUST-002,BlueMart Limited,57724.18,0,Finance,Ahmedabad,Receipt against INV-1091
+2026-02-19,JRN-9195,Customer Payment,ZCP-5075,PAY-5075,Accounts Receivable,Accounts Receivable,CUST-002,BlueMart Limited,0,57724.18,Finance,Ahmedabad,Receipt against INV-1091
+2026-03-16,JRN-9196,Customer Payment,ZCP-5076,PAY-5076,ICICI Bank Current A/c,Bank,CUST-009,Indus Stores,129663.83,0,Finance,Mumbai,Receipt against INV-1092
+2026-03-16,JRN-9196,Customer Payment,ZCP-5076,PAY-5076,Accounts Receivable,Accounts Receivable,CUST-009,Indus Stores,0,129663.83,Finance,Mumbai,Receipt against INV-1092
+2026-02-26,JRN-9197,Customer Payment,ZCP-5077,PAY-5077,ICICI Bank Current A/c,Bank,CUST-005,Eastline Traders,92925,0,Finance,Mumbai,Receipt against INV-1093
+2026-02-26,JRN-9197,Customer Payment,ZCP-5077,PAY-5077,Accounts Receivable,Accounts Receivable,CUST-005,Eastline Traders,0,92925,Finance,Mumbai,Receipt against INV-1093
+2026-03-19,JRN-9198,Customer Payment,ZCP-5078,PAY-5078,HDFC Bank Current A/c,Bank,CUST-010,Jupiter Wholesale,154709.8,0,Finance,Kolkata,Receipt against INV-1094
+2026-03-19,JRN-9198,Customer Payment,ZCP-5078,PAY-5078,Accounts Receivable,Accounts Receivable,CUST-010,Jupiter Wholesale,0,154709.8,Finance,Kolkata,Receipt against INV-1094
+2026-01-22,JRN-9199,Customer Payment,ZCP-5079,PAY-5079,ICICI Bank Current A/c,Bank,CUST-010,Jupiter Wholesale,55031.42,0,Finance,Delhi,Receipt against INV-1095
+2026-01-22,JRN-9199,Customer Payment,ZCP-5079,PAY-5079,Accounts Receivable,Accounts Receivable,CUST-010,Jupiter Wholesale,0,55031.42,Finance,Delhi,Receipt against INV-1095
+2026-02-20,JRN-9200,Customer Payment,ZCP-5080,PAY-5080,HDFC Bank Current A/c,Bank,CUST-001,Apex Retail Pvt Ltd,318398.22,0,Finance,Mumbai,Receipt against INV-1097
+2026-02-20,JRN-9200,Customer Payment,ZCP-5080,PAY-5080,Accounts Receivable,Accounts Receivable,CUST-001,Apex Retail Pvt Ltd,0,318398.22,Finance,Mumbai,Receipt against INV-1097
+2026-02-05,JRN-9201,Customer Payment,ZCP-5081,PAY-5081,HDFC Bank Current A/c,Bank,CUST-010,Jupiter Wholesale,119449.51,0,Finance,Mumbai,Receipt against INV-1098
+2026-02-05,JRN-9201,Customer Payment,ZCP-5081,PAY-5081,Accounts Receivable,Accounts Receivable,CUST-010,Jupiter Wholesale,0,119449.51,Finance,Mumbai,Receipt against INV-1098
+2026-02-09,JRN-9202,Customer Payment,ZCP-5082,PAY-5082,ICICI Bank Current A/c,Bank,CUST-008,Harbor Mart,69773.4,0,Finance,Mumbai,Receipt against INV-1099
+2026-02-09,JRN-9202,Customer Payment,ZCP-5082,PAY-5082,Accounts Receivable,Accounts Receivable,CUST-008,Harbor Mart,0,69773.4,Finance,Mumbai,Receipt against INV-1099
+2026-02-17,JRN-9203,Customer Payment,ZCP-5083,PAY-5083,HDFC Bank Current A/c,Bank,CUST-001,Apex Retail Pvt Ltd,194381.4,0,Finance,Kolkata,Receipt against INV-1100
+2026-02-17,JRN-9203,Customer Payment,ZCP-5083,PAY-5083,Accounts Receivable,Accounts Receivable,CUST-001,Apex Retail Pvt Ltd,0,194381.4,Finance,Kolkata,Receipt against INV-1100
+2026-03-08,JRN-9204,Customer Payment,ZCP-5084,PAY-5084,HDFC Bank Current A/c,Bank,CUST-003,City Bazaar Pvt Ltd,108309.84,0,Finance,Bengaluru,Receipt against INV-1101
+2026-03-08,JRN-9204,Customer Payment,ZCP-5084,PAY-5084,Accounts Receivable,Accounts Receivable,CUST-003,City Bazaar Pvt Ltd,0,108309.84,Finance,Bengaluru,Receipt against INV-1101
+2026-03-17,JRN-9205,Customer Payment,ZCP-5085,PAY-5085,HDFC Bank Current A/c,Bank,CUST-007,Grand Retailers,363204,0,Finance,Mumbai,Receipt against INV-1102
+2026-03-17,JRN-9205,Customer Payment,ZCP-5085,PAY-5085,Accounts Receivable,Accounts Receivable,CUST-007,Grand Retailers,0,363204,Finance,Mumbai,Receipt against INV-1102
+2026-03-31,JRN-9206,Customer Payment,ZCP-5086,PAY-5086,ICICI Bank Current A/c,Bank,CUST-009,Indus Stores,171081.12,0,Finance,Kolkata,Receipt against INV-1103
+2026-03-31,JRN-9206,Customer Payment,ZCP-5086,PAY-5086,Accounts Receivable,Accounts Receivable,CUST-009,Indus Stores,0,171081.12,Finance,Kolkata,Receipt against INV-1103
+2026-03-15,JRN-9207,Customer Payment,ZCP-5087,PAY-5087,HDFC Bank Current A/c,Bank,CUST-002,BlueMart Limited,65539.56,0,Finance,Delhi,Receipt against INV-1104
+2026-03-15,JRN-9207,Customer Payment,ZCP-5087,PAY-5087,Accounts Receivable,Accounts Receivable,CUST-002,BlueMart Limited,0,65539.56,Finance,Delhi,Receipt against INV-1104
+2026-03-30,JRN-9208,Customer Payment,ZCP-5088,PAY-5088,ICICI Bank Current A/c,Bank,CUST-004,Delta Stores Limited,128104.34,0,Finance,Bengaluru,Receipt against INV-1105
+2026-03-30,JRN-9208,Customer Payment,ZCP-5088,PAY-5088,Accounts Receivable,Accounts Receivable,CUST-004,Delta Stores Limited,0,128104.34,Finance,Bengaluru,Receipt against INV-1105
+2026-03-14,JRN-9209,Customer Payment,ZCP-5089,PAY-5089,ICICI Bank Current A/c,Bank,CUST-003,City Bazaar Pvt Ltd,100453.4,0,Finance,Delhi,Receipt against INV-1106
+2026-03-14,JRN-9209,Customer Payment,ZCP-5089,PAY-5089,Accounts Receivable,Accounts Receivable,CUST-003,City Bazaar Pvt Ltd,0,100453.4,Finance,Delhi,Receipt against INV-1106
+2026-03-28,JRN-9210,Customer Payment,ZCP-5090,PAY-5090,HDFC Bank Current A/c,Bank,CUST-001,Apex Retail Pvt Ltd,46267.8,0,Finance,Ahmedabad,Receipt against INV-1107
+2026-03-28,JRN-9210,Customer Payment,ZCP-5090,PAY-5090,Accounts Receivable,Accounts Receivable,CUST-001,Apex Retail Pvt Ltd,0,46267.8,Finance,Ahmedabad,Receipt against INV-1107
+2026-02-23,JRN-9211,Customer Payment,ZCP-5091,PAY-5091,HDFC Bank Current A/c,Bank,CUST-001,Apex Retail Pvt Ltd,191943.52,0,Finance,Mumbai,Receipt against INV-1108
+2026-02-23,JRN-9211,Customer Payment,ZCP-5091,PAY-5091,Accounts Receivable,Accounts Receivable,CUST-001,Apex Retail Pvt Ltd,0,191943.52,Finance,Mumbai,Receipt against INV-1108
+2026-02-26,JRN-9212,Customer Payment,ZCP-5092,PAY-5092,ICICI Bank Current A/c,Bank,CUST-004,Delta Stores Limited,220680.06,0,Finance,Bengaluru,Receipt against INV-1109
+2026-02-26,JRN-9212,Customer Payment,ZCP-5092,PAY-5092,Accounts Receivable,Accounts Receivable,CUST-004,Delta Stores Limited,0,220680.06,Finance,Bengaluru,Receipt against INV-1109
+2026-03-25,JRN-9213,Customer Payment,ZCP-5093,PAY-5093,HDFC Bank Current A/c,Bank,CUST-002,BlueMart Limited,77970.86,0,Finance,Ahmedabad,Receipt against INV-1110
+2026-03-25,JRN-9213,Customer Payment,ZCP-5093,PAY-5093,Accounts Receivable,Accounts Receivable,CUST-002,BlueMart Limited,0,77970.86,Finance,Ahmedabad,Receipt against INV-1110
+2026-03-22,JRN-9214,Customer Payment,ZCP-5094,PAY-5094,HDFC Bank Current A/c,Bank,CUST-005,Eastline Traders,163807.6,0,Finance,Mumbai,Receipt against INV-1111
+2026-03-22,JRN-9214,Customer Payment,ZCP-5094,PAY-5094,Accounts Receivable,Accounts Receivable,CUST-005,Eastline Traders,0,163807.6,Finance,Mumbai,Receipt against INV-1111
+2026-03-23,JRN-9215,Customer Payment,ZCP-5095,PAY-5095,ICICI Bank Current A/c,Bank,CUST-002,BlueMart Limited,187835.94,0,Finance,Delhi,Receipt against INV-1113
+2026-03-23,JRN-9215,Customer Payment,ZCP-5095,PAY-5095,Accounts Receivable,Accounts Receivable,CUST-002,BlueMart Limited,0,187835.94,Finance,Delhi,Receipt against INV-1113
+2026-03-30,JRN-9216,Customer Payment,ZCP-5096,PAY-5096,ICICI Bank Current A/c,Bank,CUST-009,Indus Stores,159977.32,0,Finance,Delhi,Receipt against INV-1114
+2026-03-30,JRN-9216,Customer Payment,ZCP-5096,PAY-5096,Accounts Receivable,Accounts Receivable,CUST-009,Indus Stores,0,159977.32,Finance,Delhi,Receipt against INV-1114
+2026-03-16,JRN-9217,Customer Payment,ZCP-5097,PAY-5097,HDFC Bank Current A/c,Bank,CUST-004,Delta Stores Limited,148764.96,0,Finance,Mumbai,Receipt against INV-1115
+2026-03-16,JRN-9217,Customer Payment,ZCP-5097,PAY-5097,Accounts Receivable,Accounts Receivable,CUST-004,Delta Stores Limited,0,148764.96,Finance,Mumbai,Receipt against INV-1115
+2026-03-28,JRN-9218,Customer Payment,ZCP-5098,PAY-5098,ICICI Bank Current A/c,Bank,CUST-005,Eastline Traders,152268.14,0,Finance,Delhi,Receipt against INV-1116
+2026-03-28,JRN-9218,Customer Payment,ZCP-5098,PAY-5098,Accounts Receivable,Accounts Receivable,CUST-005,Eastline Traders,0,152268.14,Finance,Delhi,Receipt against INV-1116
+2026-03-21,JRN-9219,Customer Payment,ZCP-5099,PAY-5099,ICICI Bank Current A/c,Bank,CUST-001,Apex Retail Pvt Ltd,29955.48,0,Finance,Mumbai,Receipt against INV-1117
+2026-03-21,JRN-9219,Customer Payment,ZCP-5099,PAY-5099,Accounts Receivable,Accounts Receivable,CUST-001,Apex Retail Pvt Ltd,0,29955.48,Finance,Mumbai,Receipt against INV-1117
+2026-03-24,JRN-9220,Customer Payment,ZCP-5100,PAY-5100,ICICI Bank Current A/c,Bank,CUST-005,Eastline Traders,160843.44,0,Finance,Kolkata,Receipt against INV-1118
+2026-03-24,JRN-9220,Customer Payment,ZCP-5100,PAY-5100,Accounts Receivable,Accounts Receivable,CUST-005,Eastline Traders,0,160843.44,Finance,Kolkata,Receipt against INV-1118
+2026-03-24,JRN-9221,Customer Payment,ZCP-5101,PAY-5101,ICICI Bank Current A/c,Bank,CUST-008,Harbor Mart,121242.64,0,Finance,Kolkata,Receipt against INV-1119
+2026-03-24,JRN-9221,Customer Payment,ZCP-5101,PAY-5101,Accounts Receivable,Accounts Receivable,CUST-008,Harbor Mart,0,121242.64,Finance,Kolkata,Receipt against INV-1119
+2026-03-30,JRN-9222,Customer Payment,ZCP-5102,PAY-5102,HDFC Bank Current A/c,Bank,CUST-009,Indus Stores,130976.34,0,Finance,Delhi,Receipt against INV-1120
+2026-03-30,JRN-9222,Customer Payment,ZCP-5102,PAY-5102,Accounts Receivable,Accounts Receivable,CUST-009,Indus Stores,0,130976.34,Finance,Delhi,Receipt against INV-1120
+2025-04-06,JRN-9223,Bill,ZB-2001,BILL-2001,Freight & Delivery,Expense,VEND-003,Crest Logistics,111644,0,Operations,Delhi,Vendor bill BILL-2001
+2025-04-06,JRN-9223,Bill,ZB-2001,BILL-2001,Input GST Recoverable,Other Current Asset,VEND-003,Crest Logistics,20095.92,0,Operations,Delhi,Vendor bill BILL-2001
+2025-04-06,JRN-9223,Bill,ZB-2001,BILL-2001,Accounts Payable,Accounts Payable,VEND-003,Crest Logistics,0,131739.92,Operations,Delhi,Vendor bill BILL-2001
+2025-04-07,JRN-9224,Bill,ZB-2002,BILL-2002,Professional Fees,Expense,VEND-001,Alpha Supplies Pvt Ltd,161269,0,Operations,Kolkata,Vendor bill BILL-2002
+2025-04-07,JRN-9224,Bill,ZB-2002,BILL-2002,Input GST Recoverable,Other Current Asset,VEND-001,Alpha Supplies Pvt Ltd,29028.42,0,Operations,Kolkata,Vendor bill BILL-2002
+2025-04-07,JRN-9224,Bill,ZB-2002,BILL-2002,Accounts Payable,Accounts Payable,VEND-001,Alpha Supplies Pvt Ltd,0,190297.42,Operations,Kolkata,Vendor bill BILL-2002
+2025-04-07,JRN-9225,Bill,ZB-2003,BILL-2003,Purchases,Expense,VEND-001,Alpha Supplies Pvt Ltd,194501,0,Finance,Ahmedabad,Vendor bill BILL-2003
+2025-04-07,JRN-9225,Bill,ZB-2003,BILL-2003,Input GST Recoverable,Other Current Asset,VEND-001,Alpha Supplies Pvt Ltd,35010.18,0,Finance,Ahmedabad,Vendor bill BILL-2003
+2025-04-07,JRN-9225,Bill,ZB-2003,BILL-2003,Accounts Payable,Accounts Payable,VEND-001,Alpha Supplies Pvt Ltd,0,229511.18,Finance,Ahmedabad,Vendor bill BILL-2003
+2025-04-04,JRN-9226,Bill,ZB-2004,BILL-2004,Freight & Delivery,Expense,VEND-008,Horizon Security,261448,0,Technology,Delhi,Vendor bill BILL-2004
+2025-04-04,JRN-9226,Bill,ZB-2004,BILL-2004,Input GST Recoverable,Other Current Asset,VEND-008,Horizon Security,47060.64,0,Technology,Delhi,Vendor bill BILL-2004
+2025-04-04,JRN-9226,Bill,ZB-2004,BILL-2004,Accounts Payable,Accounts Payable,VEND-008,Horizon Security,0,308508.64,Technology,Delhi,Vendor bill BILL-2004
+2025-04-25,JRN-9227,Bill,ZB-2005,BILL-2005,Professional Fees,Expense,VEND-004,Dyna Services,24144,0,Finance,Ahmedabad,Vendor bill BILL-2005
+2025-04-25,JRN-9227,Bill,ZB-2005,BILL-2005,Input GST Recoverable,Other Current Asset,VEND-004,Dyna Services,4345.92,0,Finance,Ahmedabad,Vendor bill BILL-2005
+2025-04-25,JRN-9227,Bill,ZB-2005,BILL-2005,Accounts Payable,Accounts Payable,VEND-004,Dyna Services,0,28489.92,Finance,Ahmedabad,Vendor bill BILL-2005
+2025-04-13,JRN-9228,Bill,ZB-2006,BILL-2006,Repairs & Maintenance,Expense,VEND-008,Horizon Security,104895,0,Sales,Bengaluru,Vendor bill BILL-2006
+2025-04-13,JRN-9228,Bill,ZB-2006,BILL-2006,Input GST Recoverable,Other Current Asset,VEND-008,Horizon Security,18881.1,0,Sales,Bengaluru,Vendor bill BILL-2006
+2025-04-13,JRN-9228,Bill,ZB-2006,BILL-2006,Accounts Payable,Accounts Payable,VEND-008,Horizon Security,0,123776.1,Sales,Bengaluru,Vendor bill BILL-2006
+2025-04-16,JRN-9229,Bill,ZB-2007,BILL-2007,Purchases,Expense,VEND-007,Global Packaging,48050,0,Operations,Ahmedabad,Vendor bill BILL-2007
+2025-04-16,JRN-9229,Bill,ZB-2007,BILL-2007,Input GST Recoverable,Other Current Asset,VEND-007,Global Packaging,8649,0,Operations,Ahmedabad,Vendor bill BILL-2007
+2025-04-16,JRN-9229,Bill,ZB-2007,BILL-2007,Accounts Payable,Accounts Payable,VEND-007,Global Packaging,0,56699,Operations,Ahmedabad,Vendor bill BILL-2007
+2025-04-09,JRN-9230,Bill,ZB-2008,BILL-2008,Purchases,Expense,VEND-001,Alpha Supplies Pvt Ltd,33912,0,Sales,Ahmedabad,Vendor bill BILL-2008
+2025-04-09,JRN-9230,Bill,ZB-2008,BILL-2008,Input GST Recoverable,Other Current Asset,VEND-001,Alpha Supplies Pvt Ltd,6104.16,0,Sales,Ahmedabad,Vendor bill BILL-2008
+2025-04-09,JRN-9230,Bill,ZB-2008,BILL-2008,Accounts Payable,Accounts Payable,VEND-001,Alpha Supplies Pvt Ltd,0,40016.16,Sales,Ahmedabad,Vendor bill BILL-2008
+2025-05-04,JRN-9231,Bill,ZB-2009,BILL-2009,Freight & Delivery,Expense,VEND-006,FastTrack Transport,95119,0,Finance,Kolkata,Vendor bill BILL-2009
+2025-05-04,JRN-9231,Bill,ZB-2009,BILL-2009,Input GST Recoverable,Other Current Asset,VEND-006,FastTrack Transport,17121.42,0,Finance,Kolkata,Vendor bill BILL-2009
+2025-05-04,JRN-9231,Bill,ZB-2009,BILL-2009,Accounts Payable,Accounts Payable,VEND-006,FastTrack Transport,0,112240.42,Finance,Kolkata,Vendor bill BILL-2009
+2025-05-03,JRN-9232,Bill,ZB-2010,BILL-2010,Freight & Delivery,Expense,VEND-001,Alpha Supplies Pvt Ltd,115107,0,Sales,Delhi,Vendor bill BILL-2010
+2025-05-03,JRN-9232,Bill,ZB-2010,BILL-2010,Input GST Recoverable,Other Current Asset,VEND-001,Alpha Supplies Pvt Ltd,20719.26,0,Sales,Delhi,Vendor bill BILL-2010
+2025-05-03,JRN-9232,Bill,ZB-2010,BILL-2010,Accounts Payable,Accounts Payable,VEND-001,Alpha Supplies Pvt Ltd,0,135826.26,Sales,Delhi,Vendor bill BILL-2010
+2025-05-08,JRN-9233,Bill,ZB-2011,BILL-2011,Repairs & Maintenance,Expense,VEND-003,Crest Logistics,63900,0,Administration,Ahmedabad,Vendor bill BILL-2011
+2025-05-08,JRN-9233,Bill,ZB-2011,BILL-2011,Input GST Recoverable,Other Current Asset,VEND-003,Crest Logistics,11502,0,Administration,Ahmedabad,Vendor bill BILL-2011
+2025-05-08,JRN-9233,Bill,ZB-2011,BILL-2011,Accounts Payable,Accounts Payable,VEND-003,Crest Logistics,0,75402,Administration,Ahmedabad,Vendor bill BILL-2011
+2025-05-06,JRN-9234,Bill,ZB-2012,BILL-2012,Repairs & Maintenance,Expense,VEND-005,Evergreen Technologies,173234,0,Technology,Delhi,Vendor bill BILL-2012
+2025-05-06,JRN-9234,Bill,ZB-2012,BILL-2012,Input GST Recoverable,Other Current Asset,VEND-005,Evergreen Technologies,31182.12,0,Technology,Delhi,Vendor bill BILL-2012
+2025-05-06,JRN-9234,Bill,ZB-2012,BILL-2012,Accounts Payable,Accounts Payable,VEND-005,Evergreen Technologies,0,204416.12,Technology,Delhi,Vendor bill BILL-2012
+2025-05-16,JRN-9235,Bill,ZB-2013,BILL-2013,Professional Fees,Expense,VEND-007,Global Packaging,40404,0,Administration,Ahmedabad,Vendor bill BILL-2013
+2025-05-16,JRN-9235,Bill,ZB-2013,BILL-2013,Input GST Recoverable,Other Current Asset,VEND-007,Global Packaging,7272.72,0,Administration,Ahmedabad,Vendor bill BILL-2013
+2025-05-16,JRN-9235,Bill,ZB-2013,BILL-2013,Accounts Payable,Accounts Payable,VEND-007,Global Packaging,0,47676.72,Administration,Ahmedabad,Vendor bill BILL-2013
+2025-05-21,JRN-9236,Bill,ZB-2014,BILL-2014,Professional Fees,Expense,VEND-007,Global Packaging,181040,0,Sales,Delhi,Vendor bill BILL-2014
+2025-05-21,JRN-9236,Bill,ZB-2014,BILL-2014,Input GST Recoverable,Other Current Asset,VEND-007,Global Packaging,32587.2,0,Sales,Delhi,Vendor bill BILL-2014
+2025-05-21,JRN-9236,Bill,ZB-2014,BILL-2014,Accounts Payable,Accounts Payable,VEND-007,Global Packaging,0,213627.2,Sales,Delhi,Vendor bill BILL-2014
+2025-05-23,JRN-9237,Bill,ZB-2015,BILL-2015,Professional Fees,Expense,VEND-004,Dyna Services,163404,0,Finance,Mumbai,Vendor bill BILL-2015
+2025-05-23,JRN-9237,Bill,ZB-2015,BILL-2015,Input GST Recoverable,Other Current Asset,VEND-004,Dyna Services,29412.72,0,Finance,Mumbai,Vendor bill BILL-2015
+2025-05-23,JRN-9237,Bill,ZB-2015,BILL-2015,Accounts Payable,Accounts Payable,VEND-004,Dyna Services,0,192816.72,Finance,Mumbai,Vendor bill BILL-2015
+2025-05-01,JRN-9238,Bill,ZB-2016,BILL-2016,Freight & Delivery,Expense,VEND-002,BoxPro Materials,54080,0,Administration,Bengaluru,Vendor bill BILL-2016
+2025-05-01,JRN-9238,Bill,ZB-2016,BILL-2016,Input GST Recoverable,Other Current Asset,VEND-002,BoxPro Materials,9734.4,0,Administration,Bengaluru,Vendor bill BILL-2016
+2025-05-01,JRN-9238,Bill,ZB-2016,BILL-2016,Accounts Payable,Accounts Payable,VEND-002,BoxPro Materials,0,63814.4,Administration,Bengaluru,Vendor bill BILL-2016
+2025-06-14,JRN-9239,Bill,ZB-2017,BILL-2017,Professional Fees,Expense,VEND-002,BoxPro Materials,178250,0,Sales,Ahmedabad,Vendor bill BILL-2017
+2025-06-14,JRN-9239,Bill,ZB-2017,BILL-2017,Input GST Recoverable,Other Current Asset,VEND-002,BoxPro Materials,32085,0,Sales,Ahmedabad,Vendor bill BILL-2017
+2025-06-14,JRN-9239,Bill,ZB-2017,BILL-2017,Accounts Payable,Accounts Payable,VEND-002,BoxPro Materials,0,210335,Sales,Ahmedabad,Vendor bill BILL-2017
+2025-06-24,JRN-9240,Bill,ZB-2018,BILL-2018,Purchases,Expense,VEND-001,Alpha Supplies Pvt Ltd,25032,0,Operations,Kolkata,Vendor bill BILL-2018
+2025-06-24,JRN-9240,Bill,ZB-2018,BILL-2018,Input GST Recoverable,Other Current Asset,VEND-001,Alpha Supplies Pvt Ltd,4505.76,0,Operations,Kolkata,Vendor bill BILL-2018
+2025-06-24,JRN-9240,Bill,ZB-2018,BILL-2018,Accounts Payable,Accounts Payable,VEND-001,Alpha Supplies Pvt Ltd,0,29537.76,Operations,Kolkata,Vendor bill BILL-2018
+2025-06-04,JRN-9241,Bill,ZB-2019,BILL-2019,Repairs & Maintenance,Expense,VEND-002,BoxPro Materials,99848,0,Technology,Kolkata,Vendor bill BILL-2019
+2025-06-04,JRN-9241,Bill,ZB-2019,BILL-2019,Input GST Recoverable,Other Current Asset,VEND-002,BoxPro Materials,17972.64,0,Technology,Kolkata,Vendor bill BILL-2019
+2025-06-04,JRN-9241,Bill,ZB-2019,BILL-2019,Accounts Payable,Accounts Payable,VEND-002,BoxPro Materials,0,117820.64,Technology,Kolkata,Vendor bill BILL-2019
+2025-06-18,JRN-9242,Bill,ZB-2020,BILL-2020,Repairs & Maintenance,Expense,VEND-004,Dyna Services,126522,0,Technology,Bengaluru,Vendor bill BILL-2020
+2025-06-18,JRN-9242,Bill,ZB-2020,BILL-2020,Input GST Recoverable,Other Current Asset,VEND-004,Dyna Services,22773.96,0,Technology,Bengaluru,Vendor bill BILL-2020
+2025-06-18,JRN-9242,Bill,ZB-2020,BILL-2020,Accounts Payable,Accounts Payable,VEND-004,Dyna Services,0,149295.96,Technology,Bengaluru,Vendor bill BILL-2020
+2025-06-25,JRN-9243,Bill,ZB-2021,BILL-2021,Professional Fees,Expense,VEND-006,FastTrack Transport,98415,0,Operations,Bengaluru,Vendor bill BILL-2021
+2025-06-25,JRN-9243,Bill,ZB-2021,BILL-2021,Input GST Recoverable,Other Current Asset,VEND-006,FastTrack Transport,17714.7,0,Operations,Bengaluru,Vendor bill BILL-2021
+2025-06-25,JRN-9243,Bill,ZB-2021,BILL-2021,Accounts Payable,Accounts Payable,VEND-006,FastTrack Transport,0,116129.7,Operations,Bengaluru,Vendor bill BILL-2021
+2025-06-06,JRN-9244,Bill,ZB-2022,BILL-2022,Repairs & Maintenance,Expense,VEND-007,Global Packaging,32252,0,Administration,Ahmedabad,Vendor bill BILL-2022
+2025-06-06,JRN-9244,Bill,ZB-2022,BILL-2022,Input GST Recoverable,Other Current Asset,VEND-007,Global Packaging,5805.36,0,Administration,Ahmedabad,Vendor bill BILL-2022
+2025-06-06,JRN-9244,Bill,ZB-2022,BILL-2022,Accounts Payable,Accounts Payable,VEND-007,Global Packaging,0,38057.36,Administration,Ahmedabad,Vendor bill BILL-2022
+2025-06-24,JRN-9245,Bill,ZB-2023,BILL-2023,Freight & Delivery,Expense,VEND-007,Global Packaging,167040,0,Sales,Mumbai,Vendor bill BILL-2023
+2025-06-24,JRN-9245,Bill,ZB-2023,BILL-2023,Input GST Recoverable,Other Current Asset,VEND-007,Global Packaging,30067.2,0,Sales,Mumbai,Vendor bill BILL-2023
+2025-06-24,JRN-9245,Bill,ZB-2023,BILL-2023,Accounts Payable,Accounts Payable,VEND-007,Global Packaging,0,197107.2,Sales,Mumbai,Vendor bill BILL-2023
+2025-06-22,JRN-9246,Bill,ZB-2024,BILL-2024,Repairs & Maintenance,Expense,VEND-001,Alpha Supplies Pvt Ltd,74385,0,Technology,Mumbai,Vendor bill BILL-2024
+2025-06-22,JRN-9246,Bill,ZB-2024,BILL-2024,Input GST Recoverable,Other Current Asset,VEND-001,Alpha Supplies Pvt Ltd,13389.3,0,Technology,Mumbai,Vendor bill BILL-2024
+2025-06-22,JRN-9246,Bill,ZB-2024,BILL-2024,Accounts Payable,Accounts Payable,VEND-001,Alpha Supplies Pvt Ltd,0,87774.3,Technology,Mumbai,Vendor bill BILL-2024
+2025-07-10,JRN-9247,Bill,ZB-2025,BILL-2025,Repairs & Maintenance,Expense,VEND-001,Alpha Supplies Pvt Ltd,19035,0,Sales,Ahmedabad,Vendor bill BILL-2025
+2025-07-10,JRN-9247,Bill,ZB-2025,BILL-2025,Input GST Recoverable,Other Current Asset,VEND-001,Alpha Supplies Pvt Ltd,3426.3,0,Sales,Ahmedabad,Vendor bill BILL-2025
+2025-07-10,JRN-9247,Bill,ZB-2025,BILL-2025,Accounts Payable,Accounts Payable,VEND-001,Alpha Supplies Pvt Ltd,0,22461.3,Sales,Ahmedabad,Vendor bill BILL-2025
+2025-07-09,JRN-9248,Bill,ZB-2026,BILL-2026,Repairs & Maintenance,Expense,VEND-008,Horizon Security,51940,0,Operations,Delhi,Vendor bill BILL-2026
+2025-07-09,JRN-9248,Bill,ZB-2026,BILL-2026,Input GST Recoverable,Other Current Asset,VEND-008,Horizon Security,9349.2,0,Operations,Delhi,Vendor bill BILL-2026
+2025-07-09,JRN-9248,Bill,ZB-2026,BILL-2026,Accounts Payable,Accounts Payable,VEND-008,Horizon Security,0,61289.2,Operations,Delhi,Vendor bill BILL-2026
+2025-07-09,JRN-9249,Bill,ZB-2027,BILL-2027,Professional Fees,Expense,VEND-005,Evergreen Technologies,34352,0,Technology,Kolkata,Vendor bill BILL-2027
+2025-07-09,JRN-9249,Bill,ZB-2027,BILL-2027,Input GST Recoverable,Other Current Asset,VEND-005,Evergreen Technologies,6183.36,0,Technology,Kolkata,Vendor bill BILL-2027
+2025-07-09,JRN-9249,Bill,ZB-2027,BILL-2027,Accounts Payable,Accounts Payable,VEND-005,Evergreen Technologies,0,40535.36,Technology,Kolkata,Vendor bill BILL-2027
+2025-07-22,JRN-9250,Bill,ZB-2028,BILL-2028,Repairs & Maintenance,Expense,VEND-001,Alpha Supplies Pvt Ltd,186879,0,Administration,Bengaluru,Vendor bill BILL-2028
+2025-07-22,JRN-9250,Bill,ZB-2028,BILL-2028,Input GST Recoverable,Other Current Asset,VEND-001,Alpha Supplies Pvt Ltd,33638.22,0,Administration,Bengaluru,Vendor bill BILL-2028
+2025-07-22,JRN-9250,Bill,ZB-2028,BILL-2028,Accounts Payable,Accounts Payable,VEND-001,Alpha Supplies Pvt Ltd,0,220517.22,Administration,Bengaluru,Vendor bill BILL-2028
+2025-07-13,JRN-9251,Bill,ZB-2029,BILL-2029,Freight & Delivery,Expense,VEND-001,Alpha Supplies Pvt Ltd,44603,0,Administration,Ahmedabad,Vendor bill BILL-2029
+2025-07-13,JRN-9251,Bill,ZB-2029,BILL-2029,Input GST Recoverable,Other Current Asset,VEND-001,Alpha Supplies Pvt Ltd,8028.54,0,Administration,Ahmedabad,Vendor bill BILL-2029
+2025-07-13,JRN-9251,Bill,ZB-2029,BILL-2029,Accounts Payable,Accounts Payable,VEND-001,Alpha Supplies Pvt Ltd,0,52631.54,Administration,Ahmedabad,Vendor bill BILL-2029
+2025-07-20,JRN-9252,Bill,ZB-2030,BILL-2030,Professional Fees,Expense,VEND-001,Alpha Supplies Pvt Ltd,143829,0,Operations,Mumbai,Vendor bill BILL-2030
+2025-07-20,JRN-9252,Bill,ZB-2030,BILL-2030,Input GST Recoverable,Other Current Asset,VEND-001,Alpha Supplies Pvt Ltd,25889.22,0,Operations,Mumbai,Vendor bill BILL-2030
+2025-07-20,JRN-9252,Bill,ZB-2030,BILL-2030,Accounts Payable,Accounts Payable,VEND-001,Alpha Supplies Pvt Ltd,0,169718.22,Operations,Mumbai,Vendor bill BILL-2030
+2025-07-13,JRN-9253,Bill,ZB-2031,BILL-2031,Freight & Delivery,Expense,VEND-007,Global Packaging,125491,0,Finance,Ahmedabad,Vendor bill BILL-2031
+2025-07-13,JRN-9253,Bill,ZB-2031,BILL-2031,Input GST Recoverable,Other Current Asset,VEND-007,Global Packaging,22588.38,0,Finance,Ahmedabad,Vendor bill BILL-2031
+2025-07-13,JRN-9253,Bill,ZB-2031,BILL-2031,Accounts Payable,Accounts Payable,VEND-007,Global Packaging,0,148079.38,Finance,Ahmedabad,Vendor bill BILL-2031
+2025-07-05,JRN-9254,Bill,ZB-2032,BILL-2032,Freight & Delivery,Expense,VEND-008,Horizon Security,31592,0,Finance,Kolkata,Vendor bill BILL-2032
+2025-07-05,JRN-9254,Bill,ZB-2032,BILL-2032,Input GST Recoverable,Other Current Asset,VEND-008,Horizon Security,5686.56,0,Finance,Kolkata,Vendor bill BILL-2032
+2025-07-05,JRN-9254,Bill,ZB-2032,BILL-2032,Accounts Payable,Accounts Payable,VEND-008,Horizon Security,0,37278.56,Finance,Kolkata,Vendor bill BILL-2032
+2025-08-24,JRN-9255,Bill,ZB-2033,BILL-2033,Freight & Delivery,Expense,VEND-001,Alpha Supplies Pvt Ltd,163918,0,Operations,Ahmedabad,Vendor bill BILL-2033
+2025-08-24,JRN-9255,Bill,ZB-2033,BILL-2033,Input GST Recoverable,Other Current Asset,VEND-001,Alpha Supplies Pvt Ltd,29505.24,0,Operations,Ahmedabad,Vendor bill BILL-2033
+2025-08-24,JRN-9255,Bill,ZB-2033,BILL-2033,Accounts Payable,Accounts Payable,VEND-001,Alpha Supplies Pvt Ltd,0,193423.24,Operations,Ahmedabad,Vendor bill BILL-2033
+2025-08-09,JRN-9256,Bill,ZB-2034,BILL-2034,Professional Fees,Expense,VEND-002,BoxPro Materials,153720,0,Sales,Delhi,Vendor bill BILL-2034
+2025-08-09,JRN-9256,Bill,ZB-2034,BILL-2034,Input GST Recoverable,Other Current Asset,VEND-002,BoxPro Materials,27669.6,0,Sales,Delhi,Vendor bill BILL-2034
+2025-08-09,JRN-9256,Bill,ZB-2034,BILL-2034,Accounts Payable,Accounts Payable,VEND-002,BoxPro Materials,0,181389.6,Sales,Delhi,Vendor bill BILL-2034
+2025-08-09,JRN-9257,Bill,ZB-2035,BILL-2035,Freight & Delivery,Expense,VEND-003,Crest Logistics,99631,0,Administration,Ahmedabad,Vendor bill BILL-2035
+2025-08-09,JRN-9257,Bill,ZB-2035,BILL-2035,Input GST Recoverable,Other Current Asset,VEND-003,Crest Logistics,17933.58,0,Administration,Ahmedabad,Vendor bill BILL-2035
+2025-08-09,JRN-9257,Bill,ZB-2035,BILL-2035,Accounts Payable,Accounts Payable,VEND-003,Crest Logistics,0,117564.58,Administration,Ahmedabad,Vendor bill BILL-2035
+2025-08-09,JRN-9258,Bill,ZB-2036,BILL-2036,Purchases,Expense,VEND-006,FastTrack Transport,149622,0,Sales,Kolkata,Vendor bill BILL-2036
+2025-08-09,JRN-9258,Bill,ZB-2036,BILL-2036,Input GST Recoverable,Other Current Asset,VEND-006,FastTrack Transport,26931.96,0,Sales,Kolkata,Vendor bill BILL-2036
+2025-08-09,JRN-9258,Bill,ZB-2036,BILL-2036,Accounts Payable,Accounts Payable,VEND-006,FastTrack Transport,0,176553.96,Sales,Kolkata,Vendor bill BILL-2036
+2025-08-10,JRN-9259,Bill,ZB-2037,BILL-2037,Repairs & Maintenance,Expense,VEND-001,Alpha Supplies Pvt Ltd,155890,0,Technology,Delhi,Vendor bill BILL-2037
+2025-08-10,JRN-9259,Bill,ZB-2037,BILL-2037,Input GST Recoverable,Other Current Asset,VEND-001,Alpha Supplies Pvt Ltd,28060.2,0,Technology,Delhi,Vendor bill BILL-2037
+2025-08-10,JRN-9259,Bill,ZB-2037,BILL-2037,Accounts Payable,Accounts Payable,VEND-001,Alpha Supplies Pvt Ltd,0,183950.2,Technology,Delhi,Vendor bill BILL-2037
+2025-08-05,JRN-9260,Bill,ZB-2038,BILL-2038,Repairs & Maintenance,Expense,VEND-008,Horizon Security,37094,0,Finance,Mumbai,Vendor bill BILL-2038
+2025-08-05,JRN-9260,Bill,ZB-2038,BILL-2038,Input GST Recoverable,Other Current Asset,VEND-008,Horizon Security,6676.92,0,Finance,Mumbai,Vendor bill BILL-2038
+2025-08-05,JRN-9260,Bill,ZB-2038,BILL-2038,Accounts Payable,Accounts Payable,VEND-008,Horizon Security,0,43770.92,Finance,Mumbai,Vendor bill BILL-2038
+2025-08-06,JRN-9261,Bill,ZB-2039,BILL-2039,Repairs & Maintenance,Expense,VEND-003,Crest Logistics,48654,0,Operations,Delhi,Vendor bill BILL-2039
+2025-08-06,JRN-9261,Bill,ZB-2039,BILL-2039,Input GST Recoverable,Other Current Asset,VEND-003,Crest Logistics,8757.72,0,Operations,Delhi,Vendor bill BILL-2039
+2025-08-06,JRN-9261,Bill,ZB-2039,BILL-2039,Accounts Payable,Accounts Payable,VEND-003,Crest Logistics,0,57411.72,Operations,Delhi,Vendor bill BILL-2039
+2025-08-07,JRN-9262,Bill,ZB-2040,BILL-2040,Professional Fees,Expense,VEND-007,Global Packaging,130203,0,Technology,Mumbai,Vendor bill BILL-2040
+2025-08-07,JRN-9262,Bill,ZB-2040,BILL-2040,Input GST Recoverable,Other Current Asset,VEND-007,Global Packaging,23436.54,0,Technology,Mumbai,Vendor bill BILL-2040
+2025-08-07,JRN-9262,Bill,ZB-2040,BILL-2040,Accounts Payable,Accounts Payable,VEND-007,Global Packaging,0,153639.54,Technology,Mumbai,Vendor bill BILL-2040
+2025-09-21,JRN-9263,Bill,ZB-2041,BILL-2041,Professional Fees,Expense,VEND-003,Crest Logistics,128092,0,Finance,Bengaluru,Vendor bill BILL-2041
+2025-09-21,JRN-9263,Bill,ZB-2041,BILL-2041,Input GST Recoverable,Other Current Asset,VEND-003,Crest Logistics,23056.56,0,Finance,Bengaluru,Vendor bill BILL-2041
+2025-09-21,JRN-9263,Bill,ZB-2041,BILL-2041,Accounts Payable,Accounts Payable,VEND-003,Crest Logistics,0,151148.56,Finance,Bengaluru,Vendor bill BILL-2041
+2025-09-04,JRN-9264,Bill,ZB-2042,BILL-2042,Freight & Delivery,Expense,VEND-005,Evergreen Technologies,36832,0,Sales,Bengaluru,Vendor bill BILL-2042
+2025-09-04,JRN-9264,Bill,ZB-2042,BILL-2042,Input GST Recoverable,Other Current Asset,VEND-005,Evergreen Technologies,6629.76,0,Sales,Bengaluru,Vendor bill BILL-2042
+2025-09-04,JRN-9264,Bill,ZB-2042,BILL-2042,Accounts Payable,Accounts Payable,VEND-005,Evergreen Technologies,0,43461.76,Sales,Bengaluru,Vendor bill BILL-2042
+2025-09-25,JRN-9265,Bill,ZB-2043,BILL-2043,Freight & Delivery,Expense,VEND-004,Dyna Services,134416,0,Administration,Mumbai,Vendor bill BILL-2043
+2025-09-25,JRN-9265,Bill,ZB-2043,BILL-2043,Input GST Recoverable,Other Current Asset,VEND-004,Dyna Services,24194.88,0,Administration,Mumbai,Vendor bill BILL-2043
+2025-09-25,JRN-9265,Bill,ZB-2043,BILL-2043,Accounts Payable,Accounts Payable,VEND-004,Dyna Services,0,158610.88,Administration,Mumbai,Vendor bill BILL-2043
+2025-09-07,JRN-9266,Bill,ZB-2044,BILL-2044,Freight & Delivery,Expense,VEND-003,Crest Logistics,191425,0,Administration,Kolkata,Vendor bill BILL-2044
+2025-09-07,JRN-9266,Bill,ZB-2044,BILL-2044,Input GST Recoverable,Other Current Asset,VEND-003,Crest Logistics,34456.5,0,Administration,Kolkata,Vendor bill BILL-2044
+2025-09-07,JRN-9266,Bill,ZB-2044,BILL-2044,Accounts Payable,Accounts Payable,VEND-003,Crest Logistics,0,225881.5,Administration,Kolkata,Vendor bill BILL-2044
+2025-09-10,JRN-9267,Bill,ZB-2045,BILL-2045,Freight & Delivery,Expense,VEND-003,Crest Logistics,59247,0,Operations,Delhi,Vendor bill BILL-2045
+2025-09-10,JRN-9267,Bill,ZB-2045,BILL-2045,Input GST Recoverable,Other Current Asset,VEND-003,Crest Logistics,10664.46,0,Operations,Delhi,Vendor bill BILL-2045
+2025-09-10,JRN-9267,Bill,ZB-2045,BILL-2045,Accounts Payable,Accounts Payable,VEND-003,Crest Logistics,0,69911.46,Operations,Delhi,Vendor bill BILL-2045
+2025-09-11,JRN-9268,Bill,ZB-2046,BILL-2046,Professional Fees,Expense,VEND-008,Horizon Security,68013,0,Administration,Mumbai,Vendor bill BILL-2046
+2025-09-11,JRN-9268,Bill,ZB-2046,BILL-2046,Input GST Recoverable,Other Current Asset,VEND-008,Horizon Security,12242.34,0,Administration,Mumbai,Vendor bill BILL-2046
+2025-09-11,JRN-9268,Bill,ZB-2046,BILL-2046,Accounts Payable,Accounts Payable,VEND-008,Horizon Security,0,80255.34,Administration,Mumbai,Vendor bill BILL-2046
+2025-09-23,JRN-9269,Bill,ZB-2047,BILL-2047,Repairs & Maintenance,Expense,VEND-003,Crest Logistics,48576,0,Technology,Bengaluru,Vendor bill BILL-2047
+2025-09-23,JRN-9269,Bill,ZB-2047,BILL-2047,Input GST Recoverable,Other Current Asset,VEND-003,Crest Logistics,8743.68,0,Technology,Bengaluru,Vendor bill BILL-2047
+2025-09-23,JRN-9269,Bill,ZB-2047,BILL-2047,Accounts Payable,Accounts Payable,VEND-003,Crest Logistics,0,57319.68,Technology,Bengaluru,Vendor bill BILL-2047
+2025-09-19,JRN-9270,Bill,ZB-2048,BILL-2048,Repairs & Maintenance,Expense,VEND-001,Alpha Supplies Pvt Ltd,35076,0,Operations,Bengaluru,Vendor bill BILL-2048
+2025-09-19,JRN-9270,Bill,ZB-2048,BILL-2048,Input GST Recoverable,Other Current Asset,VEND-001,Alpha Supplies Pvt Ltd,6313.68,0,Operations,Bengaluru,Vendor bill BILL-2048
+2025-09-19,JRN-9270,Bill,ZB-2048,BILL-2048,Accounts Payable,Accounts Payable,VEND-001,Alpha Supplies Pvt Ltd,0,41389.68,Operations,Bengaluru,Vendor bill BILL-2048
+2025-10-16,JRN-9271,Bill,ZB-2049,BILL-2049,Freight & Delivery,Expense,VEND-007,Global Packaging,61479,0,Operations,Mumbai,Vendor bill BILL-2049
+2025-10-16,JRN-9271,Bill,ZB-2049,BILL-2049,Input GST Recoverable,Other Current Asset,VEND-007,Global Packaging,11066.22,0,Operations,Mumbai,Vendor bill BILL-2049
+2025-10-16,JRN-9271,Bill,ZB-2049,BILL-2049,Accounts Payable,Accounts Payable,VEND-007,Global Packaging,0,72545.22,Operations,Mumbai,Vendor bill BILL-2049
+2025-10-18,JRN-9272,Bill,ZB-2050,BILL-2050,Repairs & Maintenance,Expense,VEND-002,BoxPro Materials,20076,0,Technology,Ahmedabad,Vendor bill BILL-2050
+2025-10-18,JRN-9272,Bill,ZB-2050,BILL-2050,Input GST Recoverable,Other Current Asset,VEND-002,BoxPro Materials,3613.68,0,Technology,Ahmedabad,Vendor bill BILL-2050
+2025-10-18,JRN-9272,Bill,ZB-2050,BILL-2050,Accounts Payable,Accounts Payable,VEND-002,BoxPro Materials,0,23689.68,Technology,Ahmedabad,Vendor bill BILL-2050
+2025-10-13,JRN-9273,Bill,ZB-2051,BILL-2051,Purchases,Expense,VEND-005,Evergreen Technologies,43380,0,Administration,Bengaluru,Vendor bill BILL-2051
+2025-10-13,JRN-9273,Bill,ZB-2051,BILL-2051,Input GST Recoverable,Other Current Asset,VEND-005,Evergreen Technologies,7808.4,0,Administration,Bengaluru,Vendor bill BILL-2051
+2025-10-13,JRN-9273,Bill,ZB-2051,BILL-2051,Accounts Payable,Accounts Payable,VEND-005,Evergreen Technologies,0,51188.4,Administration,Bengaluru,Vendor bill BILL-2051
+2025-10-20,JRN-9274,Bill,ZB-2052,BILL-2052,Professional Fees,Expense,VEND-001,Alpha Supplies Pvt Ltd,153424,0,Operations,Delhi,Vendor bill BILL-2052
+2025-10-20,JRN-9274,Bill,ZB-2052,BILL-2052,Input GST Recoverable,Other Current Asset,VEND-001,Alpha Supplies Pvt Ltd,27616.32,0,Operations,Delhi,Vendor bill BILL-2052
+2025-10-20,JRN-9274,Bill,ZB-2052,BILL-2052,Accounts Payable,Accounts Payable,VEND-001,Alpha Supplies Pvt Ltd,0,181040.32,Operations,Delhi,Vendor bill BILL-2052
+2025-10-18,JRN-9275,Bill,ZB-2053,BILL-2053,Repairs & Maintenance,Expense,VEND-004,Dyna Services,184900,0,Technology,Kolkata,Vendor bill BILL-2053
+2025-10-18,JRN-9275,Bill,ZB-2053,BILL-2053,Input GST Recoverable,Other Current Asset,VEND-004,Dyna Services,33282,0,Technology,Kolkata,Vendor bill BILL-2053
+2025-10-18,JRN-9275,Bill,ZB-2053,BILL-2053,Accounts Payable,Accounts Payable,VEND-004,Dyna Services,0,218182,Technology,Kolkata,Vendor bill BILL-2053
+2025-10-15,JRN-9276,Bill,ZB-2054,BILL-2054,Repairs & Maintenance,Expense,VEND-001,Alpha Supplies Pvt Ltd,47520,0,Administration,Mumbai,Vendor bill BILL-2054
+2025-10-15,JRN-9276,Bill,ZB-2054,BILL-2054,Input GST Recoverable,Other Current Asset,VEND-001,Alpha Supplies Pvt Ltd,8553.6,0,Administration,Mumbai,Vendor bill BILL-2054
+2025-10-15,JRN-9276,Bill,ZB-2054,BILL-2054,Accounts Payable,Accounts Payable,VEND-001,Alpha Supplies Pvt Ltd,0,56073.6,Administration,Mumbai,Vendor bill BILL-2054
+2025-10-04,JRN-9277,Bill,ZB-2055,BILL-2055,Professional Fees,Expense,VEND-006,FastTrack Transport,106760,0,Administration,Delhi,Vendor bill BILL-2055
+2025-10-04,JRN-9277,Bill,ZB-2055,BILL-2055,Input GST Recoverable,Other Current Asset,VEND-006,FastTrack Transport,19216.8,0,Administration,Delhi,Vendor bill BILL-2055
+2025-10-04,JRN-9277,Bill,ZB-2055,BILL-2055,Accounts Payable,Accounts Payable,VEND-006,FastTrack Transport,0,125976.8,Administration,Delhi,Vendor bill BILL-2055
+2025-10-20,JRN-9278,Bill,ZB-2056,BILL-2056,Purchases,Expense,VEND-006,FastTrack Transport,41860,0,Finance,Bengaluru,Vendor bill BILL-2056
+2025-10-20,JRN-9278,Bill,ZB-2056,BILL-2056,Input GST Recoverable,Other Current Asset,VEND-006,FastTrack Transport,7534.8,0,Finance,Bengaluru,Vendor bill BILL-2056
+2025-10-20,JRN-9278,Bill,ZB-2056,BILL-2056,Accounts Payable,Accounts Payable,VEND-006,FastTrack Transport,0,49394.8,Finance,Bengaluru,Vendor bill BILL-2056
+2025-11-13,JRN-9279,Bill,ZB-2057,BILL-2057,Professional Fees,Expense,VEND-005,Evergreen Technologies,25701,0,Sales,Kolkata,Vendor bill BILL-2057
+2025-11-13,JRN-9279,Bill,ZB-2057,BILL-2057,Input GST Recoverable,Other Current Asset,VEND-005,Evergreen Technologies,4626.18,0,Sales,Kolkata,Vendor bill BILL-2057
+2025-11-13,JRN-9279,Bill,ZB-2057,BILL-2057,Accounts Payable,Accounts Payable,VEND-005,Evergreen Technologies,0,30327.18,Sales,Kolkata,Vendor bill BILL-2057
+2025-11-14,JRN-9280,Bill,ZB-2058,BILL-2058,Professional Fees,Expense,VEND-002,BoxPro Materials,161162,0,Sales,Bengaluru,Vendor bill BILL-2058
+2025-11-14,JRN-9280,Bill,ZB-2058,BILL-2058,Input GST Recoverable,Other Current Asset,VEND-002,BoxPro Materials,29009.16,0,Sales,Bengaluru,Vendor bill BILL-2058
+2025-11-14,JRN-9280,Bill,ZB-2058,BILL-2058,Accounts Payable,Accounts Payable,VEND-002,BoxPro Materials,0,190171.16,Sales,Bengaluru,Vendor bill BILL-2058
+2025-11-04,JRN-9281,Bill,ZB-2059,BILL-2059,Purchases,Expense,VEND-001,Alpha Supplies Pvt Ltd,36960,0,Sales,Mumbai,Vendor bill BILL-2059
+2025-11-04,JRN-9281,Bill,ZB-2059,BILL-2059,Input GST Recoverable,Other Current Asset,VEND-001,Alpha Supplies Pvt Ltd,6652.8,0,Sales,Mumbai,Vendor bill BILL-2059
+2025-11-04,JRN-9281,Bill,ZB-2059,BILL-2059,Accounts Payable,Accounts Payable,VEND-001,Alpha Supplies Pvt Ltd,0,43612.8,Sales,Mumbai,Vendor bill BILL-2059
+2025-11-09,JRN-9282,Bill,ZB-2060,BILL-2060,Repairs & Maintenance,Expense,VEND-007,Global Packaging,80040,0,Administration,Kolkata,Vendor bill BILL-2060
+2025-11-09,JRN-9282,Bill,ZB-2060,BILL-2060,Input GST Recoverable,Other Current Asset,VEND-007,Global Packaging,14407.2,0,Administration,Kolkata,Vendor bill BILL-2060
+2025-11-09,JRN-9282,Bill,ZB-2060,BILL-2060,Accounts Payable,Accounts Payable,VEND-007,Global Packaging,0,94447.2,Administration,Kolkata,Vendor bill BILL-2060
+2025-11-16,JRN-9283,Bill,ZB-2061,BILL-2061,Repairs & Maintenance,Expense,VEND-005,Evergreen Technologies,133267,0,Technology,Kolkata,Vendor bill BILL-2061
+2025-11-16,JRN-9283,Bill,ZB-2061,BILL-2061,Input GST Recoverable,Other Current Asset,VEND-005,Evergreen Technologies,23988.06,0,Technology,Kolkata,Vendor bill BILL-2061
+2025-11-16,JRN-9283,Bill,ZB-2061,BILL-2061,Accounts Payable,Accounts Payable,VEND-005,Evergreen Technologies,0,157255.06,Technology,Kolkata,Vendor bill BILL-2061
+2025-11-15,JRN-9284,Bill,ZB-2062,BILL-2062,Purchases,Expense,VEND-001,Alpha Supplies Pvt Ltd,64800,0,Administration,Ahmedabad,Vendor bill BILL-2062
+2025-11-15,JRN-9284,Bill,ZB-2062,BILL-2062,Input GST Recoverable,Other Current Asset,VEND-001,Alpha Supplies Pvt Ltd,11664,0,Administration,Ahmedabad,Vendor bill BILL-2062
+2025-11-15,JRN-9284,Bill,ZB-2062,BILL-2062,Accounts Payable,Accounts Payable,VEND-001,Alpha Supplies Pvt Ltd,0,76464,Administration,Ahmedabad,Vendor bill BILL-2062
+2025-11-11,JRN-9285,Bill,ZB-2063,BILL-2063,Repairs & Maintenance,Expense,VEND-003,Crest Logistics,32288,0,Finance,Kolkata,Vendor bill BILL-2063
+2025-11-11,JRN-9285,Bill,ZB-2063,BILL-2063,Input GST Recoverable,Other Current Asset,VEND-003,Crest Logistics,5811.84,0,Finance,Kolkata,Vendor bill BILL-2063
+2025-11-11,JRN-9285,Bill,ZB-2063,BILL-2063,Accounts Payable,Accounts Payable,VEND-003,Crest Logistics,0,38099.84,Finance,Kolkata,Vendor bill BILL-2063
+2025-11-19,JRN-9286,Bill,ZB-2064,BILL-2064,Professional Fees,Expense,VEND-001,Alpha Supplies Pvt Ltd,138000,0,Administration,Bengaluru,Vendor bill BILL-2064
+2025-11-19,JRN-9286,Bill,ZB-2064,BILL-2064,Input GST Recoverable,Other Current Asset,VEND-001,Alpha Supplies Pvt Ltd,24840,0,Administration,Bengaluru,Vendor bill BILL-2064
+2025-11-19,JRN-9286,Bill,ZB-2064,BILL-2064,Accounts Payable,Accounts Payable,VEND-001,Alpha Supplies Pvt Ltd,0,162840,Administration,Bengaluru,Vendor bill BILL-2064
+2025-12-12,JRN-9287,Bill,ZB-2065,BILL-2065,Purchases,Expense,VEND-008,Horizon Security,97828,0,Finance,Bengaluru,Vendor bill BILL-2065
+2025-12-12,JRN-9287,Bill,ZB-2065,BILL-2065,Input GST Recoverable,Other Current Asset,VEND-008,Horizon Security,17609.04,0,Finance,Bengaluru,Vendor bill BILL-2065
+2025-12-12,JRN-9287,Bill,ZB-2065,BILL-2065,Accounts Payable,Accounts Payable,VEND-008,Horizon Security,0,115437.04,Finance,Bengaluru,Vendor bill BILL-2065
+2025-12-12,JRN-9288,Bill,ZB-2066,BILL-2066,Professional Fees,Expense,VEND-002,BoxPro Materials,78411,0,Administration,Ahmedabad,Vendor bill BILL-2066
+2025-12-12,JRN-9288,Bill,ZB-2066,BILL-2066,Input GST Recoverable,Other Current Asset,VEND-002,BoxPro Materials,14113.98,0,Administration,Ahmedabad,Vendor bill BILL-2066
+2025-12-12,JRN-9288,Bill,ZB-2066,BILL-2066,Accounts Payable,Accounts Payable,VEND-002,BoxPro Materials,0,92524.98,Administration,Ahmedabad,Vendor bill BILL-2066
+2025-12-21,JRN-9289,Bill,ZB-2067,BILL-2067,Professional Fees,Expense,VEND-002,BoxPro Materials,38280,0,Administration,Ahmedabad,Vendor bill BILL-2067
+2025-12-21,JRN-9289,Bill,ZB-2067,BILL-2067,Input GST Recoverable,Other Current Asset,VEND-002,BoxPro Materials,6890.4,0,Administration,Ahmedabad,Vendor bill BILL-2067
+2025-12-21,JRN-9289,Bill,ZB-2067,BILL-2067,Accounts Payable,Accounts Payable,VEND-002,BoxPro Materials,0,45170.4,Administration,Ahmedabad,Vendor bill BILL-2067
+2025-12-13,JRN-9290,Bill,ZB-2068,BILL-2068,Repairs & Maintenance,Expense,VEND-001,Alpha Supplies Pvt Ltd,88172,0,Administration,Bengaluru,Vendor bill BILL-2068
+2025-12-13,JRN-9290,Bill,ZB-2068,BILL-2068,Input GST Recoverable,Other Current Asset,VEND-001,Alpha Supplies Pvt Ltd,15870.96,0,Administration,Bengaluru,Vendor bill BILL-2068
+2025-12-13,JRN-9290,Bill,ZB-2068,BILL-2068,Accounts Payable,Accounts Payable,VEND-001,Alpha Supplies Pvt Ltd,0,104042.96,Administration,Bengaluru,Vendor bill BILL-2068
+2025-12-04,JRN-9291,Bill,ZB-2069,BILL-2069,Repairs & Maintenance,Expense,VEND-008,Horizon Security,70168,0,Finance,Delhi,Vendor bill BILL-2069
+2025-12-04,JRN-9291,Bill,ZB-2069,BILL-2069,Input GST Recoverable,Other Current Asset,VEND-008,Horizon Security,12630.24,0,Finance,Delhi,Vendor bill BILL-2069
+2025-12-04,JRN-9291,Bill,ZB-2069,BILL-2069,Accounts Payable,Accounts Payable,VEND-008,Horizon Security,0,82798.24,Finance,Delhi,Vendor bill BILL-2069
+2025-12-13,JRN-9292,Bill,ZB-2070,BILL-2070,Purchases,Expense,VEND-003,Crest Logistics,84320,0,Operations,Bengaluru,Vendor bill BILL-2070
+2025-12-13,JRN-9292,Bill,ZB-2070,BILL-2070,Input GST Recoverable,Other Current Asset,VEND-003,Crest Logistics,15177.6,0,Operations,Bengaluru,Vendor bill BILL-2070
+2025-12-13,JRN-9292,Bill,ZB-2070,BILL-2070,Accounts Payable,Accounts Payable,VEND-003,Crest Logistics,0,99497.6,Operations,Bengaluru,Vendor bill BILL-2070
+2025-12-15,JRN-9293,Bill,ZB-2071,BILL-DUP-01,Purchases,Expense,VEND-007,Global Packaging,62480,0,Finance,Ahmedabad,Vendor bill BILL-DUP-01
+2025-12-15,JRN-9293,Bill,ZB-2071,BILL-DUP-01,Input GST Recoverable,Other Current Asset,VEND-007,Global Packaging,11246.4,0,Finance,Ahmedabad,Vendor bill BILL-DUP-01
+2025-12-15,JRN-9293,Bill,ZB-2071,BILL-DUP-01,Accounts Payable,Accounts Payable,VEND-007,Global Packaging,0,73726.4,Finance,Ahmedabad,Vendor bill BILL-DUP-01
+2025-12-25,JRN-9294,Bill,ZB-2072,BILL-DUP-01,Freight & Delivery,Expense,VEND-003,Crest Logistics,45026,0,Finance,Delhi,Vendor bill BILL-DUP-01
+2025-12-25,JRN-9294,Bill,ZB-2072,BILL-DUP-01,Input GST Recoverable,Other Current Asset,VEND-003,Crest Logistics,8104.68,0,Finance,Delhi,Vendor bill BILL-DUP-01
+2025-12-25,JRN-9294,Bill,ZB-2072,BILL-DUP-01,Accounts Payable,Accounts Payable,VEND-003,Crest Logistics,0,53130.68,Finance,Delhi,Vendor bill BILL-DUP-01
+2026-01-05,JRN-9295,Bill,ZB-2073,BILL-2073,Purchases,Expense,VEND-005,Evergreen Technologies,90152,0,Finance,Delhi,Vendor bill BILL-2073
+2026-01-05,JRN-9295,Bill,ZB-2073,BILL-2073,Input GST Recoverable,Other Current Asset,VEND-005,Evergreen Technologies,16227.36,0,Finance,Delhi,Vendor bill BILL-2073
+2026-01-05,JRN-9295,Bill,ZB-2073,BILL-2073,Accounts Payable,Accounts Payable,VEND-005,Evergreen Technologies,0,106379.36,Finance,Delhi,Vendor bill BILL-2073
+2026-01-09,JRN-9296,Bill,ZB-2074,BILL-2074,Repairs & Maintenance,Expense,VEND-003,Crest Logistics,40110,0,Finance,Kolkata,Vendor bill BILL-2074
+2026-01-09,JRN-9296,Bill,ZB-2074,BILL-2074,Input GST Recoverable,Other Current Asset,VEND-003,Crest Logistics,7219.8,0,Finance,Kolkata,Vendor bill BILL-2074
+2026-01-09,JRN-9296,Bill,ZB-2074,BILL-2074,Accounts Payable,Accounts Payable,VEND-003,Crest Logistics,0,47329.8,Finance,Kolkata,Vendor bill BILL-2074
+2026-01-24,JRN-9297,Bill,ZB-2075,BILL-2075,Repairs & Maintenance,Expense,VEND-008,Horizon Security,176968,0,Administration,Kolkata,Vendor bill BILL-2075
+2026-01-24,JRN-9297,Bill,ZB-2075,BILL-2075,Input GST Recoverable,Other Current Asset,VEND-008,Horizon Security,31854.24,0,Administration,Kolkata,Vendor bill BILL-2075
+2026-01-24,JRN-9297,Bill,ZB-2075,BILL-2075,Accounts Payable,Accounts Payable,VEND-008,Horizon Security,0,208822.24,Administration,Kolkata,Vendor bill BILL-2075
+2026-01-06,JRN-9298,Bill,ZB-2076,BILL-2076,Repairs & Maintenance,Expense,VEND-006,FastTrack Transport,50547,0,Finance,Bengaluru,Vendor bill BILL-2076
+2026-01-06,JRN-9298,Bill,ZB-2076,BILL-2076,Input GST Recoverable,Other Current Asset,VEND-006,FastTrack Transport,9098.46,0,Finance,Bengaluru,Vendor bill BILL-2076
+2026-01-06,JRN-9298,Bill,ZB-2076,BILL-2076,Accounts Payable,Accounts Payable,VEND-006,FastTrack Transport,0,59645.46,Finance,Bengaluru,Vendor bill BILL-2076
+2026-01-12,JRN-9299,Bill,ZB-2077,BILL-2077,Repairs & Maintenance,Expense,VEND-007,Global Packaging,122811,0,Finance,Bengaluru,Vendor bill BILL-2077
+2026-01-12,JRN-9299,Bill,ZB-2077,BILL-2077,Input GST Recoverable,Other Current Asset,VEND-007,Global Packaging,22105.98,0,Finance,Bengaluru,Vendor bill BILL-2077
+2026-01-12,JRN-9299,Bill,ZB-2077,BILL-2077,Accounts Payable,Accounts Payable,VEND-007,Global Packaging,0,144916.98,Finance,Bengaluru,Vendor bill BILL-2077
+2026-01-16,JRN-9300,Bill,ZB-2078,BILL-2078,Professional Fees,Expense,VEND-002,BoxPro Materials,133119,0,Technology,Ahmedabad,Vendor bill BILL-2078
+2026-01-16,JRN-9300,Bill,ZB-2078,BILL-2078,Input GST Recoverable,Other Current Asset,VEND-002,BoxPro Materials,23961.42,0,Technology,Ahmedabad,Vendor bill BILL-2078
+2026-01-16,JRN-9300,Bill,ZB-2078,BILL-2078,Accounts Payable,Accounts Payable,VEND-002,BoxPro Materials,0,157080.42,Technology,Ahmedabad,Vendor bill BILL-2078
+2026-01-18,JRN-9301,Bill,ZB-2079,BILL-2079,Purchases,Expense,VEND-005,Evergreen Technologies,20412,0,Technology,Kolkata,Vendor bill BILL-2079
+2026-01-18,JRN-9301,Bill,ZB-2079,BILL-2079,Input GST Recoverable,Other Current Asset,VEND-005,Evergreen Technologies,3674.16,0,Technology,Kolkata,Vendor bill BILL-2079
+2026-01-18,JRN-9301,Bill,ZB-2079,BILL-2079,Accounts Payable,Accounts Payable,VEND-005,Evergreen Technologies,0,24086.16,Technology,Kolkata,Vendor bill BILL-2079
+2026-01-24,JRN-9302,Bill,ZB-2080,BILL-2080,Purchases,Expense,VEND-004,Dyna Services,44174,0,Technology,Kolkata,Vendor bill BILL-2080
+2026-01-24,JRN-9302,Bill,ZB-2080,BILL-2080,Input GST Recoverable,Other Current Asset,VEND-004,Dyna Services,7951.32,0,Technology,Kolkata,Vendor bill BILL-2080
+2026-01-24,JRN-9302,Bill,ZB-2080,BILL-2080,Accounts Payable,Accounts Payable,VEND-004,Dyna Services,0,52125.32,Technology,Kolkata,Vendor bill BILL-2080
+2026-02-12,JRN-9303,Bill,ZB-2081,BILL-2081,Freight & Delivery,Expense,VEND-005,Evergreen Technologies,180127,0,Operations,Kolkata,Vendor bill BILL-2081
+2026-02-12,JRN-9303,Bill,ZB-2081,BILL-2081,Input GST Recoverable,Other Current Asset,VEND-005,Evergreen Technologies,32422.86,0,Operations,Kolkata,Vendor bill BILL-2081
+2026-02-12,JRN-9303,Bill,ZB-2081,BILL-2081,Accounts Payable,Accounts Payable,VEND-005,Evergreen Technologies,0,212549.86,Operations,Kolkata,Vendor bill BILL-2081
+2026-02-01,JRN-9304,Bill,ZB-2082,BILL-2082,Professional Fees,Expense,VEND-008,Horizon Security,143160,0,Finance,Bengaluru,Vendor bill BILL-2082
+2026-02-01,JRN-9304,Bill,ZB-2082,BILL-2082,Input GST Recoverable,Other Current Asset,VEND-008,Horizon Security,25768.8,0,Finance,Bengaluru,Vendor bill BILL-2082
+2026-02-01,JRN-9304,Bill,ZB-2082,BILL-2082,Accounts Payable,Accounts Payable,VEND-008,Horizon Security,0,168928.8,Finance,Bengaluru,Vendor bill BILL-2082
+2026-02-15,JRN-9305,Bill,ZB-2083,BILL-2083,Purchases,Expense,VEND-008,Horizon Security,81804,0,Technology,Ahmedabad,Vendor bill BILL-2083
+2026-02-15,JRN-9305,Bill,ZB-2083,BILL-2083,Input GST Recoverable,Other Current Asset,VEND-008,Horizon Security,14724.72,0,Technology,Ahmedabad,Vendor bill BILL-2083
+2026-02-15,JRN-9305,Bill,ZB-2083,BILL-2083,Accounts Payable,Accounts Payable,VEND-008,Horizon Security,0,96528.72,Technology,Ahmedabad,Vendor bill BILL-2083
+2026-02-10,JRN-9306,Bill,ZB-2084,BILL-2084,Purchases,Expense,VEND-002,BoxPro Materials,162688,0,Technology,Delhi,Vendor bill BILL-2084
+2026-02-10,JRN-9306,Bill,ZB-2084,BILL-2084,Input GST Recoverable,Other Current Asset,VEND-002,BoxPro Materials,29283.84,0,Technology,Delhi,Vendor bill BILL-2084
+2026-02-10,JRN-9306,Bill,ZB-2084,BILL-2084,Accounts Payable,Accounts Payable,VEND-002,BoxPro Materials,0,191971.84,Technology,Delhi,Vendor bill BILL-2084
+2026-02-15,JRN-9307,Bill,ZB-2085,BILL-2085,Freight & Delivery,Expense,VEND-003,Crest Logistics,60962,0,Technology,Bengaluru,Vendor bill BILL-2085
+2026-02-15,JRN-9307,Bill,ZB-2085,BILL-2085,Input GST Recoverable,Other Current Asset,VEND-003,Crest Logistics,10973.16,0,Technology,Bengaluru,Vendor bill BILL-2085
+2026-02-15,JRN-9307,Bill,ZB-2085,BILL-2085,Accounts Payable,Accounts Payable,VEND-003,Crest Logistics,0,71935.16,Technology,Bengaluru,Vendor bill BILL-2085
+2026-02-02,JRN-9308,Bill,ZB-2086,BILL-2086,Professional Fees,Expense,VEND-004,Dyna Services,16965,0,Sales,Mumbai,Vendor bill BILL-2086
+2026-02-02,JRN-9308,Bill,ZB-2086,BILL-2086,Input GST Recoverable,Other Current Asset,VEND-004,Dyna Services,3053.7,0,Sales,Mumbai,Vendor bill BILL-2086
+2026-02-02,JRN-9308,Bill,ZB-2086,BILL-2086,Accounts Payable,Accounts Payable,VEND-004,Dyna Services,0,20018.7,Sales,Mumbai,Vendor bill BILL-2086
+2026-02-20,JRN-9309,Bill,ZB-2087,BILL-2087,Repairs & Maintenance,Expense,VEND-001,Alpha Supplies Pvt Ltd,152040,0,Operations,Ahmedabad,Vendor bill BILL-2087
+2026-02-20,JRN-9309,Bill,ZB-2087,BILL-2087,Input GST Recoverable,Other Current Asset,VEND-001,Alpha Supplies Pvt Ltd,27367.2,0,Operations,Ahmedabad,Vendor bill BILL-2087
+2026-02-20,JRN-9309,Bill,ZB-2087,BILL-2087,Accounts Payable,Accounts Payable,VEND-001,Alpha Supplies Pvt Ltd,0,179407.2,Operations,Ahmedabad,Vendor bill BILL-2087
+2026-02-01,JRN-9310,Bill,ZB-2088,BILL-2088,Repairs & Maintenance,Expense,VEND-002,BoxPro Materials,132450,0,Sales,Delhi,Vendor bill BILL-2088
+2026-02-01,JRN-9310,Bill,ZB-2088,BILL-2088,Input GST Recoverable,Other Current Asset,VEND-002,BoxPro Materials,23841,0,Sales,Delhi,Vendor bill BILL-2088
+2026-02-01,JRN-9310,Bill,ZB-2088,BILL-2088,Accounts Payable,Accounts Payable,VEND-002,BoxPro Materials,0,156291,Sales,Delhi,Vendor bill BILL-2088
+2026-03-20,JRN-9311,Bill,ZB-2089,BILL-2089,Repairs & Maintenance,Expense,VEND-008,Horizon Security,13690,0,Operations,Ahmedabad,Vendor bill BILL-2089
+2026-03-20,JRN-9311,Bill,ZB-2089,BILL-2089,Input GST Recoverable,Other Current Asset,VEND-008,Horizon Security,2464.2,0,Operations,Ahmedabad,Vendor bill BILL-2089
+2026-03-20,JRN-9311,Bill,ZB-2089,BILL-2089,Accounts Payable,Accounts Payable,VEND-008,Horizon Security,0,16154.2,Operations,Ahmedabad,Vendor bill BILL-2089
+2026-03-22,JRN-9312,Bill,ZB-2090,BILL-2090,Repairs & Maintenance,Expense,VEND-008,Horizon Security,30217,0,Operations,Mumbai,Vendor bill BILL-2090
+2026-03-22,JRN-9312,Bill,ZB-2090,BILL-2090,Input GST Recoverable,Other Current Asset,VEND-008,Horizon Security,5439.06,0,Operations,Mumbai,Vendor bill BILL-2090
+2026-03-22,JRN-9312,Bill,ZB-2090,BILL-2090,Accounts Payable,Accounts Payable,VEND-008,Horizon Security,0,35656.06,Operations,Mumbai,Vendor bill BILL-2090
+2026-03-08,JRN-9313,Bill,ZB-2091,BILL-2091,Professional Fees,Expense,VEND-002,BoxPro Materials,72765,0,Sales,Kolkata,Vendor bill BILL-2091
+2026-03-08,JRN-9313,Bill,ZB-2091,BILL-2091,Input GST Recoverable,Other Current Asset,VEND-002,BoxPro Materials,13097.7,0,Sales,Kolkata,Vendor bill BILL-2091
+2026-03-08,JRN-9313,Bill,ZB-2091,BILL-2091,Accounts Payable,Accounts Payable,VEND-002,BoxPro Materials,0,85862.7,Sales,Kolkata,Vendor bill BILL-2091
+2026-03-18,JRN-9314,Bill,ZB-2092,BILL-2092,Professional Fees,Expense,VEND-006,FastTrack Transport,30096,0,Operations,Mumbai,Vendor bill BILL-2092
+2026-03-18,JRN-9314,Bill,ZB-2092,BILL-2092,Input GST Recoverable,Other Current Asset,VEND-006,FastTrack Transport,5417.28,0,Operations,Mumbai,Vendor bill BILL-2092
+2026-03-18,JRN-9314,Bill,ZB-2092,BILL-2092,Accounts Payable,Accounts Payable,VEND-006,FastTrack Transport,0,35513.28,Operations,Mumbai,Vendor bill BILL-2092
+2026-03-04,JRN-9315,Bill,ZB-2093,BILL-2093,Repairs & Maintenance,Expense,VEND-003,Crest Logistics,146890,0,Administration,Ahmedabad,Vendor bill BILL-2093
+2026-03-04,JRN-9315,Bill,ZB-2093,BILL-2093,Input GST Recoverable,Other Current Asset,VEND-003,Crest Logistics,26440.2,0,Administration,Ahmedabad,Vendor bill BILL-2093
+2026-03-04,JRN-9315,Bill,ZB-2093,BILL-2093,Accounts Payable,Accounts Payable,VEND-003,Crest Logistics,0,173330.2,Administration,Ahmedabad,Vendor bill BILL-2093
+2026-03-20,JRN-9316,Bill,ZB-2094,BILL-2094,Purchases,Expense,VEND-008,Horizon Security,113736,0,Technology,Mumbai,Vendor bill BILL-2094
+2026-03-20,JRN-9316,Bill,ZB-2094,BILL-2094,Input GST Recoverable,Other Current Asset,VEND-008,Horizon Security,20472.48,0,Technology,Mumbai,Vendor bill BILL-2094
+2026-03-20,JRN-9316,Bill,ZB-2094,BILL-2094,Accounts Payable,Accounts Payable,VEND-008,Horizon Security,0,134208.48,Technology,Mumbai,Vendor bill BILL-2094
+2026-03-19,JRN-9317,Bill,ZB-2095,BILL-2095,Repairs & Maintenance,Expense,VEND-007,Global Packaging,61644,0,Sales,Delhi,Vendor bill BILL-2095
+2026-03-19,JRN-9317,Bill,ZB-2095,BILL-2095,Input GST Recoverable,Other Current Asset,VEND-007,Global Packaging,11095.92,0,Sales,Delhi,Vendor bill BILL-2095
+2026-03-19,JRN-9317,Bill,ZB-2095,BILL-2095,Accounts Payable,Accounts Payable,VEND-007,Global Packaging,0,72739.92,Sales,Delhi,Vendor bill BILL-2095
+2026-03-12,JRN-9318,Bill,ZB-2096,BILL-2096,Freight & Delivery,Expense,VEND-001,Alpha Supplies Pvt Ltd,37149,0,Technology,Ahmedabad,Vendor bill BILL-2096
+2026-03-12,JRN-9318,Bill,ZB-2096,BILL-2096,Input GST Recoverable,Other Current Asset,VEND-001,Alpha Supplies Pvt Ltd,6686.82,0,Technology,Ahmedabad,Vendor bill BILL-2096
+2026-03-12,JRN-9318,Bill,ZB-2096,BILL-2096,Accounts Payable,Accounts Payable,VEND-001,Alpha Supplies Pvt Ltd,0,43835.82,Technology,Ahmedabad,Vendor bill BILL-2096
+2025-04-18,JRN-9319,Vendor Payment,ZVP-6001,VPAY-6001,Accounts Payable,Accounts Payable,VEND-001,Alpha Supplies Pvt Ltd,190297.42,0,Finance,Bengaluru,Payment against BILL-2002
+2025-04-18,JRN-9319,Vendor Payment,ZVP-6001,VPAY-6001,HDFC Bank Current A/c,Bank,VEND-001,Alpha Supplies Pvt Ltd,0,190297.42,Finance,Bengaluru,Payment against BILL-2002
+2025-05-03,JRN-9320,Vendor Payment,ZVP-6002,VPAY-6002,Accounts Payable,Accounts Payable,VEND-001,Alpha Supplies Pvt Ltd,229511.18,0,Finance,Bengaluru,Payment against BILL-2003
+2025-05-03,JRN-9320,Vendor Payment,ZVP-6002,VPAY-6002,HDFC Bank Current A/c,Bank,VEND-001,Alpha Supplies Pvt Ltd,0,229511.18,Finance,Bengaluru,Payment against BILL-2003
+2025-05-12,JRN-9321,Vendor Payment,ZVP-6003,VPAY-6003,Accounts Payable,Accounts Payable,VEND-008,Horizon Security,308508.64,0,Finance,Ahmedabad,Payment against BILL-2004
+2025-05-12,JRN-9321,Vendor Payment,ZVP-6003,VPAY-6003,HDFC Bank Current A/c,Bank,VEND-008,Horizon Security,0,308508.64,Finance,Ahmedabad,Payment against BILL-2004
+2025-05-23,JRN-9322,Vendor Payment,ZVP-6004,VPAY-6004,Accounts Payable,Accounts Payable,VEND-004,Dyna Services,28489.92,0,Finance,Ahmedabad,Payment against BILL-2005
+2025-05-23,JRN-9322,Vendor Payment,ZVP-6004,VPAY-6004,ICICI Bank Current A/c,Bank,VEND-004,Dyna Services,0,28489.92,Finance,Ahmedabad,Payment against BILL-2005
+2025-05-31,JRN-9323,Vendor Payment,ZVP-6005,VPAY-6005,Accounts Payable,Accounts Payable,VEND-008,Horizon Security,123776.1,0,Finance,Bengaluru,Payment against BILL-2006
+2025-05-31,JRN-9323,Vendor Payment,ZVP-6005,VPAY-6005,ICICI Bank Current A/c,Bank,VEND-008,Horizon Security,0,123776.1,Finance,Bengaluru,Payment against BILL-2006
+2025-04-27,JRN-9324,Vendor Payment,ZVP-6006,VPAY-6006,Accounts Payable,Accounts Payable,VEND-001,Alpha Supplies Pvt Ltd,40016.16,0,Finance,Mumbai,Payment against BILL-2008
+2025-04-27,JRN-9324,Vendor Payment,ZVP-6006,VPAY-6006,ICICI Bank Current A/c,Bank,VEND-001,Alpha Supplies Pvt Ltd,0,40016.16,Finance,Mumbai,Payment against BILL-2008
+2025-05-18,JRN-9325,Vendor Payment,ZVP-6007,VPAY-6007,Accounts Payable,Accounts Payable,VEND-006,FastTrack Transport,112240.42,0,Finance,Kolkata,Payment against BILL-2009
+2025-05-18,JRN-9325,Vendor Payment,ZVP-6007,VPAY-6007,ICICI Bank Current A/c,Bank,VEND-006,FastTrack Transport,0,112240.42,Finance,Kolkata,Payment against BILL-2009
+2025-06-16,JRN-9326,Vendor Payment,ZVP-6008,VPAY-6008,Accounts Payable,Accounts Payable,VEND-001,Alpha Supplies Pvt Ltd,135826.26,0,Finance,Delhi,Payment against BILL-2010
+2025-06-16,JRN-9326,Vendor Payment,ZVP-6008,VPAY-6008,HDFC Bank Current A/c,Bank,VEND-001,Alpha Supplies Pvt Ltd,0,135826.26,Finance,Delhi,Payment against BILL-2010
+2025-06-15,JRN-9327,Vendor Payment,ZVP-6009,VPAY-6009,Accounts Payable,Accounts Payable,VEND-003,Crest Logistics,75402,0,Finance,Delhi,Payment against BILL-2011
+2025-06-15,JRN-9327,Vendor Payment,ZVP-6009,VPAY-6009,ICICI Bank Current A/c,Bank,VEND-003,Crest Logistics,0,75402,Finance,Delhi,Payment against BILL-2011
+2025-06-09,JRN-9328,Vendor Payment,ZVP-6010,VPAY-6010,Accounts Payable,Accounts Payable,VEND-005,Evergreen Technologies,204416.12,0,Finance,Delhi,Payment against BILL-2012
+2025-06-09,JRN-9328,Vendor Payment,ZVP-6010,VPAY-6010,HDFC Bank Current A/c,Bank,VEND-005,Evergreen Technologies,0,204416.12,Finance,Delhi,Payment against BILL-2012
+2025-06-17,JRN-9329,Vendor Payment,ZVP-6011,VPAY-6011,Accounts Payable,Accounts Payable,VEND-007,Global Packaging,47676.72,0,Finance,Delhi,Payment against BILL-2013
+2025-06-17,JRN-9329,Vendor Payment,ZVP-6011,VPAY-6011,HDFC Bank Current A/c,Bank,VEND-007,Global Packaging,0,47676.72,Finance,Delhi,Payment against BILL-2013
+2025-06-10,JRN-9330,Vendor Payment,ZVP-6012,VPAY-6012,Accounts Payable,Accounts Payable,VEND-004,Dyna Services,192816.72,0,Finance,Kolkata,Payment against BILL-2015
+2025-06-10,JRN-9330,Vendor Payment,ZVP-6012,VPAY-6012,HDFC Bank Current A/c,Bank,VEND-004,Dyna Services,0,192816.72,Finance,Kolkata,Payment against BILL-2015
+2025-06-18,JRN-9331,Vendor Payment,ZVP-6013,VPAY-6013,Accounts Payable,Accounts Payable,VEND-002,BoxPro Materials,63814.4,0,Finance,Mumbai,Payment against BILL-2016
+2025-06-18,JRN-9331,Vendor Payment,ZVP-6013,VPAY-6013,ICICI Bank Current A/c,Bank,VEND-002,BoxPro Materials,0,63814.4,Finance,Mumbai,Payment against BILL-2016
+2025-08-02,JRN-9332,Vendor Payment,ZVP-6014,VPAY-6014,Accounts Payable,Accounts Payable,VEND-002,BoxPro Materials,210335,0,Finance,Ahmedabad,Payment against BILL-2017
+2025-08-02,JRN-9332,Vendor Payment,ZVP-6014,VPAY-6014,HDFC Bank Current A/c,Bank,VEND-002,BoxPro Materials,0,210335,Finance,Ahmedabad,Payment against BILL-2017
+2025-07-08,JRN-9333,Vendor Payment,ZVP-6015,VPAY-6015,Accounts Payable,Accounts Payable,VEND-001,Alpha Supplies Pvt Ltd,29537.76,0,Finance,Ahmedabad,Payment against BILL-2018
+2025-07-08,JRN-9333,Vendor Payment,ZVP-6015,VPAY-6015,HDFC Bank Current A/c,Bank,VEND-001,Alpha Supplies Pvt Ltd,0,29537.76,Finance,Ahmedabad,Payment against BILL-2018
+2025-07-05,JRN-9334,Vendor Payment,ZVP-6016,VPAY-6016,Accounts Payable,Accounts Payable,VEND-002,BoxPro Materials,117820.64,0,Finance,Bengaluru,Payment against BILL-2019
+2025-07-05,JRN-9334,Vendor Payment,ZVP-6016,VPAY-6016,HDFC Bank Current A/c,Bank,VEND-002,BoxPro Materials,0,117820.64,Finance,Bengaluru,Payment against BILL-2019
+2025-07-13,JRN-9335,Vendor Payment,ZVP-6017,VPAY-6017,Accounts Payable,Accounts Payable,VEND-004,Dyna Services,149295.96,0,Finance,Bengaluru,Payment against BILL-2020
+2025-07-13,JRN-9335,Vendor Payment,ZVP-6017,VPAY-6017,ICICI Bank Current A/c,Bank,VEND-004,Dyna Services,0,149295.96,Finance,Bengaluru,Payment against BILL-2020
+2025-07-24,JRN-9336,Vendor Payment,ZVP-6018,VPAY-6018,Accounts Payable,Accounts Payable,VEND-006,FastTrack Transport,58064.85,0,Finance,Bengaluru,Payment against BILL-2021
+2025-07-24,JRN-9336,Vendor Payment,ZVP-6018,VPAY-6018,ICICI Bank Current A/c,Bank,VEND-006,FastTrack Transport,0,58064.85,Finance,Bengaluru,Payment against BILL-2021
+2025-07-22,JRN-9337,Vendor Payment,ZVP-6019,VPAY-6019,Accounts Payable,Accounts Payable,VEND-007,Global Packaging,38057.36,0,Finance,Ahmedabad,Payment against BILL-2022
+2025-07-22,JRN-9337,Vendor Payment,ZVP-6019,VPAY-6019,ICICI Bank Current A/c,Bank,VEND-007,Global Packaging,0,38057.36,Finance,Ahmedabad,Payment against BILL-2022
+2025-07-29,JRN-9338,Vendor Payment,ZVP-6020,VPAY-6020,Accounts Payable,Accounts Payable,VEND-007,Global Packaging,197107.2,0,Finance,Kolkata,Payment against BILL-2023
+2025-07-29,JRN-9338,Vendor Payment,ZVP-6020,VPAY-6020,ICICI Bank Current A/c,Bank,VEND-007,Global Packaging,0,197107.2,Finance,Kolkata,Payment against BILL-2023
+2025-08-16,JRN-9339,Vendor Payment,ZVP-6021,VPAY-6021,Accounts Payable,Accounts Payable,VEND-001,Alpha Supplies Pvt Ltd,22461.3,0,Finance,Delhi,Payment against BILL-2025
+2025-08-16,JRN-9339,Vendor Payment,ZVP-6021,VPAY-6021,ICICI Bank Current A/c,Bank,VEND-001,Alpha Supplies Pvt Ltd,0,22461.3,Finance,Delhi,Payment against BILL-2025
+2025-07-23,JRN-9340,Vendor Payment,ZVP-6022,VPAY-6022,Accounts Payable,Accounts Payable,VEND-008,Horizon Security,61289.2,0,Finance,Bengaluru,Payment against BILL-2026
+2025-07-23,JRN-9340,Vendor Payment,ZVP-6022,VPAY-6022,ICICI Bank Current A/c,Bank,VEND-008,Horizon Security,0,61289.2,Finance,Bengaluru,Payment against BILL-2026
+2025-07-16,JRN-9341,Vendor Payment,ZVP-6023,VPAY-6023,Accounts Payable,Accounts Payable,VEND-005,Evergreen Technologies,40535.36,0,Finance,Bengaluru,Payment against BILL-2027
+2025-07-16,JRN-9341,Vendor Payment,ZVP-6023,VPAY-6023,ICICI Bank Current A/c,Bank,VEND-005,Evergreen Technologies,0,40535.36,Finance,Bengaluru,Payment against BILL-2027
+2025-08-05,JRN-9342,Vendor Payment,ZVP-6024,VPAY-6024,Accounts Payable,Accounts Payable,VEND-001,Alpha Supplies Pvt Ltd,26315.77,0,Finance,Delhi,Payment against BILL-2029
+2025-08-05,JRN-9342,Vendor Payment,ZVP-6024,VPAY-6024,ICICI Bank Current A/c,Bank,VEND-001,Alpha Supplies Pvt Ltd,0,26315.77,Finance,Delhi,Payment against BILL-2029
+2025-08-18,JRN-9343,Vendor Payment,ZVP-6025,VPAY-6025,Accounts Payable,Accounts Payable,VEND-007,Global Packaging,148079.38,0,Finance,Delhi,Payment against BILL-2031
+2025-08-18,JRN-9343,Vendor Payment,ZVP-6025,VPAY-6025,ICICI Bank Current A/c,Bank,VEND-007,Global Packaging,0,148079.38,Finance,Delhi,Payment against BILL-2031
+2025-08-14,JRN-9344,Vendor Payment,ZVP-6026,VPAY-6026,Accounts Payable,Accounts Payable,VEND-002,BoxPro Materials,181389.6,0,Finance,Delhi,Payment against BILL-2034
+2025-08-14,JRN-9344,Vendor Payment,ZVP-6026,VPAY-6026,ICICI Bank Current A/c,Bank,VEND-002,BoxPro Materials,0,181389.6,Finance,Delhi,Payment against BILL-2034
+2025-08-30,JRN-9345,Vendor Payment,ZVP-6027,VPAY-6027,Accounts Payable,Accounts Payable,VEND-003,Crest Logistics,58782.29,0,Finance,Kolkata,Payment against BILL-2035
+2025-08-30,JRN-9345,Vendor Payment,ZVP-6027,VPAY-6027,HDFC Bank Current A/c,Bank,VEND-003,Crest Logistics,0,58782.29,Finance,Kolkata,Payment against BILL-2035
+2025-08-17,JRN-9346,Vendor Payment,ZVP-6028,VPAY-6028,Accounts Payable,Accounts Payable,VEND-006,FastTrack Transport,176553.96,0,Finance,Mumbai,Payment against BILL-2036
+2025-08-17,JRN-9346,Vendor Payment,ZVP-6028,VPAY-6028,HDFC Bank Current A/c,Bank,VEND-006,FastTrack Transport,0,176553.96,Finance,Mumbai,Payment against BILL-2036
+2025-08-26,JRN-9347,Vendor Payment,ZVP-6029,VPAY-6029,Accounts Payable,Accounts Payable,VEND-001,Alpha Supplies Pvt Ltd,91975.1,0,Finance,Mumbai,Payment against BILL-2037
+2025-08-26,JRN-9347,Vendor Payment,ZVP-6029,VPAY-6029,ICICI Bank Current A/c,Bank,VEND-001,Alpha Supplies Pvt Ltd,0,91975.1,Finance,Mumbai,Payment against BILL-2037
+2025-08-31,JRN-9348,Vendor Payment,ZVP-6030,VPAY-6030,Accounts Payable,Accounts Payable,VEND-008,Horizon Security,43770.92,0,Finance,Ahmedabad,Payment against BILL-2038
+2025-08-31,JRN-9348,Vendor Payment,ZVP-6030,VPAY-6030,HDFC Bank Current A/c,Bank,VEND-008,Horizon Security,0,43770.92,Finance,Ahmedabad,Payment against BILL-2038
+2025-08-26,JRN-9349,Vendor Payment,ZVP-6031,VPAY-6031,Accounts Payable,Accounts Payable,VEND-003,Crest Logistics,57411.72,0,Finance,Kolkata,Payment against BILL-2039
+2025-08-26,JRN-9349,Vendor Payment,ZVP-6031,VPAY-6031,HDFC Bank Current A/c,Bank,VEND-003,Crest Logistics,0,57411.72,Finance,Kolkata,Payment against BILL-2039
+2025-11-02,JRN-9350,Vendor Payment,ZVP-6032,VPAY-6032,Accounts Payable,Accounts Payable,VEND-003,Crest Logistics,75574.28,0,Finance,Mumbai,Payment against BILL-2041
+2025-11-02,JRN-9350,Vendor Payment,ZVP-6032,VPAY-6032,ICICI Bank Current A/c,Bank,VEND-003,Crest Logistics,0,75574.28,Finance,Mumbai,Payment against BILL-2041
+2025-09-12,JRN-9351,Vendor Payment,ZVP-6033,VPAY-6033,Accounts Payable,Accounts Payable,VEND-005,Evergreen Technologies,21730.88,0,Finance,Bengaluru,Payment against BILL-2042
+2025-09-12,JRN-9351,Vendor Payment,ZVP-6033,VPAY-6033,HDFC Bank Current A/c,Bank,VEND-005,Evergreen Technologies,0,21730.88,Finance,Bengaluru,Payment against BILL-2042
+2025-10-15,JRN-9352,Vendor Payment,ZVP-6034,VPAY-6034,Accounts Payable,Accounts Payable,VEND-003,Crest Logistics,225881.5,0,Finance,Mumbai,Payment against BILL-2044
+2025-10-15,JRN-9352,Vendor Payment,ZVP-6034,VPAY-6034,ICICI Bank Current A/c,Bank,VEND-003,Crest Logistics,0,225881.5,Finance,Mumbai,Payment against BILL-2044
+2025-10-24,JRN-9353,Vendor Payment,ZVP-6035,VPAY-6035,Accounts Payable,Accounts Payable,VEND-003,Crest Logistics,69911.46,0,Finance,Delhi,Payment against BILL-2045
+2025-10-24,JRN-9353,Vendor Payment,ZVP-6035,VPAY-6035,HDFC Bank Current A/c,Bank,VEND-003,Crest Logistics,0,69911.46,Finance,Delhi,Payment against BILL-2045
+2025-10-09,JRN-9354,Vendor Payment,ZVP-6036,VPAY-6036,Accounts Payable,Accounts Payable,VEND-008,Horizon Security,80255.34,0,Finance,Mumbai,Payment against BILL-2046
+2025-10-09,JRN-9354,Vendor Payment,ZVP-6036,VPAY-6036,ICICI Bank Current A/c,Bank,VEND-008,Horizon Security,0,80255.34,Finance,Mumbai,Payment against BILL-2046
+2025-09-30,JRN-9355,Vendor Payment,ZVP-6037,VPAY-6037,Accounts Payable,Accounts Payable,VEND-003,Crest Logistics,28659.84,0,Finance,Kolkata,Payment against BILL-2047
+2025-09-30,JRN-9355,Vendor Payment,ZVP-6037,VPAY-6037,HDFC Bank Current A/c,Bank,VEND-003,Crest Logistics,0,28659.84,Finance,Kolkata,Payment against BILL-2047
+2025-09-24,JRN-9356,Vendor Payment,ZVP-6038,VPAY-6038,Accounts Payable,Accounts Payable,VEND-001,Alpha Supplies Pvt Ltd,20694.84,0,Finance,Kolkata,Payment against BILL-2048
+2025-09-24,JRN-9356,Vendor Payment,ZVP-6038,VPAY-6038,HDFC Bank Current A/c,Bank,VEND-001,Alpha Supplies Pvt Ltd,0,20694.84,Finance,Kolkata,Payment against BILL-2048
+2025-11-19,JRN-9357,Vendor Payment,ZVP-6039,VPAY-6039,Accounts Payable,Accounts Payable,VEND-007,Global Packaging,72545.22,0,Finance,Kolkata,Payment against BILL-2049
+2025-11-19,JRN-9357,Vendor Payment,ZVP-6039,VPAY-6039,HDFC Bank Current A/c,Bank,VEND-007,Global Packaging,0,72545.22,Finance,Kolkata,Payment against BILL-2049
+2025-12-06,JRN-9358,Vendor Payment,ZVP-6040,VPAY-6040,Accounts Payable,Accounts Payable,VEND-002,BoxPro Materials,11844.84,0,Finance,Ahmedabad,Payment against BILL-2050
+2025-12-06,JRN-9358,Vendor Payment,ZVP-6040,VPAY-6040,HDFC Bank Current A/c,Bank,VEND-002,BoxPro Materials,0,11844.84,Finance,Ahmedabad,Payment against BILL-2050
+2025-11-21,JRN-9359,Vendor Payment,ZVP-6041,VPAY-6041,Accounts Payable,Accounts Payable,VEND-005,Evergreen Technologies,51188.4,0,Finance,Kolkata,Payment against BILL-2051
+2025-11-21,JRN-9359,Vendor Payment,ZVP-6041,VPAY-6041,ICICI Bank Current A/c,Bank,VEND-005,Evergreen Technologies,0,51188.4,Finance,Kolkata,Payment against BILL-2051
+2025-11-15,JRN-9360,Vendor Payment,ZVP-6042,VPAY-6042,Accounts Payable,Accounts Payable,VEND-001,Alpha Supplies Pvt Ltd,181040.32,0,Finance,Mumbai,Payment against BILL-2052
+2025-11-15,JRN-9360,Vendor Payment,ZVP-6042,VPAY-6042,ICICI Bank Current A/c,Bank,VEND-001,Alpha Supplies Pvt Ltd,0,181040.32,Finance,Mumbai,Payment against BILL-2052
+2025-10-26,JRN-9361,Vendor Payment,ZVP-6043,VPAY-6043,Accounts Payable,Accounts Payable,VEND-001,Alpha Supplies Pvt Ltd,56073.6,0,Finance,Mumbai,Payment against BILL-2054
+2025-10-26,JRN-9361,Vendor Payment,ZVP-6043,VPAY-6043,HDFC Bank Current A/c,Bank,VEND-001,Alpha Supplies Pvt Ltd,0,56073.6,Finance,Mumbai,Payment against BILL-2054
+2025-11-03,JRN-9362,Vendor Payment,ZVP-6044,VPAY-6044,Accounts Payable,Accounts Payable,VEND-006,FastTrack Transport,125976.8,0,Finance,Delhi,Payment against BILL-2055
+2025-11-03,JRN-9362,Vendor Payment,ZVP-6044,VPAY-6044,HDFC Bank Current A/c,Bank,VEND-006,FastTrack Transport,0,125976.8,Finance,Delhi,Payment against BILL-2055
+2025-11-24,JRN-9363,Vendor Payment,ZVP-6045,VPAY-6045,Accounts Payable,Accounts Payable,VEND-006,FastTrack Transport,49394.8,0,Finance,Delhi,Payment against BILL-2056
+2025-11-24,JRN-9363,Vendor Payment,ZVP-6045,VPAY-6045,ICICI Bank Current A/c,Bank,VEND-006,FastTrack Transport,0,49394.8,Finance,Delhi,Payment against BILL-2056
+2025-12-20,JRN-9364,Vendor Payment,ZVP-6046,VPAY-6046,Accounts Payable,Accounts Payable,VEND-002,BoxPro Materials,190171.16,0,Finance,Bengaluru,Payment against BILL-2058
+2025-12-20,JRN-9364,Vendor Payment,ZVP-6046,VPAY-6046,HDFC Bank Current A/c,Bank,VEND-002,BoxPro Materials,0,190171.16,Finance,Bengaluru,Payment against BILL-2058
+2025-11-12,JRN-9365,Vendor Payment,ZVP-6047,VPAY-6047,Accounts Payable,Accounts Payable,VEND-001,Alpha Supplies Pvt Ltd,43612.8,0,Finance,Mumbai,Payment against BILL-2059
+2025-11-12,JRN-9365,Vendor Payment,ZVP-6047,VPAY-6047,HDFC Bank Current A/c,Bank,VEND-001,Alpha Supplies Pvt Ltd,0,43612.8,Finance,Mumbai,Payment against BILL-2059
+2025-12-01,JRN-9366,Vendor Payment,ZVP-6048,VPAY-6048,Accounts Payable,Accounts Payable,VEND-007,Global Packaging,94447.2,0,Finance,Kolkata,Payment against BILL-2060
+2025-12-01,JRN-9366,Vendor Payment,ZVP-6048,VPAY-6048,HDFC Bank Current A/c,Bank,VEND-007,Global Packaging,0,94447.2,Finance,Kolkata,Payment against BILL-2060
+2026-01-02,JRN-9367,Vendor Payment,ZVP-6049,VPAY-6049,Accounts Payable,Accounts Payable,VEND-001,Alpha Supplies Pvt Ltd,38232,0,Finance,Mumbai,Payment against BILL-2062
+2026-01-02,JRN-9367,Vendor Payment,ZVP-6049,VPAY-6049,HDFC Bank Current A/c,Bank,VEND-001,Alpha Supplies Pvt Ltd,0,38232,Finance,Mumbai,Payment against BILL-2062
+2025-12-18,JRN-9368,Vendor Payment,ZVP-6050,VPAY-6050,Accounts Payable,Accounts Payable,VEND-003,Crest Logistics,38099.84,0,Finance,Mumbai,Payment against BILL-2063
+2025-12-18,JRN-9368,Vendor Payment,ZVP-6050,VPAY-6050,ICICI Bank Current A/c,Bank,VEND-003,Crest Logistics,0,38099.84,Finance,Mumbai,Payment against BILL-2063
+2025-12-23,JRN-9369,Vendor Payment,ZVP-6051,VPAY-6051,Accounts Payable,Accounts Payable,VEND-001,Alpha Supplies Pvt Ltd,162840,0,Finance,Delhi,Payment against BILL-2064
+2025-12-23,JRN-9369,Vendor Payment,ZVP-6051,VPAY-6051,ICICI Bank Current A/c,Bank,VEND-001,Alpha Supplies Pvt Ltd,0,162840,Finance,Delhi,Payment against BILL-2064
+2025-12-25,JRN-9370,Vendor Payment,ZVP-6052,VPAY-6052,Accounts Payable,Accounts Payable,VEND-008,Horizon Security,115437.04,0,Finance,Delhi,Payment against BILL-2065
+2025-12-25,JRN-9370,Vendor Payment,ZVP-6052,VPAY-6052,ICICI Bank Current A/c,Bank,VEND-008,Horizon Security,0,115437.04,Finance,Delhi,Payment against BILL-2065
+2026-01-12,JRN-9371,Vendor Payment,ZVP-6053,VPAY-6053,Accounts Payable,Accounts Payable,VEND-002,BoxPro Materials,92524.98,0,Finance,Kolkata,Payment against BILL-2066
+2026-01-12,JRN-9371,Vendor Payment,ZVP-6053,VPAY-6053,HDFC Bank Current A/c,Bank,VEND-002,BoxPro Materials,0,92524.98,Finance,Kolkata,Payment against BILL-2066
+2026-01-28,JRN-9372,Vendor Payment,ZVP-6054,VPAY-6054,Accounts Payable,Accounts Payable,VEND-002,BoxPro Materials,45170.4,0,Finance,Bengaluru,Payment against BILL-2067
+2026-01-28,JRN-9372,Vendor Payment,ZVP-6054,VPAY-6054,ICICI Bank Current A/c,Bank,VEND-002,BoxPro Materials,0,45170.4,Finance,Bengaluru,Payment against BILL-2067
+2026-01-19,JRN-9373,Vendor Payment,ZVP-6055,VPAY-6055,Accounts Payable,Accounts Payable,VEND-003,Crest Logistics,49748.8,0,Finance,Delhi,Payment against BILL-2070
+2026-01-19,JRN-9373,Vendor Payment,ZVP-6055,VPAY-6055,HDFC Bank Current A/c,Bank,VEND-003,Crest Logistics,0,49748.8,Finance,Delhi,Payment against BILL-2070
+2025-12-24,JRN-9374,Vendor Payment,ZVP-6056,VPAY-6056,Accounts Payable,Accounts Payable,VEND-007,Global Packaging,36863.2,0,Finance,Ahmedabad,Payment against BILL-DUP-01
+2025-12-24,JRN-9374,Vendor Payment,ZVP-6056,VPAY-6056,ICICI Bank Current A/c,Bank,VEND-007,Global Packaging,0,36863.2,Finance,Ahmedabad,Payment against BILL-DUP-01
+2026-02-10,JRN-9375,Vendor Payment,ZVP-6057,VPAY-6057,Accounts Payable,Accounts Payable,VEND-003,Crest Logistics,53130.68,0,Finance,Kolkata,Payment against BILL-DUP-01
+2026-02-10,JRN-9375,Vendor Payment,ZVP-6057,VPAY-6057,HDFC Bank Current A/c,Bank,VEND-003,Crest Logistics,0,53130.68,Finance,Kolkata,Payment against BILL-DUP-01
+2026-02-08,JRN-9376,Vendor Payment,ZVP-6058,VPAY-6058,Accounts Payable,Accounts Payable,VEND-005,Evergreen Technologies,53189.68,0,Finance,Kolkata,Payment against BILL-2073
+2026-02-08,JRN-9376,Vendor Payment,ZVP-6058,VPAY-6058,ICICI Bank Current A/c,Bank,VEND-005,Evergreen Technologies,0,53189.68,Finance,Kolkata,Payment against BILL-2073
+2026-01-18,JRN-9377,Vendor Payment,ZVP-6059,VPAY-6059,Accounts Payable,Accounts Payable,VEND-003,Crest Logistics,23664.9,0,Finance,Bengaluru,Payment against BILL-2074
+2026-01-18,JRN-9377,Vendor Payment,ZVP-6059,VPAY-6059,ICICI Bank Current A/c,Bank,VEND-003,Crest Logistics,0,23664.9,Finance,Bengaluru,Payment against BILL-2074
+2026-02-17,JRN-9378,Vendor Payment,ZVP-6060,VPAY-6060,Accounts Payable,Accounts Payable,VEND-008,Horizon Security,208822.24,0,Finance,Bengaluru,Payment against BILL-2075
+2026-02-17,JRN-9378,Vendor Payment,ZVP-6060,VPAY-6060,HDFC Bank Current A/c,Bank,VEND-008,Horizon Security,0,208822.24,Finance,Bengaluru,Payment against BILL-2075
+2026-02-05,JRN-9379,Vendor Payment,ZVP-6061,VPAY-6061,Accounts Payable,Accounts Payable,VEND-006,FastTrack Transport,59645.46,0,Finance,Delhi,Payment against BILL-2076
+2026-02-05,JRN-9379,Vendor Payment,ZVP-6061,VPAY-6061,ICICI Bank Current A/c,Bank,VEND-006,FastTrack Transport,0,59645.46,Finance,Delhi,Payment against BILL-2076
+2026-02-06,JRN-9380,Vendor Payment,ZVP-6062,VPAY-6062,Accounts Payable,Accounts Payable,VEND-007,Global Packaging,144916.98,0,Finance,Kolkata,Payment against BILL-2077
+2026-02-06,JRN-9380,Vendor Payment,ZVP-6062,VPAY-6062,ICICI Bank Current A/c,Bank,VEND-007,Global Packaging,0,144916.98,Finance,Kolkata,Payment against BILL-2077
+2026-01-25,JRN-9381,Vendor Payment,ZVP-6063,VPAY-6063,Accounts Payable,Accounts Payable,VEND-002,BoxPro Materials,157080.42,0,Finance,Ahmedabad,Payment against BILL-2078
+2026-01-25,JRN-9381,Vendor Payment,ZVP-6063,VPAY-6063,ICICI Bank Current A/c,Bank,VEND-002,BoxPro Materials,0,157080.42,Finance,Ahmedabad,Payment against BILL-2078
+2026-03-04,JRN-9382,Vendor Payment,ZVP-6064,VPAY-6064,Accounts Payable,Accounts Payable,VEND-005,Evergreen Technologies,24086.16,0,Finance,Bengaluru,Payment against BILL-2079
+2026-03-04,JRN-9382,Vendor Payment,ZVP-6064,VPAY-6064,ICICI Bank Current A/c,Bank,VEND-005,Evergreen Technologies,0,24086.16,Finance,Bengaluru,Payment against BILL-2079
+2026-03-15,JRN-9383,Vendor Payment,ZVP-6065,VPAY-6065,Accounts Payable,Accounts Payable,VEND-004,Dyna Services,52125.32,0,Finance,Ahmedabad,Payment against BILL-2080
+2026-03-15,JRN-9383,Vendor Payment,ZVP-6065,VPAY-6065,ICICI Bank Current A/c,Bank,VEND-004,Dyna Services,0,52125.32,Finance,Ahmedabad,Payment against BILL-2080
+2026-03-28,JRN-9384,Vendor Payment,ZVP-6066,VPAY-6066,Accounts Payable,Accounts Payable,VEND-005,Evergreen Technologies,212549.86,0,Finance,Delhi,Payment against BILL-2081
+2026-03-28,JRN-9384,Vendor Payment,ZVP-6066,VPAY-6066,ICICI Bank Current A/c,Bank,VEND-005,Evergreen Technologies,0,212549.86,Finance,Delhi,Payment against BILL-2081
+2026-02-11,JRN-9385,Vendor Payment,ZVP-6067,VPAY-6067,Accounts Payable,Accounts Payable,VEND-008,Horizon Security,84464.4,0,Finance,Ahmedabad,Payment against BILL-2082
+2026-02-11,JRN-9385,Vendor Payment,ZVP-6067,VPAY-6067,ICICI Bank Current A/c,Bank,VEND-008,Horizon Security,0,84464.4,Finance,Ahmedabad,Payment against BILL-2082
+2026-03-11,JRN-9386,Vendor Payment,ZVP-6068,VPAY-6068,Accounts Payable,Accounts Payable,VEND-008,Horizon Security,96528.72,0,Finance,Bengaluru,Payment against BILL-2083
+2026-03-11,JRN-9386,Vendor Payment,ZVP-6068,VPAY-6068,ICICI Bank Current A/c,Bank,VEND-008,Horizon Security,0,96528.72,Finance,Bengaluru,Payment against BILL-2083
+2026-03-08,JRN-9387,Vendor Payment,ZVP-6069,VPAY-6069,Accounts Payable,Accounts Payable,VEND-003,Crest Logistics,71935.16,0,Finance,Mumbai,Payment against BILL-2085
+2026-03-08,JRN-9387,Vendor Payment,ZVP-6069,VPAY-6069,HDFC Bank Current A/c,Bank,VEND-003,Crest Logistics,0,71935.16,Finance,Mumbai,Payment against BILL-2085
+2026-03-25,JRN-9388,Vendor Payment,ZVP-6070,VPAY-6070,Accounts Payable,Accounts Payable,VEND-001,Alpha Supplies Pvt Ltd,179407.2,0,Finance,Kolkata,Payment against BILL-2087
+2026-03-25,JRN-9388,Vendor Payment,ZVP-6070,VPAY-6070,ICICI Bank Current A/c,Bank,VEND-001,Alpha Supplies Pvt Ltd,0,179407.2,Finance,Kolkata,Payment against BILL-2087
+2026-02-24,JRN-9389,Vendor Payment,ZVP-6071,VPAY-6071,Accounts Payable,Accounts Payable,VEND-002,BoxPro Materials,78145.5,0,Finance,Mumbai,Payment against BILL-2088
+2026-02-24,JRN-9389,Vendor Payment,ZVP-6071,VPAY-6071,HDFC Bank Current A/c,Bank,VEND-002,BoxPro Materials,0,78145.5,Finance,Mumbai,Payment against BILL-2088
+2026-03-25,JRN-9390,Vendor Payment,ZVP-6072,VPAY-6072,Accounts Payable,Accounts Payable,VEND-008,Horizon Security,16154.2,0,Finance,Delhi,Payment against BILL-2089
+2026-03-25,JRN-9390,Vendor Payment,ZVP-6072,VPAY-6072,ICICI Bank Current A/c,Bank,VEND-008,Horizon Security,0,16154.2,Finance,Delhi,Payment against BILL-2089
+2026-03-31,JRN-9391,Vendor Payment,ZVP-6073,VPAY-6073,Accounts Payable,Accounts Payable,VEND-008,Horizon Security,35656.06,0,Finance,Mumbai,Payment against BILL-2090
+2026-03-31,JRN-9391,Vendor Payment,ZVP-6073,VPAY-6073,HDFC Bank Current A/c,Bank,VEND-008,Horizon Security,0,35656.06,Finance,Mumbai,Payment against BILL-2090
+2026-03-18,JRN-9392,Vendor Payment,ZVP-6074,VPAY-6074,Accounts Payable,Accounts Payable,VEND-002,BoxPro Materials,42931.35,0,Finance,Bengaluru,Payment against BILL-2091
+2026-03-18,JRN-9392,Vendor Payment,ZVP-6074,VPAY-6074,HDFC Bank Current A/c,Bank,VEND-002,BoxPro Materials,0,42931.35,Finance,Bengaluru,Payment against BILL-2091
+2026-03-31,JRN-9393,Vendor Payment,ZVP-6075,VPAY-6075,Accounts Payable,Accounts Payable,VEND-006,FastTrack Transport,17756.64,0,Finance,Bengaluru,Payment against BILL-2092
+2026-03-31,JRN-9393,Vendor Payment,ZVP-6075,VPAY-6075,ICICI Bank Current A/c,Bank,VEND-006,FastTrack Transport,0,17756.64,Finance,Bengaluru,Payment against BILL-2092
+2026-03-18,JRN-9394,Vendor Payment,ZVP-6076,VPAY-6076,Accounts Payable,Accounts Payable,VEND-003,Crest Logistics,173330.2,0,Finance,Kolkata,Payment against BILL-2093
+2026-03-18,JRN-9394,Vendor Payment,ZVP-6076,VPAY-6076,ICICI Bank Current A/c,Bank,VEND-003,Crest Logistics,0,173330.2,Finance,Kolkata,Payment against BILL-2093
+2026-03-28,JRN-9395,Vendor Payment,ZVP-6077,VPAY-6077,Accounts Payable,Accounts Payable,VEND-007,Global Packaging,72739.92,0,Finance,Kolkata,Payment against BILL-2095
+2026-03-28,JRN-9395,Vendor Payment,ZVP-6077,VPAY-6077,HDFC Bank Current A/c,Bank,VEND-007,Global Packaging,0,72739.92,Finance,Kolkata,Payment against BILL-2095
+2025-04-07,JRN-9396,Expense,ZE-8001,EXPREF-8001,Office Supplies,Expense,VEND-001,Alpha Supplies Pvt Ltd,67000,0,Sales,Bengaluru,Synthetic operating expense
+2025-04-07,JRN-9396,Expense,ZE-8001,EXPREF-8001,Input GST Recoverable,Other Current Asset,VEND-001,Alpha Supplies Pvt Ltd,12060,0,Sales,Bengaluru,Synthetic operating expense
+2025-04-07,JRN-9396,Expense,ZE-8001,EXPREF-8001,ICICI Bank Current A/c,Bank,VEND-001,Alpha Supplies Pvt Ltd,0,79060,Sales,Bengaluru,Synthetic operating expense
+2025-04-22,JRN-9397,Expense,ZE-8002,EXPREF-8002,Marketing Expense,Expense,VEND-005,Evergreen Technologies,19000,0,Operations,Kolkata,Synthetic operating expense
+2025-04-22,JRN-9397,Expense,ZE-8002,EXPREF-8002,Input GST Recoverable,Other Current Asset,VEND-005,Evergreen Technologies,950,0,Operations,Kolkata,Synthetic operating expense
+2025-04-22,JRN-9397,Expense,ZE-8002,EXPREF-8002,ICICI Bank Current A/c,Bank,VEND-005,Evergreen Technologies,0,19950,Operations,Kolkata,Synthetic operating expense
+2025-04-18,JRN-9398,Expense,ZE-8003,EXPREF-8003,Travel Expense,Expense,VEND-005,Evergreen Technologies,44000,0,Finance,Ahmedabad,Synthetic operating expense
+2025-04-18,JRN-9398,Expense,ZE-8003,EXPREF-8003,Input GST Recoverable,Other Current Asset,VEND-005,Evergreen Technologies,0,0,Finance,Ahmedabad,Synthetic operating expense
+2025-04-18,JRN-9398,Expense,ZE-8003,EXPREF-8003,ICICI Bank Current A/c,Bank,VEND-005,Evergreen Technologies,0,44000,Finance,Ahmedabad,Synthetic operating expense
+2025-04-24,JRN-9399,Expense,ZE-8004,EXPREF-8004,Software Subscription,Expense,VEND-002,BoxPro Materials,29000,0,Administration,Mumbai,Synthetic operating expense
+2025-04-24,JRN-9399,Expense,ZE-8004,EXPREF-8004,Input GST Recoverable,Other Current Asset,VEND-002,BoxPro Materials,0,0,Administration,Mumbai,Synthetic operating expense
+2025-04-24,JRN-9399,Expense,ZE-8004,EXPREF-8004,HDFC Bank Current A/c,Bank,VEND-002,BoxPro Materials,0,29000,Administration,Mumbai,Synthetic operating expense
+2025-04-11,JRN-9400,Expense,ZE-8005,EXPREF-8005,Repairs & Maintenance,Expense,VEND-008,Horizon Security,64000,0,Sales,Delhi,Synthetic operating expense
+2025-04-11,JRN-9400,Expense,ZE-8005,EXPREF-8005,Input GST Recoverable,Other Current Asset,VEND-008,Horizon Security,0,0,Sales,Delhi,Synthetic operating expense
+2025-04-11,JRN-9400,Expense,ZE-8005,EXPREF-8005,ICICI Bank Current A/c,Bank,VEND-008,Horizon Security,0,64000,Sales,Delhi,Synthetic operating expense
+2025-04-14,JRN-9401,Expense,ZE-8006,EXPREF-8006,Repairs & Maintenance,Expense,VEND-002,BoxPro Materials,45000,0,Sales,Ahmedabad,Synthetic operating expense
+2025-04-14,JRN-9401,Expense,ZE-8006,EXPREF-8006,Input GST Recoverable,Other Current Asset,VEND-002,BoxPro Materials,0,0,Sales,Ahmedabad,Synthetic operating expense
+2025-04-14,JRN-9401,Expense,ZE-8006,EXPREF-8006,HDFC Bank Current A/c,Bank,VEND-002,BoxPro Materials,0,45000,Sales,Ahmedabad,Synthetic operating expense
+2025-05-25,JRN-9402,Expense,ZE-8007,EXPREF-8007,Software Subscription,Expense,VEND-005,Evergreen Technologies,67000,0,Administration,Mumbai,Synthetic operating expense
+2025-05-25,JRN-9402,Expense,ZE-8007,EXPREF-8007,Input GST Recoverable,Other Current Asset,VEND-005,Evergreen Technologies,0,0,Administration,Mumbai,Synthetic operating expense
+2025-05-25,JRN-9402,Expense,ZE-8007,EXPREF-8007,ICICI Bank Current A/c,Bank,VEND-005,Evergreen Technologies,0,67000,Administration,Mumbai,Synthetic operating expense
+2025-05-13,JRN-9403,Expense,ZE-8008,EXPREF-8008,Software Subscription,Expense,VEND-004,Dyna Services,32000,0,Technology,Delhi,Synthetic operating expense
+2025-05-13,JRN-9403,Expense,ZE-8008,EXPREF-8008,Input GST Recoverable,Other Current Asset,VEND-004,Dyna Services,0,0,Technology,Delhi,Synthetic operating expense
+2025-05-13,JRN-9403,Expense,ZE-8008,EXPREF-8008,HDFC Bank Current A/c,Bank,VEND-004,Dyna Services,0,32000,Technology,Delhi,Synthetic operating expense
+2025-05-15,JRN-9404,Expense,ZE-8009,EXPREF-8009,Software Subscription,Expense,VEND-003,Crest Logistics,41000,0,Operations,Kolkata,Synthetic operating expense
+2025-05-15,JRN-9404,Expense,ZE-8009,EXPREF-8009,Input GST Recoverable,Other Current Asset,VEND-003,Crest Logistics,0,0,Operations,Kolkata,Synthetic operating expense
+2025-05-15,JRN-9404,Expense,ZE-8009,EXPREF-8009,ICICI Bank Current A/c,Bank,VEND-003,Crest Logistics,0,41000,Operations,Kolkata,Synthetic operating expense
+2025-05-05,JRN-9405,Expense,ZE-8010,EXPREF-8010,Software Subscription,Expense,VEND-002,BoxPro Materials,85000,0,Finance,Ahmedabad,Synthetic operating expense
+2025-05-05,JRN-9405,Expense,ZE-8010,EXPREF-8010,Input GST Recoverable,Other Current Asset,VEND-002,BoxPro Materials,15300,0,Finance,Ahmedabad,Synthetic operating expense
+2025-05-05,JRN-9405,Expense,ZE-8010,EXPREF-8010,ICICI Bank Current A/c,Bank,VEND-002,BoxPro Materials,0,100300,Finance,Ahmedabad,Synthetic operating expense
+2025-05-02,JRN-9406,Expense,ZE-8011,EXPREF-8011,Office Supplies,Expense,VEND-002,BoxPro Materials,41000,0,Technology,Bengaluru,Synthetic operating expense
+2025-05-02,JRN-9406,Expense,ZE-8011,EXPREF-8011,Input GST Recoverable,Other Current Asset,VEND-002,BoxPro Materials,7380,0,Technology,Bengaluru,Synthetic operating expense
+2025-05-02,JRN-9406,Expense,ZE-8011,EXPREF-8011,HDFC Bank Current A/c,Bank,VEND-002,BoxPro Materials,0,48380,Technology,Bengaluru,Synthetic operating expense
+2025-05-17,JRN-9407,Expense,ZE-8012,EXPREF-8012,Marketing Expense,Expense,VEND-004,Dyna Services,24000,0,Sales,Bengaluru,Synthetic operating expense
+2025-05-17,JRN-9407,Expense,ZE-8012,EXPREF-8012,Input GST Recoverable,Other Current Asset,VEND-004,Dyna Services,0,0,Sales,Bengaluru,Synthetic operating expense
+2025-05-17,JRN-9407,Expense,ZE-8012,EXPREF-8012,ICICI Bank Current A/c,Bank,VEND-004,Dyna Services,0,24000,Sales,Bengaluru,Synthetic operating expense
+2025-06-14,JRN-9408,Expense,ZE-8013,EXPREF-8013,Marketing Expense,Expense,VEND-002,BoxPro Materials,51000,0,Finance,Mumbai,Synthetic operating expense
+2025-06-14,JRN-9408,Expense,ZE-8013,EXPREF-8013,Input GST Recoverable,Other Current Asset,VEND-002,BoxPro Materials,0,0,Finance,Mumbai,Synthetic operating expense
+2025-06-14,JRN-9408,Expense,ZE-8013,EXPREF-8013,ICICI Bank Current A/c,Bank,VEND-002,BoxPro Materials,0,51000,Finance,Mumbai,Synthetic operating expense
+2025-06-13,JRN-9409,Expense,ZE-8014,EXPREF-8014,Repairs & Maintenance,Expense,VEND-006,FastTrack Transport,50000,0,Administration,Kolkata,Synthetic operating expense
+2025-06-13,JRN-9409,Expense,ZE-8014,EXPREF-8014,Input GST Recoverable,Other Current Asset,VEND-006,FastTrack Transport,9000,0,Administration,Kolkata,Synthetic operating expense
+2025-06-13,JRN-9409,Expense,ZE-8014,EXPREF-8014,HDFC Bank Current A/c,Bank,VEND-006,FastTrack Transport,0,59000,Administration,Kolkata,Synthetic operating expense
+2025-06-05,JRN-9410,Expense,ZE-8015,EXPREF-8015,Marketing Expense,Expense,VEND-007,Global Packaging,67000,0,Finance,Ahmedabad,Synthetic operating expense
+2025-06-05,JRN-9410,Expense,ZE-8015,EXPREF-8015,Input GST Recoverable,Other Current Asset,VEND-007,Global Packaging,3350,0,Finance,Ahmedabad,Synthetic operating expense
+2025-06-05,JRN-9410,Expense,ZE-8015,EXPREF-8015,HDFC Bank Current A/c,Bank,VEND-007,Global Packaging,0,70350,Finance,Ahmedabad,Synthetic operating expense
+2025-06-13,JRN-9411,Expense,ZE-8016,EXPREF-8016,Marketing Expense,Expense,VEND-006,FastTrack Transport,55000,0,Administration,Ahmedabad,Synthetic operating expense
+2025-06-13,JRN-9411,Expense,ZE-8016,EXPREF-8016,Input GST Recoverable,Other Current Asset,VEND-006,FastTrack Transport,2750,0,Administration,Ahmedabad,Synthetic operating expense
+2025-06-13,JRN-9411,Expense,ZE-8016,EXPREF-8016,ICICI Bank Current A/c,Bank,VEND-006,FastTrack Transport,0,57750,Administration,Ahmedabad,Synthetic operating expense
+2025-06-05,JRN-9412,Expense,ZE-8017,EXPREF-8017,Office Supplies,Expense,VEND-006,FastTrack Transport,43000,0,Sales,Kolkata,Synthetic operating expense
+2025-06-05,JRN-9412,Expense,ZE-8017,EXPREF-8017,Input GST Recoverable,Other Current Asset,VEND-006,FastTrack Transport,0,0,Sales,Kolkata,Synthetic operating expense
+2025-06-05,JRN-9412,Expense,ZE-8017,EXPREF-8017,ICICI Bank Current A/c,Bank,VEND-006,FastTrack Transport,0,43000,Sales,Kolkata,Synthetic operating expense
+2025-06-16,JRN-9413,Expense,ZE-8018,EXPREF-8018,Travel Expense,Expense,VEND-005,Evergreen Technologies,43000,0,Administration,Delhi,Synthetic operating expense
+2025-06-16,JRN-9413,Expense,ZE-8018,EXPREF-8018,Input GST Recoverable,Other Current Asset,VEND-005,Evergreen Technologies,2150,0,Administration,Delhi,Synthetic operating expense
+2025-06-16,JRN-9413,Expense,ZE-8018,EXPREF-8018,HDFC Bank Current A/c,Bank,VEND-005,Evergreen Technologies,0,45150,Administration,Delhi,Synthetic operating expense
+2025-07-04,JRN-9414,Expense,ZE-8019,EXPREF-8019,Office Supplies,Expense,VEND-003,Crest Logistics,52000,0,Operations,Bengaluru,Synthetic operating expense
+2025-07-04,JRN-9414,Expense,ZE-8019,EXPREF-8019,Input GST Recoverable,Other Current Asset,VEND-003,Crest Logistics,9360,0,Operations,Bengaluru,Synthetic operating expense
+2025-07-04,JRN-9414,Expense,ZE-8019,EXPREF-8019,HDFC Bank Current A/c,Bank,VEND-003,Crest Logistics,0,61360,Operations,Bengaluru,Synthetic operating expense
+2025-07-24,JRN-9415,Expense,ZE-8020,EXPREF-8020,Office Supplies,Expense,VEND-004,Dyna Services,54000,0,Technology,Mumbai,Synthetic operating expense
+2025-07-24,JRN-9415,Expense,ZE-8020,EXPREF-8020,Input GST Recoverable,Other Current Asset,VEND-004,Dyna Services,2700,0,Technology,Mumbai,Synthetic operating expense
+2025-07-24,JRN-9415,Expense,ZE-8020,EXPREF-8020,ICICI Bank Current A/c,Bank,VEND-004,Dyna Services,0,56700,Technology,Mumbai,Synthetic operating expense
+2025-07-01,JRN-9416,Expense,ZE-8021,EXPREF-8021,Marketing Expense,Expense,VEND-001,Alpha Supplies Pvt Ltd,56000,0,Administration,Bengaluru,Synthetic operating expense
+2025-07-01,JRN-9416,Expense,ZE-8021,EXPREF-8021,Input GST Recoverable,Other Current Asset,VEND-001,Alpha Supplies Pvt Ltd,2800,0,Administration,Bengaluru,Synthetic operating expense
+2025-07-01,JRN-9416,Expense,ZE-8021,EXPREF-8021,ICICI Bank Current A/c,Bank,VEND-001,Alpha Supplies Pvt Ltd,0,58800,Administration,Bengaluru,Synthetic operating expense
+2025-07-01,JRN-9417,Expense,ZE-8022,EXPREF-8022,Software Subscription,Expense,VEND-007,Global Packaging,52000,0,Sales,Mumbai,Synthetic operating expense
+2025-07-01,JRN-9417,Expense,ZE-8022,EXPREF-8022,Input GST Recoverable,Other Current Asset,VEND-007,Global Packaging,0,0,Sales,Mumbai,Synthetic operating expense
+2025-07-01,JRN-9417,Expense,ZE-8022,EXPREF-8022,HDFC Bank Current A/c,Bank,VEND-007,Global Packaging,0,52000,Sales,Mumbai,Synthetic operating expense
+2025-07-18,JRN-9418,Expense,ZE-8023,EXPREF-8023,Marketing Expense,Expense,VEND-007,Global Packaging,85000,0,Finance,Ahmedabad,Synthetic operating expense
+2025-07-18,JRN-9418,Expense,ZE-8023,EXPREF-8023,Input GST Recoverable,Other Current Asset,VEND-007,Global Packaging,4250,0,Finance,Ahmedabad,Synthetic operating expense
+2025-07-18,JRN-9418,Expense,ZE-8023,EXPREF-8023,HDFC Bank Current A/c,Bank,VEND-007,Global Packaging,0,89250,Finance,Ahmedabad,Synthetic operating expense
+2025-07-05,JRN-9419,Expense,ZE-8024,EXPREF-8024,Repairs & Maintenance,Expense,VEND-008,Horizon Security,15000,0,Operations,Mumbai,Synthetic operating expense
+2025-07-05,JRN-9419,Expense,ZE-8024,EXPREF-8024,Input GST Recoverable,Other Current Asset,VEND-008,Horizon Security,750,0,Operations,Mumbai,Synthetic operating expense
+2025-07-05,JRN-9419,Expense,ZE-8024,EXPREF-8024,HDFC Bank Current A/c,Bank,VEND-008,Horizon Security,0,15750,Operations,Mumbai,Synthetic operating expense
+2025-08-01,JRN-9420,Expense,ZE-8025,EXPREF-8025,Travel Expense,Expense,VEND-007,Global Packaging,36000,0,Sales,Bengaluru,Synthetic operating expense
+2025-08-01,JRN-9420,Expense,ZE-8025,EXPREF-8025,Input GST Recoverable,Other Current Asset,VEND-007,Global Packaging,1800,0,Sales,Bengaluru,Synthetic operating expense
+2025-08-01,JRN-9420,Expense,ZE-8025,EXPREF-8025,ICICI Bank Current A/c,Bank,VEND-007,Global Packaging,0,37800,Sales,Bengaluru,Synthetic operating expense
+2025-08-14,JRN-9421,Expense,ZE-8026,EXPREF-8026,Software Subscription,Expense,VEND-003,Crest Logistics,43000,0,Technology,Delhi,Synthetic operating expense
+2025-08-14,JRN-9421,Expense,ZE-8026,EXPREF-8026,Input GST Recoverable,Other Current Asset,VEND-003,Crest Logistics,0,0,Technology,Delhi,Synthetic operating expense
+2025-08-14,JRN-9421,Expense,ZE-8026,EXPREF-8026,ICICI Bank Current A/c,Bank,VEND-003,Crest Logistics,0,43000,Technology,Delhi,Synthetic operating expense
+2025-08-21,JRN-9422,Expense,ZE-8027,EXPREF-8027,Marketing Expense,Expense,VEND-002,BoxPro Materials,58000,0,Finance,Kolkata,Synthetic operating expense
+2025-08-21,JRN-9422,Expense,ZE-8027,EXPREF-8027,Input GST Recoverable,Other Current Asset,VEND-002,BoxPro Materials,10440,0,Finance,Kolkata,Synthetic operating expense
+2025-08-21,JRN-9422,Expense,ZE-8027,EXPREF-8027,ICICI Bank Current A/c,Bank,VEND-002,BoxPro Materials,0,68440,Finance,Kolkata,Synthetic operating expense
+2025-08-04,JRN-9423,Expense,ZE-8028,EXPREF-8028,Software Subscription,Expense,VEND-001,Alpha Supplies Pvt Ltd,25000,0,Operations,Kolkata,Synthetic operating expense
+2025-08-04,JRN-9423,Expense,ZE-8028,EXPREF-8028,Input GST Recoverable,Other Current Asset,VEND-001,Alpha Supplies Pvt Ltd,0,0,Operations,Kolkata,Synthetic operating expense
+2025-08-04,JRN-9423,Expense,ZE-8028,EXPREF-8028,HDFC Bank Current A/c,Bank,VEND-001,Alpha Supplies Pvt Ltd,0,25000,Operations,Kolkata,Synthetic operating expense
+2025-08-06,JRN-9424,Expense,ZE-8029,EXPREF-8029,Marketing Expense,Expense,VEND-002,BoxPro Materials,29000,0,Technology,Bengaluru,Synthetic operating expense
+2025-08-06,JRN-9424,Expense,ZE-8029,EXPREF-8029,Input GST Recoverable,Other Current Asset,VEND-002,BoxPro Materials,1450,0,Technology,Bengaluru,Synthetic operating expense
+2025-08-06,JRN-9424,Expense,ZE-8029,EXPREF-8029,ICICI Bank Current A/c,Bank,VEND-002,BoxPro Materials,0,30450,Technology,Bengaluru,Synthetic operating expense
+2025-08-16,JRN-9425,Expense,ZE-8030,EXPREF-8030,Software Subscription,Expense,VEND-008,Horizon Security,60000,0,Administration,Bengaluru,Synthetic operating expense
+2025-08-16,JRN-9425,Expense,ZE-8030,EXPREF-8030,Input GST Recoverable,Other Current Asset,VEND-008,Horizon Security,10800,0,Administration,Bengaluru,Synthetic operating expense
+2025-08-16,JRN-9425,Expense,ZE-8030,EXPREF-8030,ICICI Bank Current A/c,Bank,VEND-008,Horizon Security,0,70800,Administration,Bengaluru,Synthetic operating expense
+2025-09-05,JRN-9426,Expense,ZE-8031,EXPREF-8031,Software Subscription,Expense,VEND-008,Horizon Security,55000,0,Administration,Bengaluru,Synthetic operating expense
+2025-09-05,JRN-9426,Expense,ZE-8031,EXPREF-8031,Input GST Recoverable,Other Current Asset,VEND-008,Horizon Security,9900,0,Administration,Bengaluru,Synthetic operating expense
+2025-09-05,JRN-9426,Expense,ZE-8031,EXPREF-8031,HDFC Bank Current A/c,Bank,VEND-008,Horizon Security,0,64900,Administration,Bengaluru,Synthetic operating expense
+2025-09-18,JRN-9427,Expense,ZE-8032,EXPREF-8032,Travel Expense,Expense,VEND-002,BoxPro Materials,42000,0,Administration,Kolkata,Synthetic operating expense
+2025-09-18,JRN-9427,Expense,ZE-8032,EXPREF-8032,Input GST Recoverable,Other Current Asset,VEND-002,BoxPro Materials,2100,0,Administration,Kolkata,Synthetic operating expense
+2025-09-18,JRN-9427,Expense,ZE-8032,EXPREF-8032,HDFC Bank Current A/c,Bank,VEND-002,BoxPro Materials,0,44100,Administration,Kolkata,Synthetic operating expense
+2025-09-10,JRN-9428,Expense,ZE-8033,EXPREF-8033,Office Supplies,Expense,VEND-005,Evergreen Technologies,40000,0,Sales,Bengaluru,Synthetic operating expense
+2025-09-10,JRN-9428,Expense,ZE-8033,EXPREF-8033,Input GST Recoverable,Other Current Asset,VEND-005,Evergreen Technologies,7200,0,Sales,Bengaluru,Synthetic operating expense
+2025-09-10,JRN-9428,Expense,ZE-8033,EXPREF-8033,HDFC Bank Current A/c,Bank,VEND-005,Evergreen Technologies,0,47200,Sales,Bengaluru,Synthetic operating expense
+2025-09-09,JRN-9429,Expense,ZE-8034,EXPREF-8034,Software Subscription,Expense,VEND-003,Crest Logistics,40000,0,Finance,Ahmedabad,Synthetic operating expense
+2025-09-09,JRN-9429,Expense,ZE-8034,EXPREF-8034,Input GST Recoverable,Other Current Asset,VEND-003,Crest Logistics,0,0,Finance,Ahmedabad,Synthetic operating expense
+2025-09-09,JRN-9429,Expense,ZE-8034,EXPREF-8034,HDFC Bank Current A/c,Bank,VEND-003,Crest Logistics,0,40000,Finance,Ahmedabad,Synthetic operating expense
+2025-09-16,JRN-9430,Expense,ZE-8035,EXPREF-8035,Travel Expense,Expense,VEND-008,Horizon Security,41000,0,Administration,Delhi,Synthetic operating expense
+2025-09-16,JRN-9430,Expense,ZE-8035,EXPREF-8035,Input GST Recoverable,Other Current Asset,VEND-008,Horizon Security,2050,0,Administration,Delhi,Synthetic operating expense
+2025-09-16,JRN-9430,Expense,ZE-8035,EXPREF-8035,HDFC Bank Current A/c,Bank,VEND-008,Horizon Security,0,43050,Administration,Delhi,Synthetic operating expense
+2025-09-04,JRN-9431,Expense,ZE-8036,EXPREF-8036,Repairs & Maintenance,Expense,VEND-005,Evergreen Technologies,48000,0,Sales,Kolkata,Synthetic operating expense
+2025-09-04,JRN-9431,Expense,ZE-8036,EXPREF-8036,Input GST Recoverable,Other Current Asset,VEND-005,Evergreen Technologies,0,0,Sales,Kolkata,Synthetic operating expense
+2025-09-04,JRN-9431,Expense,ZE-8036,EXPREF-8036,HDFC Bank Current A/c,Bank,VEND-005,Evergreen Technologies,0,48000,Sales,Kolkata,Synthetic operating expense
+2025-10-19,JRN-9432,Expense,ZE-8037,EXPREF-8037,Software Subscription,Expense,VEND-005,Evergreen Technologies,32000,0,Sales,Delhi,Synthetic operating expense
+2025-10-19,JRN-9432,Expense,ZE-8037,EXPREF-8037,Input GST Recoverable,Other Current Asset,VEND-005,Evergreen Technologies,1600,0,Sales,Delhi,Synthetic operating expense
+2025-10-19,JRN-9432,Expense,ZE-8037,EXPREF-8037,ICICI Bank Current A/c,Bank,VEND-005,Evergreen Technologies,0,33600,Sales,Delhi,Synthetic operating expense
+2025-10-13,JRN-9433,Expense,ZE-8038,EXPREF-8038,Office Supplies,Expense,VEND-004,Dyna Services,51000,0,Finance,Bengaluru,Synthetic operating expense
+2025-10-13,JRN-9433,Expense,ZE-8038,EXPREF-8038,Input GST Recoverable,Other Current Asset,VEND-004,Dyna Services,9180,0,Finance,Bengaluru,Synthetic operating expense
+2025-10-13,JRN-9433,Expense,ZE-8038,EXPREF-8038,ICICI Bank Current A/c,Bank,VEND-004,Dyna Services,0,60180,Finance,Bengaluru,Synthetic operating expense
+2025-10-24,JRN-9434,Expense,ZE-8039,EXPREF-8039,Repairs & Maintenance,Expense,VEND-004,Dyna Services,44000,0,Operations,Bengaluru,Synthetic operating expense
+2025-10-24,JRN-9434,Expense,ZE-8039,EXPREF-8039,Input GST Recoverable,Other Current Asset,VEND-004,Dyna Services,7920,0,Operations,Bengaluru,Synthetic operating expense
+2025-10-24,JRN-9434,Expense,ZE-8039,EXPREF-8039,HDFC Bank Current A/c,Bank,VEND-004,Dyna Services,0,51920,Operations,Bengaluru,Synthetic operating expense
+2025-10-19,JRN-9435,Expense,ZE-8040,EXPREF-8040,Travel Expense,Expense,VEND-001,Alpha Supplies Pvt Ltd,10000,0,Administration,Kolkata,Synthetic operating expense
+2025-10-19,JRN-9435,Expense,ZE-8040,EXPREF-8040,Input GST Recoverable,Other Current Asset,VEND-001,Alpha Supplies Pvt Ltd,0,0,Administration,Kolkata,Synthetic operating expense
+2025-10-19,JRN-9435,Expense,ZE-8040,EXPREF-8040,HDFC Bank Current A/c,Bank,VEND-001,Alpha Supplies Pvt Ltd,0,10000,Administration,Kolkata,Synthetic operating expense
+2025-10-12,JRN-9436,Expense,ZE-8041,EXPREF-8041,Repairs & Maintenance,Expense,VEND-002,BoxPro Materials,24000,0,Finance,Kolkata,Synthetic operating expense
+2025-10-12,JRN-9436,Expense,ZE-8041,EXPREF-8041,Input GST Recoverable,Other Current Asset,VEND-002,BoxPro Materials,0,0,Finance,Kolkata,Synthetic operating expense
+2025-10-12,JRN-9436,Expense,ZE-8041,EXPREF-8041,ICICI Bank Current A/c,Bank,VEND-002,BoxPro Materials,0,24000,Finance,Kolkata,Synthetic operating expense
+2025-10-02,JRN-9437,Expense,ZE-8042,EXPREF-8042,Marketing Expense,Expense,VEND-002,BoxPro Materials,75000,0,Technology,Mumbai,Synthetic operating expense
+2025-10-02,JRN-9437,Expense,ZE-8042,EXPREF-8042,Input GST Recoverable,Other Current Asset,VEND-002,BoxPro Materials,0,0,Technology,Mumbai,Synthetic operating expense
+2025-10-02,JRN-9437,Expense,ZE-8042,EXPREF-8042,HDFC Bank Current A/c,Bank,VEND-002,BoxPro Materials,0,75000,Technology,Mumbai,Synthetic operating expense
+2025-11-03,JRN-9438,Expense,ZE-8043,EXPREF-8043,Office Supplies,Expense,VEND-007,Global Packaging,73000,0,Finance,Bengaluru,Synthetic operating expense
+2025-11-03,JRN-9438,Expense,ZE-8043,EXPREF-8043,Input GST Recoverable,Other Current Asset,VEND-007,Global Packaging,3650,0,Finance,Bengaluru,Synthetic operating expense
+2025-11-03,JRN-9438,Expense,ZE-8043,EXPREF-8043,ICICI Bank Current A/c,Bank,VEND-007,Global Packaging,0,76650,Finance,Bengaluru,Synthetic operating expense
+2025-11-15,JRN-9439,Expense,ZE-8044,EXPREF-8044,Repairs & Maintenance,Expense,VEND-005,Evergreen Technologies,79000,0,Sales,Kolkata,Synthetic operating expense
+2025-11-15,JRN-9439,Expense,ZE-8044,EXPREF-8044,Input GST Recoverable,Other Current Asset,VEND-005,Evergreen Technologies,0,0,Sales,Kolkata,Synthetic operating expense
+2025-11-15,JRN-9439,Expense,ZE-8044,EXPREF-8044,ICICI Bank Current A/c,Bank,VEND-005,Evergreen Technologies,0,79000,Sales,Kolkata,Synthetic operating expense
+2025-11-05,JRN-9440,Expense,ZE-8045,EXPREF-8045,Office Supplies,Expense,VEND-002,BoxPro Materials,18000,0,Operations,Mumbai,Synthetic operating expense
+2025-11-05,JRN-9440,Expense,ZE-8045,EXPREF-8045,Input GST Recoverable,Other Current Asset,VEND-002,BoxPro Materials,3240,0,Operations,Mumbai,Synthetic operating expense
+2025-11-05,JRN-9440,Expense,ZE-8045,EXPREF-8045,ICICI Bank Current A/c,Bank,VEND-002,BoxPro Materials,0,21240,Operations,Mumbai,Synthetic operating expense
+2025-11-26,JRN-9441,Expense,ZE-8046,EXPREF-8046,Travel Expense,Expense,VEND-002,BoxPro Materials,24000,0,Sales,Ahmedabad,Synthetic operating expense
+2025-11-26,JRN-9441,Expense,ZE-8046,EXPREF-8046,Input GST Recoverable,Other Current Asset,VEND-002,BoxPro Materials,4320,0,Sales,Ahmedabad,Synthetic operating expense
+2025-11-26,JRN-9441,Expense,ZE-8046,EXPREF-8046,ICICI Bank Current A/c,Bank,VEND-002,BoxPro Materials,0,28320,Sales,Ahmedabad,Synthetic operating expense
+2025-11-01,JRN-9442,Expense,ZE-8047,EXPREF-8047,Office Supplies,Expense,VEND-007,Global Packaging,20000,0,Administration,Kolkata,Synthetic operating expense
+2025-11-01,JRN-9442,Expense,ZE-8047,EXPREF-8047,Input GST Recoverable,Other Current Asset,VEND-007,Global Packaging,1000,0,Administration,Kolkata,Synthetic operating expense
+2025-11-01,JRN-9442,Expense,ZE-8047,EXPREF-8047,ICICI Bank Current A/c,Bank,VEND-007,Global Packaging,0,21000,Administration,Kolkata,Synthetic operating expense
+2025-11-26,JRN-9443,Expense,ZE-8048,EXPREF-8048,Software Subscription,Expense,VEND-001,Alpha Supplies Pvt Ltd,30000,0,Technology,Ahmedabad,Synthetic operating expense
+2025-11-26,JRN-9443,Expense,ZE-8048,EXPREF-8048,Input GST Recoverable,Other Current Asset,VEND-001,Alpha Supplies Pvt Ltd,0,0,Technology,Ahmedabad,Synthetic operating expense
+2025-11-26,JRN-9443,Expense,ZE-8048,EXPREF-8048,HDFC Bank Current A/c,Bank,VEND-001,Alpha Supplies Pvt Ltd,0,30000,Technology,Ahmedabad,Synthetic operating expense
+2025-12-21,JRN-9444,Expense,ZE-8049,EXPREF-8049,Marketing Expense,Expense,VEND-001,Alpha Supplies Pvt Ltd,67000,0,Technology,Bengaluru,Synthetic operating expense
+2025-12-21,JRN-9444,Expense,ZE-8049,EXPREF-8049,Input GST Recoverable,Other Current Asset,VEND-001,Alpha Supplies Pvt Ltd,0,0,Technology,Bengaluru,Synthetic operating expense
+2025-12-21,JRN-9444,Expense,ZE-8049,EXPREF-8049,ICICI Bank Current A/c,Bank,VEND-001,Alpha Supplies Pvt Ltd,0,67000,Technology,Bengaluru,Synthetic operating expense
+2025-12-08,JRN-9445,Expense,ZE-8050,EXPREF-8050,Software Subscription,Expense,VEND-007,Global Packaging,54000,0,Technology,Ahmedabad,Synthetic operating expense
+2025-12-08,JRN-9445,Expense,ZE-8050,EXPREF-8050,Input GST Recoverable,Other Current Asset,VEND-007,Global Packaging,9720,0,Technology,Ahmedabad,Synthetic operating expense
+2025-12-08,JRN-9445,Expense,ZE-8050,EXPREF-8050,HDFC Bank Current A/c,Bank,VEND-007,Global Packaging,0,63720,Technology,Ahmedabad,Synthetic operating expense
+2025-12-01,JRN-9446,Expense,ZE-8051,EXPREF-8051,Office Supplies,Expense,VEND-006,FastTrack Transport,38000,0,Administration,Kolkata,Synthetic operating expense
+2025-12-01,JRN-9446,Expense,ZE-8051,EXPREF-8051,Input GST Recoverable,Other Current Asset,VEND-006,FastTrack Transport,0,0,Administration,Kolkata,Synthetic operating expense
+2025-12-01,JRN-9446,Expense,ZE-8051,EXPREF-8051,ICICI Bank Current A/c,Bank,VEND-006,FastTrack Transport,0,38000,Administration,Kolkata,Synthetic operating expense
+2025-12-02,JRN-9447,Expense,ZE-8052,EXPREF-8052,Office Supplies,Expense,VEND-005,Evergreen Technologies,19000,0,Finance,Ahmedabad,Synthetic operating expense
+2025-12-02,JRN-9447,Expense,ZE-8052,EXPREF-8052,Input GST Recoverable,Other Current Asset,VEND-005,Evergreen Technologies,950,0,Finance,Ahmedabad,Synthetic operating expense
+2025-12-02,JRN-9447,Expense,ZE-8052,EXPREF-8052,ICICI Bank Current A/c,Bank,VEND-005,Evergreen Technologies,0,19950,Finance,Ahmedabad,Synthetic operating expense
+2025-12-21,JRN-9448,Expense,ZE-8053,EXPREF-8053,Software Subscription,Expense,VEND-002,BoxPro Materials,29000,0,Finance,Delhi,Synthetic operating expense
+2025-12-21,JRN-9448,Expense,ZE-8053,EXPREF-8053,Input GST Recoverable,Other Current Asset,VEND-002,BoxPro Materials,5220,0,Finance,Delhi,Synthetic operating expense
+2025-12-21,JRN-9448,Expense,ZE-8053,EXPREF-8053,HDFC Bank Current A/c,Bank,VEND-002,BoxPro Materials,0,34220,Finance,Delhi,Synthetic operating expense
+2025-12-06,JRN-9449,Expense,ZE-8054,EXPREF-8054,Travel Expense,Expense,VEND-002,BoxPro Materials,72000,0,Finance,Kolkata,Synthetic operating expense
+2025-12-06,JRN-9449,Expense,ZE-8054,EXPREF-8054,Input GST Recoverable,Other Current Asset,VEND-002,BoxPro Materials,3600,0,Finance,Kolkata,Synthetic operating expense
+2025-12-06,JRN-9449,Expense,ZE-8054,EXPREF-8054,ICICI Bank Current A/c,Bank,VEND-002,BoxPro Materials,0,75600,Finance,Kolkata,Synthetic operating expense
+2026-01-06,JRN-9450,Expense,ZE-8055,EXPREF-8055,Office Supplies,Expense,VEND-008,Horizon Security,15000,0,Technology,Bengaluru,Synthetic operating expense
+2026-01-06,JRN-9450,Expense,ZE-8055,EXPREF-8055,Input GST Recoverable,Other Current Asset,VEND-008,Horizon Security,0,0,Technology,Bengaluru,Synthetic operating expense
+2026-01-06,JRN-9450,Expense,ZE-8055,EXPREF-8055,ICICI Bank Current A/c,Bank,VEND-008,Horizon Security,0,15000,Technology,Bengaluru,Synthetic operating expense
+2026-01-23,JRN-9451,Expense,ZE-8056,EXPREF-8056,Software Subscription,Expense,VEND-003,Crest Logistics,26000,0,Administration,Delhi,Synthetic operating expense
+2026-01-23,JRN-9451,Expense,ZE-8056,EXPREF-8056,Input GST Recoverable,Other Current Asset,VEND-003,Crest Logistics,1300,0,Administration,Delhi,Synthetic operating expense
+2026-01-23,JRN-9451,Expense,ZE-8056,EXPREF-8056,HDFC Bank Current A/c,Bank,VEND-003,Crest Logistics,0,27300,Administration,Delhi,Synthetic operating expense
+2026-01-12,JRN-9452,Expense,ZE-8057,EXPREF-8057,Marketing Expense,Expense,VEND-005,Evergreen Technologies,23000,0,Technology,Delhi,Synthetic operating expense
+2026-01-12,JRN-9452,Expense,ZE-8057,EXPREF-8057,Input GST Recoverable,Other Current Asset,VEND-005,Evergreen Technologies,1150,0,Technology,Delhi,Synthetic operating expense
+2026-01-12,JRN-9452,Expense,ZE-8057,EXPREF-8057,HDFC Bank Current A/c,Bank,VEND-005,Evergreen Technologies,0,24150,Technology,Delhi,Synthetic operating expense
+2026-01-01,JRN-9453,Expense,ZE-8058,EXPREF-8058,Office Supplies,Expense,VEND-005,Evergreen Technologies,77000,0,Sales,Mumbai,Synthetic operating expense
+2026-01-01,JRN-9453,Expense,ZE-8058,EXPREF-8058,Input GST Recoverable,Other Current Asset,VEND-005,Evergreen Technologies,13860,0,Sales,Mumbai,Synthetic operating expense
+2026-01-01,JRN-9453,Expense,ZE-8058,EXPREF-8058,ICICI Bank Current A/c,Bank,VEND-005,Evergreen Technologies,0,90860,Sales,Mumbai,Synthetic operating expense
+2026-01-04,JRN-9454,Expense,ZE-8059,EXPREF-8059,Software Subscription,Expense,VEND-005,Evergreen Technologies,38000,0,Operations,Bengaluru,Synthetic operating expense
+2026-01-04,JRN-9454,Expense,ZE-8059,EXPREF-8059,Input GST Recoverable,Other Current Asset,VEND-005,Evergreen Technologies,1900,0,Operations,Bengaluru,Synthetic operating expense
+2026-01-04,JRN-9454,Expense,ZE-8059,EXPREF-8059,HDFC Bank Current A/c,Bank,VEND-005,Evergreen Technologies,0,39900,Operations,Bengaluru,Synthetic operating expense
+2026-01-24,JRN-9455,Expense,ZE-8060,EXPREF-8060,Software Subscription,Expense,VEND-004,Dyna Services,14000,0,Sales,Ahmedabad,Synthetic operating expense
+2026-01-24,JRN-9455,Expense,ZE-8060,EXPREF-8060,Input GST Recoverable,Other Current Asset,VEND-004,Dyna Services,700,0,Sales,Ahmedabad,Synthetic operating expense
+2026-01-24,JRN-9455,Expense,ZE-8060,EXPREF-8060,HDFC Bank Current A/c,Bank,VEND-004,Dyna Services,0,14700,Sales,Ahmedabad,Synthetic operating expense
+2026-02-15,JRN-9456,Expense,ZE-8061,EXPREF-8061,Travel Expense,Expense,VEND-006,FastTrack Transport,55000,0,Operations,Kolkata,Synthetic operating expense
+2026-02-15,JRN-9456,Expense,ZE-8061,EXPREF-8061,Input GST Recoverable,Other Current Asset,VEND-006,FastTrack Transport,0,0,Operations,Kolkata,Synthetic operating expense
+2026-02-15,JRN-9456,Expense,ZE-8061,EXPREF-8061,HDFC Bank Current A/c,Bank,VEND-006,FastTrack Transport,0,55000,Operations,Kolkata,Synthetic operating expense
+2026-02-06,JRN-9457,Expense,ZE-8062,EXPREF-8062,Marketing Expense,Expense,VEND-002,BoxPro Materials,21000,0,Operations,Ahmedabad,Synthetic operating expense
+2026-02-06,JRN-9457,Expense,ZE-8062,EXPREF-8062,Input GST Recoverable,Other Current Asset,VEND-002,BoxPro Materials,3780,0,Operations,Ahmedabad,Synthetic operating expense
+2026-02-06,JRN-9457,Expense,ZE-8062,EXPREF-8062,ICICI Bank Current A/c,Bank,VEND-002,BoxPro Materials,0,24780,Operations,Ahmedabad,Synthetic operating expense
+2026-02-05,JRN-9458,Expense,ZE-8063,EXPREF-8063,Marketing Expense,Expense,VEND-003,Crest Logistics,55000,0,Finance,Bengaluru,Synthetic operating expense
+2026-02-05,JRN-9458,Expense,ZE-8063,EXPREF-8063,Input GST Recoverable,Other Current Asset,VEND-003,Crest Logistics,9900,0,Finance,Bengaluru,Synthetic operating expense
+2026-02-05,JRN-9458,Expense,ZE-8063,EXPREF-8063,ICICI Bank Current A/c,Bank,VEND-003,Crest Logistics,0,64900,Finance,Bengaluru,Synthetic operating expense
+2026-02-05,JRN-9459,Expense,ZE-8064,EXPREF-8064,Travel Expense,Expense,VEND-007,Global Packaging,47000,0,Sales,Mumbai,Synthetic operating expense
+2026-02-05,JRN-9459,Expense,ZE-8064,EXPREF-8064,Input GST Recoverable,Other Current Asset,VEND-007,Global Packaging,8460,0,Sales,Mumbai,Synthetic operating expense
+2026-02-05,JRN-9459,Expense,ZE-8064,EXPREF-8064,ICICI Bank Current A/c,Bank,VEND-007,Global Packaging,0,55460,Sales,Mumbai,Synthetic operating expense
+2026-02-21,JRN-9460,Expense,ZE-8065,EXPREF-8065,Marketing Expense,Expense,VEND-005,Evergreen Technologies,73000,0,Sales,Bengaluru,Synthetic operating expense
+2026-02-21,JRN-9460,Expense,ZE-8065,EXPREF-8065,Input GST Recoverable,Other Current Asset,VEND-005,Evergreen Technologies,0,0,Sales,Bengaluru,Synthetic operating expense
+2026-02-21,JRN-9460,Expense,ZE-8065,EXPREF-8065,HDFC Bank Current A/c,Bank,VEND-005,Evergreen Technologies,0,73000,Sales,Bengaluru,Synthetic operating expense
+2026-02-01,JRN-9461,Expense,ZE-8066,EXPREF-8066,Repairs & Maintenance,Expense,VEND-006,FastTrack Transport,40000,0,Finance,Ahmedabad,Synthetic operating expense
+2026-02-01,JRN-9461,Expense,ZE-8066,EXPREF-8066,Input GST Recoverable,Other Current Asset,VEND-006,FastTrack Transport,0,0,Finance,Ahmedabad,Synthetic operating expense
+2026-02-01,JRN-9461,Expense,ZE-8066,EXPREF-8066,ICICI Bank Current A/c,Bank,VEND-006,FastTrack Transport,0,40000,Finance,Ahmedabad,Synthetic operating expense
+2026-03-25,JRN-9462,Expense,ZE-8067,EXPREF-8067,Travel Expense,Expense,VEND-001,Alpha Supplies Pvt Ltd,46000,0,Finance,Delhi,Synthetic operating expense
+2026-03-25,JRN-9462,Expense,ZE-8067,EXPREF-8067,Input GST Recoverable,Other Current Asset,VEND-001,Alpha Supplies Pvt Ltd,0,0,Finance,Delhi,Synthetic operating expense
+2026-03-25,JRN-9462,Expense,ZE-8067,EXPREF-8067,HDFC Bank Current A/c,Bank,VEND-001,Alpha Supplies Pvt Ltd,0,46000,Finance,Delhi,Synthetic operating expense
+2026-03-08,JRN-9463,Expense,ZE-8068,EXPREF-8068,Travel Expense,Expense,VEND-004,Dyna Services,63000,0,Administration,Ahmedabad,Synthetic operating expense
+2026-03-08,JRN-9463,Expense,ZE-8068,EXPREF-8068,Input GST Recoverable,Other Current Asset,VEND-004,Dyna Services,3150,0,Administration,Ahmedabad,Synthetic operating expense
+2026-03-08,JRN-9463,Expense,ZE-8068,EXPREF-8068,HDFC Bank Current A/c,Bank,VEND-004,Dyna Services,0,66150,Administration,Ahmedabad,Synthetic operating expense
+2026-03-15,JRN-9464,Expense,ZE-8069,EXPREF-8069,Office Supplies,Expense,VEND-007,Global Packaging,25000,0,Technology,Mumbai,Synthetic operating expense
+2026-03-15,JRN-9464,Expense,ZE-8069,EXPREF-8069,Input GST Recoverable,Other Current Asset,VEND-007,Global Packaging,1250,0,Technology,Mumbai,Synthetic operating expense
+2026-03-15,JRN-9464,Expense,ZE-8069,EXPREF-8069,HDFC Bank Current A/c,Bank,VEND-007,Global Packaging,0,26250,Technology,Mumbai,Synthetic operating expense
+2026-03-20,JRN-9465,Expense,ZE-8070,EXPREF-8070,Marketing Expense,Expense,VEND-001,Alpha Supplies Pvt Ltd,11000,0,Administration,Kolkata,Synthetic operating expense
+2026-03-20,JRN-9465,Expense,ZE-8070,EXPREF-8070,Input GST Recoverable,Other Current Asset,VEND-001,Alpha Supplies Pvt Ltd,0,0,Administration,Kolkata,Synthetic operating expense
+2026-03-20,JRN-9465,Expense,ZE-8070,EXPREF-8070,ICICI Bank Current A/c,Bank,VEND-001,Alpha Supplies Pvt Ltd,0,11000,Administration,Kolkata,Synthetic operating expense
+2026-03-14,JRN-9466,Expense,ZE-8071,EXPREF-8071,Travel Expense,Expense,VEND-003,Crest Logistics,26000,0,Technology,Bengaluru,Synthetic operating expense
+2026-03-14,JRN-9466,Expense,ZE-8071,EXPREF-8071,Input GST Recoverable,Other Current Asset,VEND-003,Crest Logistics,1300,0,Technology,Bengaluru,Synthetic operating expense
+2026-03-14,JRN-9466,Expense,ZE-8071,EXPREF-8071,HDFC Bank Current A/c,Bank,VEND-003,Crest Logistics,0,27300,Technology,Bengaluru,Synthetic operating expense
+2026-03-22,JRN-9467,Expense,ZE-8072,EXPREF-8072,Travel Expense,Expense,VEND-005,Evergreen Technologies,41000,0,Sales,Bengaluru,Synthetic operating expense
+2026-03-22,JRN-9467,Expense,ZE-8072,EXPREF-8072,Input GST Recoverable,Other Current Asset,VEND-005,Evergreen Technologies,2050,0,Sales,Bengaluru,Synthetic operating expense
+2026-03-22,JRN-9467,Expense,ZE-8072,EXPREF-8072,ICICI Bank Current A/c,Bank,VEND-005,Evergreen Technologies,0,43050,Sales,Bengaluru,Synthetic operating expense

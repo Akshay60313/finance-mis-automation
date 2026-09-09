@@ -1,0 +1,78 @@
+Payment ID,Payment Number,Payment Date,Vendor ID,Vendor Name,Bill ID,Bill Number,Amount Applied,Currency Code,Payment Mode,Reference Number,Paid Through,Branch,Notes
+ZVP-6001,VPAY-6001,2025-04-18,VEND-001,Alpha Supplies Pvt Ltd,ZB-2002,BILL-2002,190297.42,INR,Cheque,UTR81705044,HDFC Bank Current A/c,Bengaluru,Payment applied to bill
+ZVP-6002,VPAY-6002,2025-05-03,VEND-001,Alpha Supplies Pvt Ltd,ZB-2003,BILL-2003,229511.18,INR,Cheque,UTR50047317,HDFC Bank Current A/c,Bengaluru,Payment applied to bill
+ZVP-6003,VPAY-6003,2025-05-12,VEND-008,Horizon Security,ZB-2004,BILL-2004,308508.64,INR,Cheque,UTR60099213,HDFC Bank Current A/c,Ahmedabad,Payment applied to bill
+ZVP-6004,VPAY-6004,2025-05-23,VEND-004,Dyna Services,ZB-2005,BILL-2005,28489.92,INR,Bank Transfer,UTR51757844,ICICI Bank Current A/c,Ahmedabad,Payment applied to bill
+ZVP-6005,VPAY-6005,2025-05-31,VEND-008,Horizon Security,ZB-2006,BILL-2006,123776.1,INR,Bank Transfer,UTR23794384,ICICI Bank Current A/c,Bengaluru,Payment applied to bill
+ZVP-6006,VPAY-6006,2025-04-27,VEND-001,Alpha Supplies Pvt Ltd,ZB-2008,BILL-2008,40016.16,INR,Cheque,UTR78268585,ICICI Bank Current A/c,Mumbai,Payment applied to bill
+ZVP-6007,VPAY-6007,2025-05-18,VEND-006,FastTrack Transport,ZB-2009,BILL-2009,112240.42,INR,Bank Transfer,UTR90141547,ICICI Bank Current A/c,Kolkata,Payment applied to bill
+ZVP-6008,VPAY-6008,2025-06-16,VEND-001,Alpha Supplies Pvt Ltd,ZB-2010,BILL-2010,135826.26,INR,Bank Transfer,UTR63708140,HDFC Bank Current A/c,Delhi,Payment applied to bill
+ZVP-6009,VPAY-6009,2025-06-15,VEND-003,Crest Logistics,ZB-2011,BILL-2011,75402,INR,Cheque,UTR37481817,ICICI Bank Current A/c,Delhi,Payment applied to bill
+ZVP-6010,VPAY-6010,2025-06-09,VEND-005,Evergreen Technologies,ZB-2012,BILL-2012,204416.12,INR,Bank Transfer,UTR33058802,HDFC Bank Current A/c,Delhi,Payment applied to bill
+ZVP-6011,VPAY-6011,2025-06-17,VEND-007,Global Packaging,ZB-2013,BILL-2013,47676.72,INR,Bank Transfer,UTR64176318,HDFC Bank Current A/c,Delhi,Payment applied to bill
+ZVP-6012,VPAY-6012,2025-06-10,VEND-004,Dyna Services,ZB-2015,BILL-2015,192816.72,INR,Cheque,UTR56146131,HDFC Bank Current A/c,Kolkata,Payment applied to bill
+ZVP-6013,VPAY-6013,2025-06-18,VEND-002,BoxPro Materials,ZB-2016,BILL-2016,63814.4,INR,Cheque,UTR73955313,ICICI Bank Current A/c,Mumbai,Payment applied to bill
+ZVP-6014,VPAY-6014,2025-08-02,VEND-002,BoxPro Materials,ZB-2017,BILL-2017,210335,INR,Cheque,UTR69535356,HDFC Bank Current A/c,Ahmedabad,Payment applied to bill
+ZVP-6015,VPAY-6015,2025-07-08,VEND-001,Alpha Supplies Pvt Ltd,ZB-2018,BILL-2018,29537.76,INR,Cheque,UTR31560322,HDFC Bank Current A/c,Ahmedabad,Payment applied to bill
+ZVP-6016,VPAY-6016,2025-07-05,VEND-002,BoxPro Materials,ZB-2019,BILL-2019,117820.64,INR,Bank Transfer,UTR74429408,HDFC Bank Current A/c,Bengaluru,Payment applied to bill
+ZVP-6017,VPAY-6017,2025-07-13,VEND-004,Dyna Services,ZB-2020,BILL-2020,149295.96,INR,Cheque,UTR63616678,ICICI Bank Current A/c,Bengaluru,Payment applied to bill
+ZVP-6018,VPAY-6018,2025-07-24,VEND-006,FastTrack Transport,ZB-2021,BILL-2021,58064.85,INR,Cheque,UTR56733686,ICICI Bank Current A/c,Bengaluru,Payment applied to bill
+ZVP-6019,VPAY-6019,2025-07-22,VEND-007,Global Packaging,ZB-2022,BILL-2022,38057.36,INR,Bank Transfer,UTR26086238,ICICI Bank Current A/c,Ahmedabad,Payment applied to bill
+ZVP-6020,VPAY-6020,2025-07-29,VEND-007,Global Packaging,ZB-2023,BILL-2023,197107.2,INR,Bank Transfer,UTR51006545,ICICI Bank Current A/c,Kolkata,Payment applied to bill
+ZVP-6021,VPAY-6021,2025-08-16,VEND-001,Alpha Supplies Pvt Ltd,ZB-2025,BILL-2025,22461.3,INR,Bank Transfer,UTR31754389,ICICI Bank Current A/c,Delhi,Payment applied to bill
+ZVP-6022,VPAY-6022,2025-07-23,VEND-008,Horizon Security,ZB-2026,BILL-2026,61289.2,INR,Bank Transfer,UTR69108246,ICICI Bank Current A/c,Bengaluru,Payment applied to bill
+ZVP-6023,VPAY-6023,2025-07-16,VEND-005,Evergreen Technologies,ZB-2027,BILL-2027,40535.36,INR,Cheque,UTR62338698,ICICI Bank Current A/c,Bengaluru,Payment applied to bill
+ZVP-6024,VPAY-6024,2025-08-05,VEND-001,Alpha Supplies Pvt Ltd,ZB-2029,BILL-2029,26315.77,INR,Bank Transfer,UTR78734388,ICICI Bank Current A/c,Delhi,Payment applied to bill
+ZVP-6025,VPAY-6025,2025-08-18,VEND-007,Global Packaging,ZB-2031,BILL-2031,148079.38,INR,Cheque,UTR69656996,ICICI Bank Current A/c,Delhi,Payment applied to bill
+ZVP-6026,VPAY-6026,2025-08-14,VEND-002,BoxPro Materials,ZB-2034,BILL-2034,181389.6,INR,Cheque,UTR78503252,ICICI Bank Current A/c,Delhi,Payment applied to bill
+ZVP-6027,VPAY-6027,2025-08-30,VEND-003,Crest Logistics,ZB-2035,BILL-2035,58782.29,INR,Cheque,UTR15194445,HDFC Bank Current A/c,Kolkata,Payment applied to bill
+ZVP-6028,VPAY-6028,2025-08-17,VEND-006,FastTrack Transport,ZB-2036,BILL-2036,176553.96,INR,Bank Transfer,UTR23169651,HDFC Bank Current A/c,Mumbai,Payment applied to bill
+ZVP-6029,VPAY-6029,2025-08-26,VEND-001,Alpha Supplies Pvt Ltd,ZB-2037,BILL-2037,91975.1,INR,Cheque,UTR74060992,ICICI Bank Current A/c,Mumbai,Payment applied to bill
+ZVP-6030,VPAY-6030,2025-08-31,VEND-008,Horizon Security,ZB-2038,BILL-2038,43770.92,INR,Bank Transfer,UTR16949814,HDFC Bank Current A/c,Ahmedabad,Payment applied to bill
+ZVP-6031,VPAY-6031,2025-08-26,VEND-003,Crest Logistics,ZB-2039,BILL-2039,57411.72,INR,Cheque,UTR22835074,HDFC Bank Current A/c,Kolkata,Payment applied to bill
+ZVP-6032,VPAY-6032,2025-11-02,VEND-003,Crest Logistics,ZB-2041,BILL-2041,75574.28,INR,Cheque,UTR70442950,ICICI Bank Current A/c,Mumbai,Payment applied to bill
+ZVP-6033,VPAY-6033,2025-09-12,VEND-005,Evergreen Technologies,ZB-2042,BILL-2042,21730.88,INR,Bank Transfer,UTR89181123,HDFC Bank Current A/c,Bengaluru,Payment applied to bill
+ZVP-6034,VPAY-6034,2025-10-15,VEND-003,Crest Logistics,ZB-2044,BILL-2044,225881.5,INR,Bank Transfer,UTR84962395,ICICI Bank Current A/c,Mumbai,Payment applied to bill
+ZVP-6035,VPAY-6035,2025-10-24,VEND-003,Crest Logistics,ZB-2045,BILL-2045,69911.46,INR,Bank Transfer,UTR43118740,HDFC Bank Current A/c,Delhi,Payment applied to bill
+ZVP-6036,VPAY-6036,2025-10-09,VEND-008,Horizon Security,ZB-2046,BILL-2046,80255.34,INR,Bank Transfer,UTR15584763,ICICI Bank Current A/c,Mumbai,Payment applied to bill
+ZVP-6037,VPAY-6037,2025-09-30,VEND-003,Crest Logistics,ZB-2047,BILL-2047,28659.84,INR,Bank Transfer,UTR31568325,HDFC Bank Current A/c,Kolkata,Payment applied to bill
+ZVP-6038,VPAY-6038,2025-09-24,VEND-001,Alpha Supplies Pvt Ltd,ZB-2048,BILL-2048,20694.84,INR,Bank Transfer,UTR99325330,HDFC Bank Current A/c,Kolkata,Payment applied to bill
+ZVP-6039,VPAY-6039,2025-11-19,VEND-007,Global Packaging,ZB-2049,BILL-2049,72545.22,INR,Cheque,UTR82634943,HDFC Bank Current A/c,Kolkata,Payment applied to bill
+ZVP-6040,VPAY-6040,2025-12-06,VEND-002,BoxPro Materials,ZB-2050,BILL-2050,11844.84,INR,Cheque,UTR38964265,HDFC Bank Current A/c,Ahmedabad,Payment applied to bill
+ZVP-6041,VPAY-6041,2025-11-21,VEND-005,Evergreen Technologies,ZB-2051,BILL-2051,51188.4,INR,Cheque,UTR98228708,ICICI Bank Current A/c,Kolkata,Payment applied to bill
+ZVP-6042,VPAY-6042,2025-11-15,VEND-001,Alpha Supplies Pvt Ltd,ZB-2052,BILL-2052,181040.32,INR,Cheque,UTR63554323,ICICI Bank Current A/c,Mumbai,Payment applied to bill
+ZVP-6043,VPAY-6043,2025-10-26,VEND-001,Alpha Supplies Pvt Ltd,ZB-2054,BILL-2054,56073.6,INR,Cheque,UTR70594738,HDFC Bank Current A/c,Mumbai,Payment applied to bill
+ZVP-6044,VPAY-6044,2025-11-03,VEND-006,FastTrack Transport,ZB-2055,BILL-2055,125976.8,INR,Bank Transfer,UTR91977497,HDFC Bank Current A/c,Delhi,Payment applied to bill
+ZVP-6045,VPAY-6045,2025-11-24,VEND-006,FastTrack Transport,ZB-2056,BILL-2056,49394.8,INR,Cheque,UTR82617282,ICICI Bank Current A/c,Delhi,Payment applied to bill
+ZVP-6046,VPAY-6046,2025-12-20,VEND-002,BoxPro Materials,ZB-2058,BILL-2058,190171.16,INR,Bank Transfer,UTR13527659,HDFC Bank Current A/c,Bengaluru,Payment applied to bill
+ZVP-6047,VPAY-6047,2025-11-12,VEND-001,Alpha Supplies Pvt Ltd,ZB-2059,BILL-2059,43612.8,INR,Bank Transfer,UTR16751126,HDFC Bank Current A/c,Mumbai,Payment applied to bill
+ZVP-6048,VPAY-6048,2025-12-01,VEND-007,Global Packaging,ZB-2060,BILL-2060,94447.2,INR,Bank Transfer,UTR92769891,HDFC Bank Current A/c,Kolkata,Payment applied to bill
+ZVP-6049,VPAY-6049,2026-01-02,VEND-001,Alpha Supplies Pvt Ltd,ZB-2062,BILL-2062,38232,INR,Cheque,UTR60600761,HDFC Bank Current A/c,Mumbai,Payment applied to bill
+ZVP-6050,VPAY-6050,2025-12-18,VEND-003,Crest Logistics,ZB-2063,BILL-2063,38099.84,INR,Bank Transfer,UTR22256014,ICICI Bank Current A/c,Mumbai,Payment applied to bill
+ZVP-6051,VPAY-6051,2025-12-23,VEND-001,Alpha Supplies Pvt Ltd,ZB-2064,BILL-2064,162840,INR,Bank Transfer,UTR35487674,ICICI Bank Current A/c,Delhi,Payment applied to bill
+ZVP-6052,VPAY-6052,2025-12-25,VEND-008,Horizon Security,ZB-2065,BILL-2065,115437.04,INR,Cheque,UTR53644262,ICICI Bank Current A/c,Delhi,Payment applied to bill
+ZVP-6053,VPAY-6053,2026-01-12,VEND-002,BoxPro Materials,ZB-2066,BILL-2066,92524.98,INR,Cheque,UTR90844949,HDFC Bank Current A/c,Kolkata,Payment applied to bill
+ZVP-6054,VPAY-6054,2026-01-28,VEND-002,BoxPro Materials,ZB-2067,BILL-2067,45170.4,INR,Cheque,UTR81232899,ICICI Bank Current A/c,Bengaluru,Payment applied to bill
+ZVP-6055,VPAY-6055,2026-01-19,VEND-003,Crest Logistics,ZB-2070,BILL-2070,49748.8,INR,Cheque,UTR39625973,HDFC Bank Current A/c,Delhi,Payment applied to bill
+ZVP-6056,VPAY-6056,2025-12-24,VEND-007,Global Packaging,ZB-2071,BILL-DUP-01,36863.2,INR,Bank Transfer,UTR16365790,ICICI Bank Current A/c,Ahmedabad,Payment applied to bill
+ZVP-6057,VPAY-6057,2026-02-10,VEND-003,Crest Logistics,ZB-2072,BILL-DUP-01,53130.68,INR,Cheque,UTR27027342,HDFC Bank Current A/c,Kolkata,Payment applied to bill
+ZVP-6058,VPAY-6058,2026-02-08,VEND-005,Evergreen Technologies,ZB-2073,BILL-2073,53189.68,INR,Bank Transfer,UTR58076758,ICICI Bank Current A/c,Kolkata,Payment applied to bill
+ZVP-6059,VPAY-6059,2026-01-18,VEND-003,Crest Logistics,ZB-2074,BILL-2074,23664.9,INR,Cheque,UTR83218970,ICICI Bank Current A/c,Bengaluru,Payment applied to bill
+ZVP-6060,VPAY-6060,2026-02-17,VEND-008,Horizon Security,ZB-2075,BILL-2075,208822.24,INR,Cheque,UTR19347575,HDFC Bank Current A/c,Bengaluru,Payment applied to bill
+ZVP-6061,VPAY-6061,2026-02-05,VEND-006,FastTrack Transport,ZB-2076,BILL-2076,59645.46,INR,Bank Transfer,UTR64270062,ICICI Bank Current A/c,Delhi,Payment applied to bill
+ZVP-6062,VPAY-6062,2026-02-06,VEND-007,Global Packaging,ZB-2077,BILL-2077,144916.98,INR,Cheque,UTR11710502,ICICI Bank Current A/c,Kolkata,Payment applied to bill
+ZVP-6063,VPAY-6063,2026-01-25,VEND-002,BoxPro Materials,ZB-2078,BILL-2078,157080.42,INR,Cheque,UTR99151951,ICICI Bank Current A/c,Ahmedabad,Payment applied to bill
+ZVP-6064,VPAY-6064,2026-03-04,VEND-005,Evergreen Technologies,ZB-2079,BILL-2079,24086.16,INR,Bank Transfer,UTR48027104,ICICI Bank Current A/c,Bengaluru,Payment applied to bill
+ZVP-6065,VPAY-6065,2026-03-15,VEND-004,Dyna Services,ZB-2080,BILL-2080,52125.32,INR,Cheque,UTR16384011,ICICI Bank Current A/c,Ahmedabad,Payment applied to bill
+ZVP-6066,VPAY-6066,2026-03-28,VEND-005,Evergreen Technologies,ZB-2081,BILL-2081,212549.86,INR,Bank Transfer,UTR68903757,ICICI Bank Current A/c,Delhi,Payment applied to bill
+ZVP-6067,VPAY-6067,2026-02-11,VEND-008,Horizon Security,ZB-2082,BILL-2082,84464.4,INR,Cheque,UTR47421089,ICICI Bank Current A/c,Ahmedabad,Payment applied to bill
+ZVP-6068,VPAY-6068,2026-03-11,VEND-008,Horizon Security,ZB-2083,BILL-2083,96528.72,INR,Bank Transfer,UTR98954814,ICICI Bank Current A/c,Bengaluru,Payment applied to bill
+ZVP-6069,VPAY-6069,2026-03-08,VEND-003,Crest Logistics,ZB-2085,BILL-2085,71935.16,INR,Bank Transfer,UTR59712130,HDFC Bank Current A/c,Mumbai,Payment applied to bill
+ZVP-6070,VPAY-6070,2026-03-25,VEND-001,Alpha Supplies Pvt Ltd,ZB-2087,BILL-2087,179407.2,INR,Cheque,UTR28449893,ICICI Bank Current A/c,Kolkata,Payment applied to bill
+ZVP-6071,VPAY-6071,2026-02-24,VEND-002,BoxPro Materials,ZB-2088,BILL-2088,78145.5,INR,Cheque,UTR89799956,HDFC Bank Current A/c,Mumbai,Payment applied to bill
+ZVP-6072,VPAY-6072,2026-03-25,VEND-008,Horizon Security,ZB-2089,BILL-2089,16154.2,INR,Cheque,UTR45074453,ICICI Bank Current A/c,Delhi,Payment applied to bill
+ZVP-6073,VPAY-6073,2026-03-31,VEND-008,Horizon Security,ZB-2090,BILL-2090,35656.06,INR,Cheque,UTR94638967,HDFC Bank Current A/c,Mumbai,Payment applied to bill
+ZVP-6074,VPAY-6074,2026-03-18,VEND-002,BoxPro Materials,ZB-2091,BILL-2091,42931.35,INR,Cheque,UTR84367696,HDFC Bank Current A/c,Bengaluru,Payment applied to bill
+ZVP-6075,VPAY-6075,2026-03-31,VEND-006,FastTrack Transport,ZB-2092,BILL-2092,17756.64,INR,Bank Transfer,UTR24511250,ICICI Bank Current A/c,Bengaluru,Payment applied to bill
+ZVP-6076,VPAY-6076,2026-03-18,VEND-003,Crest Logistics,ZB-2093,BILL-2093,173330.2,INR,Cheque,UTR25410149,ICICI Bank Current A/c,Kolkata,Payment applied to bill
+ZVP-6077,VPAY-6077,2026-03-28,VEND-007,Global Packaging,ZB-2095,BILL-2095,72739.92,INR,Bank Transfer,UTR96646190,HDFC Bank Current A/c,Kolkata,Payment applied to bill
