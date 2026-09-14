@@ -1,5 +1,34 @@
 # Automated Finance MIS Pipeline
 
+## Live Finance MIS Application
+
+🔗 **[Launch the Streamlit App](https://akshayfinancemis.streamlit.app)**
+
+![Zoho Finance MIS Automation Demo](screenshots/streamlit_demo.gif)
+
+### Overview
+
+This project automates the conversion of seven Zoho Books-style exports into a validated, reconciled and downloadable multi-tab Excel MIS pack.
+
+**Workflow:** Zoho exports → Python validation → SQL processing → financial controls → Excel MIS → browser download
+
+### Reports Generated
+
+- Executive Summary and P&L
+- Budget versus Actual
+- AR and AP Ageing
+- Customer and Vendor Outstanding
+- Data Exception Report
+
+### Demonstration Results
+
+- 2,171 source records processed
+- 26 controlled data exceptions
+- ₹0.00 general-ledger difference
+- Automated Excel output through a public Streamlit application
+
+> The demonstration uses synthetic financial data. Do not upload confidential company information to the public application.
+
 An end-to-end finance reporting project that converts Zoho-style accounting exports into a validated MySQL data model and a management-ready Excel MIS.
 
 > This repository uses synthetic demonstration data. It does not contain confidential company, customer or vendor information.
