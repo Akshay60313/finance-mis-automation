@@ -2,9 +2,10 @@
 
 ## Live Finance MIS Application
 
-🔗 **[Launch the Streamlit App](https://akshayfinancemis.streamlit.app)**
 
-▶️ [Watch the Zoho Finance MIS Automation Demo](screenshots/streamlit_demo.mp4)
+🔗 [Launch Zoho Finance MIS Automation](https://akshayfinancemis.streamlit.app)
+
+▶️ [Watch the Demo Video](screenshots/streamlit_demo.mp4)
 
 ### Overview
 
