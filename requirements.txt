@@ -4,3 +4,4 @@ SQLAlchemy>=2.0,<3.0
 mysql-connector-python>=9.0,<10.0
 python-dotenv>=1.0,<2.0
 openpyxl>=3.1,<4.0
+streamlit>=1.40,<2.0
