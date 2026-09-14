@@ -4,7 +4,7 @@
 
 🔗 **[Launch the Streamlit App](https://akshayfinancemis.streamlit.app)**
 
-![Zoho Finance MIS Automation Demo](screenshots/streamlit_demo.gif)
+▶️ [Watch the Zoho Finance MIS Automation Demo](screenshots/streamlit_demo.mp4)
 
 ### Overview
 
