@@ -5,7 +5,7 @@
 
 🔗 [Launch Zoho Finance MIS Automation](https://akshayfinancemis.streamlit.app)
 
-▶️ [Watch the Demo Video](screenshots/streamlit_demo.mp4)
+▶️ [Watch the Demo Video](https://raw.githubusercontent.com/Akshay60313/finance-mis-automation/main/screenshots/streamlit_demo.mp4)
 
 ### Overview
 
